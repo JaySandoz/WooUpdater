@@ -45,7 +45,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How much CBD is in each can of CBDLiving's Sparkling Water?\", \"answer\": \"Each can contains 25mg of CBD.\"}, {\"question\": \"Is CBDLiving's Sparkling Water gluten-free?\", \"answer\": \"Yes, CBDLiving's Sparkling Water is gluten-free.\"}, {\"question\": \"Does CBDLiving's Sparkling Water contain any sugar?\", \"answer\": \"No, CBDLiving's Sparkling Water is sugar-free.\"}, {\"question\": \"Is CBDLiving's Sparkling Water vegan-friendly?\", \"answer\": \"Yes, CBDLiving's Sparkling Water is vegan-friendly.\"}, {\"question\": \"Does CBDLiving's Sparkling Water contain THC?\", \"answer\": \"No, CBDLiving's Sparkling Water is THC-free.\"}, {\"question\": \"Is CBDLiving's Sparkling Water safe for pregnant or breastfeeding women?\", \"answer\": \"No, CBDLiving's Sparkling Water is not recommended for pregnant or\\nbreastfeeding women.\"}, {\"question\": \"Is CBDLiving's Sparkling Water safe for children?\", \"answer\": \"No, CBDLiving's Sparkling Water is not recommended for children under the\\nage of 18.\"}]"
 
 # Benefits
 
@@ -57,7 +57,7 @@
 
 # Brands
 
-None
+CBDLiving
 
 # Tags
 

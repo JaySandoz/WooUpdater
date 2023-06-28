@@ -81,7 +81,7 @@ A: Yes, Redwood Reserves-Loosie-Menthol is rigorously tested and certified for q
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

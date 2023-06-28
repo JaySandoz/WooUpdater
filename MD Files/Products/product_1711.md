@@ -84,7 +84,7 @@ What Is the Endocannabinoid System?<br />
 
 
 # FAQ
-[]
+"[{\"question\": \"How many Turmeric & Spirulina CBD Gummies should I take?\", \"answer\": \"We recommend taking one gummy per day, or as needed. Each gummy contains\\n25mg of broad-spectrum CBD, so you can adjust your dosage as needed.\"}, {\"question\": \"Are CBDfx's Turmeric & Spirulina CBD Gummies vegan?\", \"answer\": \"Yes, our gummies are vegan, non-GMO, and free of artificial sweeteners,\\ncolors, and flavors.\"}, {\"question\": \"Are CBDfx's Turmeric & Spirulina CBD Gummies safe to take?\", \"answer\": \"Yes, our gummies are safe to take as directed. As with any supplement, it\\nis recommended that you consult your healthcare provider before taking any new\\nproducts.\"}, {\"question\": \"Is there any THC in CBDfx's Turmeric & Spirulina CBD Gummies?\", \"answer\": \"No, our gummies are made with broad-spectrum CBD, which means that they are\\nfree from THC.\"}, {\"question\": \"Where can I find the lab results for CBDfx's Turmeric & Spirulina CBD\\nGummies?\", \"answer\": \"You can find the lab results for our Turmeric & Spirulina CBD Gummies here:\\n[insert link].\"}, {\"question\": \"Are CBDfx's Turmeric & Spirulina CBD Gummies certified by the US Hemp\\nAuthority?\", \"answer\": \"Yes, we are certified by the US Hemp Authority, meaning that our products\\nmeet the highest standards of quality and safety.\"}]"
 
 # Benefits
 
@@ -96,7 +96,7 @@ What Is the Endocannabinoid System?<br />
 
 # Brands
 
-None
+CBDFx
 
 # Tags
 

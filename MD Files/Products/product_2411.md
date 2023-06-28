@@ -56,7 +56,7 @@ View lab results here<br />
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Delta 8 Flower?\", \"answer\": \"Delta 8 Flower is a premium strain of CBD flower that is rich in Delta 8\\nTHC, CBG, CBC, and CBDV. It is carefully cultivated with the highest-quality\\ningredients and provides all the benefits of CBD without the high.\"}, {\"question\": \"What are the benefits of Delta 8 Flower?\", \"answer\": \"Delta 8 Flower provides all the benefits of CBD without the psychoactive\\neffects of THC. It is also rich in other cannabinoids, including CBG, CBC, and\\nCBDV, providing a full-spectrum entourage effect.\"}, {\"question\": \"How should I use Delta 8 Flower?\", \"answer\": \"Delta 8 Flower can be smoked or vaporized, or it can be used to make\\nedibles or tinctures.\"}, {\"question\": \"Is Delta 8 Flower safe to use?\", \"answer\": \"Delta 8 Flower is a safe and effective product when used as directed. It is\\nimportant to note that Delta 8 Flower contains Delta 8 THC, so it is not\\nrecommended for those who are pregnant, breastfeeding, or under the age of 18.\\nIt is also important to consult with a healthcare professional prior to use.\"}, {\"question\": \"Does Delta 8 Living test their products for purity and potency?\", \"answer\": \"Yes, Delta 8 Living is committed to providing the highest-quality products.\\nAll of their products are lab-tested for purity and potency, and the lab\\nresults are available on their website.\"}, {\"question\": \"Are Delta 8 Living products certified by the US Hemp Authority?\", \"answer\": \"Yes, Delta 8 Living is certified by the US Hemp Authority and is compliant\\nwith all applicable laws and regulations.\"}]"
 
 # Benefits
 
@@ -68,7 +68,7 @@ View lab results here<br />
 
 # Brands
 
-None
+Delta8 Living
 
 # Tags
 

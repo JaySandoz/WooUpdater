@@ -39,7 +39,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"1.\", \"answer\": \"What are Amanita Mushrooms?\"}, {\"question\": \"Amanita Mushrooms, also known as Amanita Muscaria or fly agaric mushrooms, are a type of fungi known for their iconic white bodies and red or yellow caps. They contain the psychoactive alkaloids muscarine and ibotenic acid, which provide a unique, psychedelic experience.\\n  2.\", \"answer\": \"How many Watermelon Moon Shrooms Amanita Mushroom Gummies should I take?\"}, {\"question\": \"For first-time users, we recommend starting with half (175mg) or a single gummy (350mg). The effects can vary depending on the individual, so it's advisable to start with a lower dose and gradually adjust as needed.\\n  3.\", \"answer\": \"Are Amanita Mushroom Gummies legal?\"}, {\"question\": \"Amanita Mushroom Gummies are mostly legal as they do not contain psilocybin, which is a controlled substance. However, some states have restrictions due to their hallucinogenic properties, so it's essential to check your state's laws before purchasing.\\n  4.\", \"answer\": \"When should I take these gummies?\"}, {\"question\": \"As these gummies can affect your alertness and perceptions, it's best to take them when you're in a safe and comfortable space, free from responsibilities. The effects can last up to 6 hours.\\n  5.\", \"answer\": \"What can I expect when taking these gummies?\"}, {\"question\": \"These gummies provide a mild psychedelic experience, often described as \\\"chill\\\" and \\\"relaxing.\\\" Users report a dream-like state, relaxation, better sleep quality, and potentially highly vivid dreams.\\n  6.\", \"answer\": \"Are there any safety concerns with these gummies?\"}, {\"question\": \"Always consult with a healthcare professional before starting any new supplement regimen, including Amanita Mushroom Gummies. Do not operate heavy machinery or drive while under the influence of these gummies.\\n  7.\", \"answer\": \"How long does it take to feel the effects?\"}, {\"question\": \"Typically, the effects set in within 30 to 90 minutes of consumption and can last up to 6 hours.\\n  8.\", \"answer\": \"Can I use these gummies for stress relief or relaxation?\"}]"
 
 # Benefits
 
@@ -51,7 +51,7 @@
 
 # Brands
 
-None
+Galaxy Treats
 
 # Tags
 

@@ -45,7 +45,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the HoneyRoot Wellness Delta 8 Disposable Vape Pen?\", \"answer\": \"The\\nHoneyRoot Wellness Delta 8 Disposable Vape Pen is an easy-to-use vape pen that\\nallows users to experience the benefits of Delta-8 THC in a convenient and\\nenjoyable manner. It's made with top-tier ingredients and houses a\\nmeticulously formulated mix of hemp extract and terpenes that offer a seamless\\nand enjoyable vaping experience.\"}, {\"question\": \"What ingredients are in the HoneyRoot Wellness Delta 8 Disposable Vape\\nPen?\", \"answer\": \"The HoneyRoot Wellness Delta 8 Disposable Vape Pen contains a\\nprecise blend of hemp extract and terpenes that make for a smooth and\\nenjoyable vaping experience. The pen contains Delta-8 THC, and a proprietary\\nblend of terpenes, all of which are lab-tested to ensure quality and\\nconsistency.\"}, {\"question\": \"Is the HoneyRoot Wellness Delta 8 Disposable Vape Pen safe to use?\", \"answer\": \"Yes, the HoneyRoot Wellness Delta 8 Disposable Vape Pen is a safe product when\\nused responsibly. However, it's important to note that it may cause\\npsychotropic effects and is not intended for use by individuals under the age\\nof 21.\"}]"
 
 # Benefits
 

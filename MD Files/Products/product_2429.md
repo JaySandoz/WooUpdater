@@ -38,7 +38,7 @@ Answer: Smoking Dog's 100MG D9 THC Shot is crafted with high-quality ingredients
 
 
 # FAQ
-[]
+"[]"
 
 # Benefits
 

@@ -99,7 +99,7 @@ To learn more about CBD and THC, their potential health benefits, and how they c
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

@@ -43,7 +43,7 @@ A: As with any CBD or THC product, it is important to follow the recommended dos
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the ratio of CBD to THC in TR\\u0112 House - Delta 9 Gummies with CBD\\n1:1?\", \"answer\": \"Each gummy contains 10mg of CBD and 10mg of THC for a balanced 1:1 ratio.\"}, {\"question\": \"Are TR\\u0112 House - Delta 9 Gummies with CBD 1:1 gluten-free?\", \"answer\": \"Yes, all TR\\u0112 House products are certified as gluten-free.\"}, {\"question\": \"Are TR\\u0112 House - Delta 9 Gummies with CBD 1:1 vegan-friendly?\", \"answer\": \"Yes, all TR\\u0112 House products are certified as vegan-friendly.\"}, {\"question\": \"Do TR\\u0112 House - Delta 9 Gummies with CBD 1:1 contain any allergens?\", \"answer\": \"No, TR\\u0112 House - Delta 9 Gummies with CBD 1:1 are free of gluten, soy,\\ndairy, and sugar.\"}, {\"question\": \"How many gummies should I take per day?\", \"answer\": \"It is recommended to take one gummy per serving, up to three times per day.\"}, {\"question\": \"Are TR\\u0112 House - Delta 9 Gummies with CBD 1:1 non-psychoactive?\", \"answer\": \"Yes, TR\\u0112 House - Delta 9 Gummies with CBD 1:1 are non-psychoactive.\"}, {\"question\": \"Are there any side effects associated with TR\\u0112 House - Delta 9 Gummies with\\nCBD 1:1?\", \"answer\": \"As with any CBD or THC product, it is important to follow the recommended\\ndosage and consult a medical professional before use.\"}]"
 
 # Benefits
 

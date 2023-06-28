@@ -37,7 +37,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How long does a Paranoid x11 vape pen last?\", \"answer\": \"The duration of the vape pen\\ndepends on individual usage. The 2.5-gram capacity offers long-lasting\\nsessions.\"}, {\"question\": \"Are the alternative THC isomers in Paranoid x11 safe?\", \"answer\": \"Paranoid x11 is\\ncarefully crafted with quality ingredients. However, as with any THC product,\\nit is important to consume responsibly and in accordance with local laws and\\nregulations.\"}, {\"question\": \"Can I refill the Paranoid x11 vape pen?\", \"answer\": \"Paranoid x11 vape pens are\\ndesigned for one-time use only and cannot be refilled.\"}, {\"question\": \"Are lab results available for Paranoid x11?\", \"answer\": \"Yes, we prioritize\\ntransparency and provide lab results on our website to ensure the quality and\\nsafety of our products.\"}, {\"question\": \"Is Paranoid x11 available in different flavors?\", \"answer\": \"Paranoid x11 offers a\\nvariety of flavors based on the alternative THC isomers used. Each isomer\\nprovides a unique and delightful flavor experience.\"}, {\"question\": \"Can I travel with Paranoid x11?\", \"answer\": \"Travel regulations for THC products vary\\nby jurisdiction. Familiarize yourself with local laws and guidelines before\\ntraveling with Paranoid x11.\"}, {\"question\": \"Does Paranoid x11 have any psychoactive effects?\", \"answer\": \"Paranoid x11 contains\\nTHC and may have psychoactive effects. Use responsibly and in accordance with\\nlegal requirements.\"}, {\"question\": \"Is Paranoid x11 suitable for beginners?\", \"answer\": \"Paranoid x11 is best enjoyed by\\nthose with experience in THC vaping. Start with small puffs and gradually\\nadjust according to your tolerance and preference.\"}]"
 
 # Benefits
 
@@ -49,7 +49,7 @@
 
 # Brands
 
-None
+Dozo
 
 # Tags
 

@@ -44,7 +44,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How much CBD is in the Muscle & Joint Heating Cream?\", \"answer\": \"Each application contains 5mg of CBD.\"}, {\"question\": \"How often should I use the Muscle & Joint Heating Cream?\", \"answer\": \"For best results, use the cream 2-3 times daily.\"}, {\"question\": \"Is the Muscle & Joint Heating Cream safe to use?\", \"answer\": \"Yes, the cream is safe to use topically. However, as with any product, it\\nis important to read the ingredients list before use and to check with a\\ndoctor if you have any concerns.\"}, {\"question\": \"Does the Muscle & Joint Heating Cream contain any artificial ingredients?\", \"answer\": \"No, the cream is 100% organic and free of any artificial colors or\\nfragrances.\"}, {\"question\": \"Is the Muscle & Joint Heating Cream third-party lab tested?\", \"answer\": \"Yes, all of CBDfx's products are third-party lab tested to ensure they are\\nfree from any contaminants.\"}, {\"question\": \"How long does it take for the Muscle & Joint Heating Cream to work?\", \"answer\": \"The cream provides fast relief from muscle and joint pain. Most users\\nexperience relief within minutes.\"}]"
 
 # Benefits
 
@@ -56,7 +56,7 @@
 
 # Brands
 
-None
+CBDFx
 
 # Tags
 

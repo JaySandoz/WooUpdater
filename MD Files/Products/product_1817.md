@@ -82,7 +82,7 @@ For more information about the uses and benefits of CBD, take a look at this vid
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

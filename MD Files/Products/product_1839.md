@@ -38,7 +38,7 @@ A: Yes, TRĒ House Delta 10 Gummies are vegan, gluten-free, and contain no artif
 
 
 # FAQ
-[]
+"[{\"question\": \"What are TR\\u0112 House Delta 10 Gummies?\", \"answer\": \"TR\\u0112 House Delta 10 Gummies are vegan, gluten-free gummies made with the\\nhighest quality hemp-derived Delta 10 THC and Delta 9 THC, providing you with\\na powerful combination of cannabinoids for maximum relaxation and relief.\"}, {\"question\": \"What are the benefits of TR\\u0112 House Delta 10 Gummies?\", \"answer\": \"TR\\u0112 House Delta 10 Gummies provide a mild yet effective dose of Delta 10\\nTHC and HHC, offering a variety of benefits such as anxiety relief, pain\\nrelief, relaxation, and sleep aid.\"}, {\"question\": \"How many gummies should I take?\", \"answer\": \"We recommend starting with one gummy per day and adjusting your dosage as\\nneeded.\"}, {\"question\": \"Are TR\\u0112 House Delta 10 Gummies safe?\", \"answer\": \"Yes, TR\\u0112 House Delta 10 Gummies are rigorously tested by third-party labs\\nto ensure quality and safety. However, we recommend that you consult with your\\ndoctor before taking any new products.\"}, {\"question\": \"Are TR\\u0112 House Delta 10 Gummies vegan and gluten-free?\", \"answer\": \"Yes, TR\\u0112 House Delta 10 Gummies are vegan, gluten-free, and contain no\\nartificial flavors or colors.\"}]"
 
 # Benefits
 

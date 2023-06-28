@@ -47,7 +47,7 @@ cbdMD's CBD Oil Softgel Capsules are safe to use. However, it is not recommended
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the dosage of cbdMD's CBD Oil Softgel Capsules?\", \"answer\": \"The recommended dosage is one capsule per day.\\n\\nAre cbdMD's CBD Oil Softgel Capsules vegan-friendly?\"}, {\"question\": \"Yes, cbdMD's CBD Oil Softgel Capsules are vegan-friendly.\\n\\nAre cbdMD's CBD Oil Softgel Capsules gluten-free?\", \"answer\": \"Yes, cbdMD's CBD Oil Softgel Capsules are gluten-free.\\n\\nAre cbdMD's CBD Oil Softgel Capsules tested for purity and potency?\"}, {\"question\": \"Yes, all of cbdMD's products are tested by an independent, third-party lab for\\npurity and potency.\\n\\nHow long do cbdMD's CBD Oil Softgel Capsules take to work?\", \"answer\": \"cbdMD's CBD Oil Softgel Capsules are designed to provide fast-acting relief.\\n\\nAre cbdMD's CBD Oil Softgel Capsules safe to use?\"}]"
 
 # Benefits
 
@@ -59,7 +59,7 @@ cbdMD's CBD Oil Softgel Capsules are safe to use. However, it is not recommended
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

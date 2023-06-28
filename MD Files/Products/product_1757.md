@@ -41,7 +41,7 @@ A: Yes, our Full Spectrum 3:1 CBD:CBN Drops are vegan friendly.</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"How much CBD and CBN is in each bottle?\", \"answer\": \"Each bottle contains 500mg of full spectrum CBD and 166mg of CBN, giving\\nyou a total of 666mg of cannabinoids.\"}, {\"question\": \"Is this product safe to use?\", \"answer\": \"Yes, our Full Spectrum 3:1 CBD:CBN Drops are made with the highest quality\\ningredients. We use only the purest, organically-grown hemp extract and\\ncombine it with MCT oil for maximum absorption and effectiveness. All of our\\ningredients are non-GMO and free of pesticides, solvents, and other harmful\\nchemicals. We also use a CO2 extraction process to ensure that all of our\\nproducts are safe and reliable.\"}, {\"question\": \"How do I use it?\", \"answer\": \"Simply place 1-2 drops under your tongue and hold for 30-60 seconds. You\\ncan also add the drops to your favorite beverage or food. For best results,\\nuse the drops daily before bedtime.\"}, {\"question\": \"How long does it take to work?\", \"answer\": \"Most people start to feel the effects within 10-15 minutes of taking the\\ndrops.\"}, {\"question\": \"Are there any side effects?\", \"answer\": \"Generally, no. However, it is always best to speak with your doctor before\\ntaking any supplement.\"}, {\"question\": \"Is this product vegan friendly?\", \"answer\": \"Yes, our Full Spectrum 3:1 CBD:CBN Drops are vegan friendly.\"}]"
 
 # Benefits
 

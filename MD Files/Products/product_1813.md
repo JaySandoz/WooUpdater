@@ -84,7 +84,7 @@ A: No, the cbdMD Botanicals - Creamy Cleanser is free of parabens, sulfates, and
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

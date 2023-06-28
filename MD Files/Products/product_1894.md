@@ -29,7 +29,7 @@ A: Yes, the TRĒ House Live Resin HHC Vape Pen is a safe</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the TR\\u0112 House Live Resin HHC Vape Pen?\", \"answer\": \"The TR\\u0112 House Live Resin HHC Vape Pen is an advanced vape pen that allows\\nusers to experience the benefits of THC without the harshness associated with\\nsmoking. It's made with top-tier ingredients and houses a meticulously\\nformulated mix of cannabinoids and terpenes that offer a seamless and\\nenjoyable vaping experience.\"}, {\"question\": \"What ingredients are in the TR\\u0112 House Live Resin HHC Vape Pen?\", \"answer\": \"The TR\\u0112 House Live Resin HHC Vape Pen contains a precise blend of\\ncannabinoids and terpenes that make for a smooth and enjoyable vaping\\nexperience. The pen contains Hexahydrocannabinol (HHC), a highly potent semi-\\nsynthetic form of THC, and a proprietary blend of terpenes, all of which are\\nlab-tested to ensure quality and consistency.\"}, {\"question\": \"Is the TR\\u0112 House Live Resin HHC Vape Pen safe to use?\", \"answer\": \"Yes, the TR\\u0112 House Live Resin HHC Vape Pen is a safe\"}]"
 
 # Benefits
 

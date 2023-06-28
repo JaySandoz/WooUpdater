@@ -46,7 +46,7 @@ A: Relax CBD Gummies can help reduce stress and anxiety, while also promoting a 
 
 
 # FAQ
-[]
+"[{\"question\": \"How many Relax CBD Gummies should I take?\", \"answer\": \"We recommend taking one Relax CBD Gummy per day or as needed.\"}, {\"question\": \"Are Relax CBD Gummies vegan?\", \"answer\": \"Yes, Relax CBD Gummies are vegan and free from any animal products.\"}, {\"question\": \"Are Relax CBD Gummies organic?\", \"answer\": \"Yes, Relax CBD Gummies are made with organic, non-GMO hemp-derived CBD.\"}, {\"question\": \"Are Relax CBD Gummies THC-free?\", \"answer\": \"Yes, Relax CBD Gummies are THC-free.\"}, {\"question\": \"Are Relax CBD Gummies third-party tested?\", \"answer\": \"Yes, all of CBDistillery's products are third-party tested for potency and\\npurity.\"}, {\"question\": \"What are the benefits of Relax CBD Gummies?\", \"answer\": \"Relax CBD Gummies can help reduce stress and anxiety, while also promoting\\na sense of calm and relaxation.\"}]"
 
 # Benefits
 
@@ -58,7 +58,7 @@ A: Relax CBD Gummies can help reduce stress and anxiety, while also promoting a 
 
 # Brands
 
-None
+CBDistillery
 
 # Tags
 

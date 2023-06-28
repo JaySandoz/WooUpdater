@@ -33,7 +33,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"Is TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack made with organic ingredients?\", \"answer\": \"Yes, TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack is made with high-grade, organic ingredients to ensure a superior experience.\\n  *\"}, {\"question\": \"How do I use TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack?\", \"answer\": \"Using the vape pen is simple. Just remove the packaging, bring the pen to your lips, and draw in a breath to enjoy the smooth and tranquil experience.\\n  *\"}, {\"question\": \"Are there lab results available for TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack?\", \"answer\": \"Yes, all our products undergo lab-testing, and you can find the lab results on our website to ensure the highest standards of quality and safety.\"}]"
 
 # Benefits
 

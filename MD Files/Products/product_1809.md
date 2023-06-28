@@ -98,7 +98,7 @@ A: Yes, this moisturizer contains natural ingredients like organic hemp, jojoba 
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

@@ -35,7 +35,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the dosage of Paw CBD Canine Soft Chews?\", \"answer\": \"Begin with a single\\nchew each day, depending on your pet's weight, and adjust as needed.\"}, {\"question\": \"What are the benefits of Paw CBD Canine Soft Chews?\", \"answer\": \"Paw CBD Canine Soft\\nChews help manage daily stress, support physical comfort, and contribute to\\noverall wellness.\"}, {\"question\": \"Are Paw CBD Canine Soft Chews safe?\", \"answer\": \"Yes, Paw CBD Canine Soft Chews are\\nmade with natural ingredients and are THC-free*, making them safe for your\\npet.\"}, {\"question\": \"How long does it take to see results?\", \"answer\": \"Results can vary, but it's\\nimportant to maintain a consistent schedule.\"}]"
 
 # Benefits
 

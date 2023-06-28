@@ -40,7 +40,7 @@ A: We provide lab results for all of our products on our website for complete tr
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a cannabinoid found in hemp plants that is similar to Delta\\n9 THC, but with different effects. Delta 8 THC provides a smooth and balanced\\nhigh that is less intense than Delta 9 THC.\"}, {\"question\": \"How much Delta 8 THC is in each gummy?\", \"answer\": \"Each gummy contains 10mg of Delta 8 THC.\"}, {\"question\": \"Is this product compliant with federal regulations?\", \"answer\": \"Yes, our products are lab-tested to ensure they contain no more than 0.3%\\nDelta 9 THC, making them compliant with federal regulations.\"}, {\"question\": \"Is this product vegan?\", \"answer\": \"Yes, our THC-P Gummies - Mango are vegan, gluten-free, and contain no\\nartificial flavors, colors, or preservatives.\"}, {\"question\": \"How many gummies should I take?\", \"answer\": \"We recommend starting with 1-2 gummies to assess your tolerance. For best\\nresults, take 1-2 gummies as needed, up to a maximum of 10 gummies per day.\"}, {\"question\": \"Are there any side effects?\", \"answer\": \"As with all THC products, it is important to start with a low dose and\\nincrease gradually as needed. Do not take more than 10 gummies per day. Do not\\ntake if pregnant or breastfeeding. Do not drive or operate heavy machinery\\nafter taking this product.\"}, {\"question\": \"Where can I find lab results?\", \"answer\": \"We provide lab results for all of our products on our website for complete\\ntransparency.\"}]"
 
 # Benefits
 

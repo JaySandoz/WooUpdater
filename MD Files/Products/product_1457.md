@@ -40,7 +40,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the dosage of each gummy?\", \"answer\": \"Each gummy contains a precise amount of\\nCBD, enabling easy dosage customization.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies vegan-friendly?\"}, {\"question\": \"Yes, our\\ngummies are vegan-friendly.\\n\\nIs there any THC in cbdMD's Broad Spectrum Tropical Mix Gummies?\", \"answer\": \"No, our\\ngummies are THC-free.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies gluten-free?\"}, {\"question\": \"Yes, our\\ngummies are gluten-free.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies lab tested?\", \"answer\": \"Yes, our\\nproducts undergo lab testing to ensure quality and potency.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies made in the USA?\"}]"
 
 # Benefits
 
@@ -52,7 +52,7 @@
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

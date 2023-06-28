@@ -34,7 +34,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies?\", \"answer\": \"TR\\u0112 House\\u2019s\\nStrawberry Burst HHC Gummies are all-natural, plant-based gummies that are\\ndesigned to reduce stress and anxiety, while also improving your sleep. Our\\ngummies are made with premium, organic ingredients, and are THC-free, non-GMO,\\nand vegan.\"}, {\"question\": \"How many gummies should I take?\", \"answer\": \"We recommend taking one gummy per day,\\nor as directed by your healthcare provider.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies safe?\", \"answer\": \"Yes, our gummies are\\nmade with premium, organic ingredients, and are THC-free, non-GMO, and vegan.\\nAs with any dietary supplement, please consult your healthcare provider before\\ntaking our gummies.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies third-party tested?\", \"answer\": \"Yes,\\nour gummies are third-party tested to ensure they meet the highest standards\\nof quality and safety. You can check out our lab results [here](Link to Lab\\nResults).\"}, {\"question\": \"What are the benefits of taking TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies?\", \"answer\": \"Our gummies are designed to help reduce stress and anxiety, while also\\nimproving your sleep. Our gummies also provide mood-enhancing benefits,\\nhelping you relax and improve your overall wellness.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies vegan?\", \"answer\": \"Yes, our gummies are\\nvegan.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies organic?\", \"answer\": \"Yes, our gummies\\nare made with premium, organic ingredients.\"}]"
 
 # Benefits
 

@@ -11,7 +11,7 @@
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

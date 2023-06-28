@@ -40,7 +40,7 @@ A: As with all CBD/THC products, please use responsibly and consult your doctor 
 
 
 # FAQ
-[]
+"[{\"question\": \"What is in Tre House's Rainbow Runtz Prerolls?\", \"answer\": \"Tre House's Rainbow Runtz Prerolls are made with premium-grade CBD/THC\\nflowers, giving you the perfect amount of cannabinoids to enjoy your desired\\neffects.\"}, {\"question\": \"How much CBD/THC is in each preroll?\", \"answer\": \"Each preroll contains 0.7g of premium-grade CBD/THC flowers, giving you the\\nperfect amount of cannabinoids to enjoy your desired effects.\"}, {\"question\": \"Are Tre House's Rainbow Runtz Prerolls tested for potency and purity?\", \"answer\": \"Yes, Tre House's Rainbow Runtz Prerolls are tested for potency and purity,\\nensuring that you get the highest-quality product every time.\"}, {\"question\": \"Are Tre House's Rainbow Runtz Prerolls free from any additives or\\nchemicals?\", \"answer\": \"Yes, Tre House's Rainbow Runtz Prerolls are free from any additives or\\nchemicals, ensuring that you get the highest-quality product every time.\"}, {\"question\": \"How do I use Tre House's Rainbow Runtz Prerolls?\", \"answer\": \"Tre House's Rainbow Runtz Prerolls are easy to use and can be enjoyed\\nanytime, anywhere. Simply light the preroll and inhale to experience the full\\neffects of the CBD/THC.\"}, {\"question\": \"Is it safe to use Tre House's Rainbow Runtz Prerolls?\", \"answer\": \"As with all CBD/THC products, please use responsibly and consult your\\ndoctor before use. Do not drive or operate heavy machinery while using Tre\\nHouse's Rainbow Runtz Prerolls.\"}]"
 
 # Benefits
 

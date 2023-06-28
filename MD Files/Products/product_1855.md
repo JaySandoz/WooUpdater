@@ -38,7 +38,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How much THC is in each Space Ring?\", \"answer\": \"Each Space Ring contains a highly\\npotent dose of 250MG Delta 8 THC.\"}, {\"question\": \"Are Hi On Nature Space Rings vegan?\", \"answer\": \"Yes, Hi On Nature Space Rings are\\nboth vegan and gluten-free.\"}, {\"question\": \"Do Hi On Nature Space Rings have strong psychoactive effects?\", \"answer\": \"Yes, Hi On\\nNature's Highly Psychoactive Delta 8 THC Space Rings deliver a potent\\npsychoactive experience. Approach them with caution and respect their potency.\"}, {\"question\": \"How should I adjust my dosage for these highly psychoactive gummies?\", \"answer\": \"It\\nis recommended to start with a low dosage and assess your tolerance before\\nincreasing. Effects can vary from person to person.\"}, {\"question\": \"Where can I find the lab results?\", \"answer\": \"The lab results for Hi On Nature Space\\nRings can be found on the Hi On Nature website.\"}]"
 
 # Benefits
 
@@ -50,7 +50,7 @@
 
 # Brands
 
-None
+Hi On Nature
 
 # Tags
 

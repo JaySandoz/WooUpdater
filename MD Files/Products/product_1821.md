@@ -125,7 +125,7 @@ cbdMD's Clearskin Moisturizer is formulated with hemp extract, organic botanical
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

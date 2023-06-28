@@ -41,7 +41,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How much CBD is in each chew?\", \"answer\": \"Each chew contains a 25 mgof CBD.\\n\\nIs the CBD in the chews non-psychoactive?\"}, {\"question\": \"Yes, the CBD in the chews is\\nnon-psychoactive and 100% THC-free.\\n\\nAre the chews safe to use?\", \"answer\": \"Yes, the chews are safe to use. However, it is\\nimportant to consult with your physician before using them.\\n\\nHow often should I consume the chews?\"}, {\"question\": \"You can consume the chews as often\\nas needed, but we recommend starting with the least amount.\\n\\nAre the chews suitable for all ages?\", \"answer\": \"The chews are suitable for adults\\nonly.\\n\\nHow long do the chews last?\"}, {\"question\": \"The chews are designed to last for up to 40\\nnights.\\n\\nAre the chews hypoallergenic?\", \"answer\": \"Yes, the chews are hypoallergenic.\"}]"
 
 # Benefits
 

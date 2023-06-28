@@ -34,7 +34,7 @@ A: Absolutely, our gummies are vegan-friendly and gluten-free, ideal for individ
 
 
 # FAQ
-[]
+"[{\"question\": \"What is CBN?\", \"answer\": \"CBN, or Cannabinol, is a cannabinoid present in hemp and cannabis plants.\\nIt's renowned for its sleep-enhancing benefits and is often used as a natural\\nsleep aid.\"}, {\"question\": \"How many gummies should I consume?\", \"answer\": \"We advise consuming one gummy 30 minutes before bed. Do not exceed the\\nrecommended dosage.\"}, {\"question\": \"Are Slumber's Super-Potent CBN Gummies vegan and gluten-free?\", \"answer\": \"Absolutely, our gummies are vegan-friendly and gluten-free, ideal for\\nindividuals with dietary restrictions.\"}]"
 
 # Benefits
 

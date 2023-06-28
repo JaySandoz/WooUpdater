@@ -33,7 +33,7 @@
 
 
 # FAQ
-[]
+"[]"
 
 # Benefits
 
@@ -45,7 +45,7 @@
 
 # Brands
 
-None
+Galaxy Treats
 
 # Tags
 

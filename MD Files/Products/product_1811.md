@@ -46,7 +46,7 @@ cbdMD Botanicals - The Everyday Oil is made in the USA.</li>
 
 
 # FAQ
-[]
+"[]"
 
 # Benefits
 
@@ -58,7 +58,7 @@ cbdMD Botanicals - The Everyday Oil is made in the USA.</li>
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

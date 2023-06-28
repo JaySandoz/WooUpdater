@@ -41,7 +41,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the recommended dosage for cbdMD's PM Softgel Capsules?\", \"answer\": \"We\\nrecommend taking one capsule per day, about an hour before bedtime for maximum\\neffectiveness. It is important to start with a lower dosage and increase\\ngradually as needed.\"}, {\"question\": \"Are cbdMD's PM Softgel Capsules safe to use?\", \"answer\": \"Yes, our capsules are\\nthird-party tested to ensure that they are free of any contaminants and are\\nsafe to use. However, we recommend consulting with your physician before\\nstarting any new dietary supplement.\"}, {\"question\": \"Are cbdMD's PM Softgel Capsules vegan and gluten-free?\", \"answer\": \"Our capsules\\nare gluten-free and non-GMO, but they contain gelatin derived from animal\\norigins and are therefore not vegan.\"}, {\"question\": \"What are the benefits of taking cbdMD's PM Softgel Capsules?\", \"answer\": \"Our\\ncapsules are designed to help you relax and secure restful sleep. They are\\ncrafted with natural ingredients and are devoid of artificial additives or\\npreservatives. Each capsule is third-party tested to assure they are free from\\ncontaminants and safe for use.\"}, {\"question\": \"What type of hemp extract is used in cbdMD's PM Softgel Capsules?\", \"answer\": \"Our capsules are formulated with superior broad-spectrum hemp extract,\\nensuring the maximum concentration of cannabinoids, terpenes, and other\\nbeneficial compounds.\"}, {\"question\": \"Are cbdMD's PM Softgel Capsules third-party tested?\", \"answer\": \"Yes, our\\ncapsules are third-party tested to ensure that they are free of any\\ncontaminants and are safe to use.\"}]"
 
 # Benefits
 
@@ -53,7 +53,7 @@
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

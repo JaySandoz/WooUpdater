@@ -53,7 +53,7 @@ A: Yes, our Sleep CBD Gummies are suitable for vegans.</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the dosage of CBDistillery's Sleep CBD Gummies?\", \"answer\": \"Each gummy contains 10mg of CBD and 0.5mg of melatonin.\"}, {\"question\": \"Are CBDistillery's Sleep CBD Gummies safe to use?\", \"answer\": \"Yes, our Sleep CBD Gummies are safe to use and non-habit forming. However,\\nas with any supplement, it is important to consult with your healthcare\\nprovider before taking any new product.\"}, {\"question\": \"Are CBDistillery's Sleep CBD Gummies made with all-natural ingredients?\", \"answer\": \"Yes, our Sleep CBD Gummies are made with all-natural ingredients, including\\nbroad-spectrum CBD, melatonin, and natural flavors.\"}, {\"question\": \"Are CBDistillery's Sleep CBD Gummies non-habit forming?\", \"answer\": \"Yes, our Sleep CBD Gummies are non-habit forming.\"}, {\"question\": \"Where is the hemp sourced for CBDistillery's Sleep CBD Gummies?\", \"answer\": \"Our broad-spectrum CBD is sourced from hemp grown in the USA.\"}, {\"question\": \"Are CBDistillery's Sleep CBD Gummies third-party tested for purity and\\npotency?\", \"answer\": \"Yes, all of our products are third-party tested for purity and potency.\"}, {\"question\": \"Are CBDistillery's Sleep CBD Gummies suitable for vegans?\", \"answer\": \"Yes, our Sleep CBD Gummies are suitable for vegans.\"}]"
 
 # Benefits
 
@@ -65,7 +65,7 @@ A: Yes, our Sleep CBD Gummies are suitable for vegans.</p>
 
 # Brands
 
-None
+CBDistillery
 
 # Tags
 

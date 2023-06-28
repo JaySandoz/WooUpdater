@@ -10,7 +10,7 @@
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

@@ -34,7 +34,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"Is Paw CBD's Canine CBD Oil safe for my pet?\", \"answer\": \"Absolutely, our Canine CBD\\nOil is non-psychoactive and rigorously tested for safety and quality.\"}, {\"question\": \"What is the suggested serving size for Paw CBD's Canine CBD Oil?\", \"answer\": \"We\\nrecommend a half dropper per day, adjusted according to your pet's weight.\"}, {\"question\": \"Is Paw CBD's Canine CBD Oil organic?\", \"answer\": \"Yes, our Canine CBD Oil is\\ncertified organic and free of synthetic or artificial ingredients.\"}, {\"question\": \"Does Paw CBD's Canine CBD Oil contain THC?\", \"answer\": \"No, our Canine CBD Oil is\\nTHC-free, ensuring it's non-psychoactive.\"}]"
 
 # Benefits
 

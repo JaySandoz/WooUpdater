@@ -95,7 +95,7 @@ A: Yes, this product is made with natural hemp extract, botanicals, and plant-ba
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

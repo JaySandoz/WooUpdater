@@ -45,7 +45,7 @@ The recommended dosage varies based on the strength of the gummy. It is advised 
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the CBD concentration in cbdMD's Full Spectrum CBD Gummies?\", \"answer\": \"cbdMD's Full Spectrum CBD Gummies are available in three strengths: 50mg,\\n100mg, and 200mg of pure, premium-grade, THC-free CBD oil per gummy.\\n\\nAre cbdMD's Full Spectrum CBD Gummies vegan?\"}, {\"question\": \"Yes, cbdMD's Full Spectrum CBD Gummies are vegan and do not contain any animal\\nproducts.\\n\\nAre cbdMD's Full Spectrum CBD Gummies gluten-free?\", \"answer\": \"Absolutely! cbdMD's Full Spectrum CBD Gummies are gluten-free and do not\\ncontain any gluten-containing ingredients.\\n\\nAre cbdMD's Full Spectrum CBD Gummies tested by third-party labs?\"}, {\"question\": \"Yes, cbdMD's products, including Full Spectrum CBD Gummies, undergo extensive\\ntesting by third-party labs to ensure exceptional quality and safety.\\n\\nWhat is the recommended dosage for cbdMD's Full Spectrum CBD Gummies?\", \"answer\": \"The recommended dosage varies based on the strength of the gummy. It is\\nadvised to start with one gummy per day and adjust the dosage as needed under\\nthe guidance of your healthcare professional.\"}]"
 
 # Benefits
 
@@ -57,7 +57,7 @@ The recommended dosage varies based on the strength of the gummy. It is advised 
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

@@ -40,7 +40,7 @@
 
 
 # FAQ
-[]
+""
 
 # Benefits
 
@@ -52,7 +52,7 @@
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

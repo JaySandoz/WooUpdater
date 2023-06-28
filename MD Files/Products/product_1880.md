@@ -43,7 +43,7 @@ A: Yes, customers have reported that Foria's Intimacy Sex Oil has helped them re
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Foria's Intimacy Sex Oil?\", \"answer\": \"Foria's Intimacy Sex Oil is a revolutionary product that helps unlock\\npleasure and relaxation for both partners. This unique product is made with a\\nblend of natural and organic ingredients, including broad-spectrum CBD, and is\\ndesigned to promote relaxation and arousal.\"}, {\"question\": \"How do I use Foria's Intimacy Sex Oil?\", \"answer\": \"Foria's Intimacy Sex Oil can be used as a lubricant or as a massage oil. To\\nuse as a lubricant, apply a few drops to the area of skin that needs\\nlubrication. To use as a massage oil, apply a few drops to the area that needs\\nto be massaged and massage the area in a circular motion.\"}, {\"question\": \"Is Foria's Intimacy Sex Oil safe for use on sensitive skin?\", \"answer\": \"Yes, Foria's Intimacy Sex Oil is free of harsh chemicals, parabens, and\\nartificial fragrances, making it safe for use on sensitive skin.\"}, {\"question\": \"Does Foria's Intimacy Sex Oil contain any allergens?\", \"answer\": \"No, Foria's Intimacy Sex Oil is vegan, cruelty-free, and gluten-free,\\nmaking it an ideal choice for those with allergies or sensitivities.\"}, {\"question\": \"How much CBD is in Foria's Intimacy Sex Oil?\", \"answer\": \"Foria's Intimacy Sex Oil is formulated with a precise dosage of CBD,\\nallowing for maximum absorption and effectiveness.\"}, {\"question\": \"Are there any lab results available for Foria's Intimacy Sex Oil?\", \"answer\": \"Yes, all lab results are available on our website for customers to review.\"}, {\"question\": \"Are there any customer testimonials for Foria's Intimacy Sex Oil?\", \"answer\": \"Yes, customers have reported that Foria's Intimacy Sex Oil has helped them\\nrelax and enjoy intimate moments with their partners.\"}]"
 
 # Benefits
 
@@ -55,7 +55,7 @@ A: Yes, customers have reported that Foria's Intimacy Sex Oil has helped them re
 
 # Brands
 
-None
+Foria
 
 # Tags
 

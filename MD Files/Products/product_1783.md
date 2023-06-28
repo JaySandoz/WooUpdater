@@ -48,7 +48,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is CBDistillery's CBDol CBD Balm?\", \"answer\": \"CBDistillery's CBDol CBD Balm is a full-spectrum, plant-based, and holistic\\nalternative medicine specifically designed to provide fast-acting relief for\\nmuscle soreness, inflammation, and pain.\"}, {\"question\": \"How much CBD is in each container?\", \"answer\": \"Each container contains 500mg of full-spectrum CBD.\"}, {\"question\": \"Is this product vegan and cruelty-free?\", \"answer\": \"Yes, CBDistillery's CBDol CBD Balm is vegan and cruelty-free.\"}, {\"question\": \"Is this product third-party lab tested?\", \"answer\": \"Yes, all of CBDistillery's products are third-party lab tested for quality\\nand safety.\"}, {\"question\": \"How often should I use this product?\", \"answer\": \"It's best to apply the balm two to three times daily for maximum relief.\"}, {\"question\": \"Is this product certified and compliant with the U.S. Hemp Authority?\", \"answer\": \"Yes, all of CBDistillery's products are certified and compliant with the\\nU.S. Hemp Authority.\"}, {\"question\": \"Is this product safe to use?\", \"answer\": \"Yes, CBDistillery's CBDol CBD Balm is safe to use and is third-party lab\\ntested for quality and safety. However, it's important to note that this\\nproduct is not intended to diagnose, treat, cure, or prevent any disease. As\\nwith any dietary supplement, it's best to consult with a qualified healthcare\\npractitioner before use.\"}]"
 
 # Benefits
 
@@ -60,7 +60,7 @@
 
 # Brands
 
-None
+CBDistillery
 
 # Tags
 

@@ -42,7 +42,7 @@ A: Our lab results can be found here: [INSERT LINK TO LAB RESULTS].</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"Is Paw CBD - Nose to Tose Balm safe for pets?\", \"answer\": \"Yes, Paw CBD - Nose to Tose Balm is a safe and natural product that is\\nsuitable for all pets. However, it is important to consult with your\\nveterinarian before using any CBD product on your pet.\"}, {\"question\": \"How much balm should I use?\", \"answer\": \"We recommend using a small amount of balm and gently massaging it into the\\naffected area.\"}, {\"question\": \"How long does it take to see results?\", \"answer\": \"Our balm is fast-acting and absorbs quickly into the skin, providing your\\npet with immediate relief.\"}, {\"question\": \"Does Paw CBD - Nose to Tose Balm leave any residue on my pet's fur?\", \"answer\": \"No, our balm is non-greasy and won't leave any residue on your pet's fur.\"}, {\"question\": \"Is Paw CBD - Nose to Tose Balm third-party tested?\", \"answer\": \"Yes, our balm is manufactured in an FDA-registered facility and is third-\\nparty tested for quality and potency.\"}, {\"question\": \"Where can I find the lab results for Paw CBD - Nose to Tose Balm?\", \"answer\": \"Our lab results can be found here: [INSERT LINK TO LAB RESULTS].\"}]"
 
 # Benefits
 

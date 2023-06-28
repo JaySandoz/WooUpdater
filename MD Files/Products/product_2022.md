@@ -39,7 +39,7 @@ A: Store in a cool, dry place away from direct sunlight. Be sure to keep out of 
 
 
 # FAQ
-[]
+"[{\"question\": \"What are Paw CBD Hip + Joint Soft Chews for Dogs?\", \"answer\": \"Paw CBD Hip + Joint Soft Chews for Dogs are specially formulated chews with\\nCBD and other natural ingredients, designed to support your dog's joint health\\nand mobility.\"}, {\"question\": \"How much CBD is in each chew?\", \"answer\": \"The exact amount of CBD in each chew is currently being verified by third-\\nparty lab testing.\"}, {\"question\": \"How often should I give my dog a chew?\", \"answer\": \"Directions typically recommend up to 5 chews a day based on your dog's\\nweight, but it's best to start with a specific amount each day for 30 days,\\nthen reassess.\"}, {\"question\": \"Are these chews safe for my dog to consume?\", \"answer\": \"Yes, our chews are intended to be safe for your pet to consume. However, we\\nalways recommend consulting with your veterinarian before starting any new\\nsupplement regimen for your pet.\"}, {\"question\": \"Can I pair these chews with other CBD products?\", \"answer\": \"Yes, these chews can easily be combined with other CBD dog products like\\npeanut butter flavored CBD oil and chicken and bacon flavored CBD soft chews.\\nFigure out their favorites by seeing whether they get more excited about these\\nbacon-flavored hip and joint chews, the turkey-flavored calming CBD soft\\nchews, or the chicken and bacon flavored CBD soft chews.\"}, {\"question\": \"How do I store these chews?\", \"answer\": \"Store in a cool, dry place away from direct sunlight. Be sure to keep out\\nof reach of children and pets.\"}]"
 
 # Benefits
 

@@ -29,7 +29,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"Are cbdMD's Delta 9 THC Gummies legal?\", \"answer\": \"Our Delta 9 THC Gummies are\\nfarm bill compliant and legal in most states, adhering to the maximum\\nallowable Delta 9 THC concentration of 0.3% by weight.\"}, {\"question\": \"How many gummies should I take per serving?\", \"answer\": \"We recommend starting\\nwith one gummy per serving and adjusting as needed based on your personal\\npreferences and desired effects. Remember to start low and gradually increase\\nyour dosage.\"}]"
 
 # Benefits
 
@@ -41,7 +41,7 @@
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

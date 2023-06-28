@@ -41,7 +41,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What are Foria - Intimacy CBD Melts?\", \"answer\": \"Foria - Intimacy CBD Melts are\\nsmall, discreet melts packed with a powerful blend of organic, natural\\ningredients, including CBD, to enhance your intimate moments.\"}, {\"question\": \"What are the ingredients?\", \"answer\": \"The melts are made with hemp-derived CBD,\\norganic cocoa butter, organic coconut oil, and natural essential oils.\"}, {\"question\": \"How do I use the melts?\", \"answer\": \"Simply melt a few melts on your fingertips and\\napply to the desired area. Enjoy the enhanced pleasure and relaxation that\\ncomes with the melts.\"}, {\"question\": \"Are the melts safe to use?\", \"answer\": \"Foria - Intimacy CBD Melts are safe to use\\nand made with the highest quality ingredients. However, it's important to read\\nthe ingredients list and consult with a doctor before use. Not recommended\\nduring pregnancy or nursing.\"}, {\"question\": \"Are the melts third-party lab tested?\", \"answer\": \"Yes, the melts undergo third-party\\nlab testing for purity and potency, and the results are available on the Foria\\nwebsite.\"}, {\"question\": \"What are the benefits of using the melts?\", \"answer\": \"Foria - Intimacy CBD Melts\\nprovide a range of benefits, including increased arousal, lubrication, and\\nrelaxation for a heightened intimate experience. Enjoy the calming and\\nsoothing effects of the melts, as well as the enhanced pleasure and relaxation\\nthey provide.\"}]"
 
 # Benefits
 
@@ -53,7 +53,7 @@
 
 # Brands
 
-None
+Foria
 
 # Tags
 

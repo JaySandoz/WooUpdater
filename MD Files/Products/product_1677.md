@@ -39,7 +39,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"CBDistillery's Full\\nSpectrum CBD Oil is a natural, organic, and non-psychoactive oil made from\\npure hemp extract that is rich in cannabinoids and terpenes. It is available\\nin four strengths: 500mg, 1000mg, 2500mg, and 5000mg.\"}, {\"question\": \"How do I use CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"Simply place the\\ndesired amount of oil under your tongue and hold it there for up to 90 seconds\\nbefore swallowing. This will ensure maximum absorption of the cannabinoids. It\\nis recommended to start with a low dose and increase gradually until you find\\nthe right amount for you.\"}, {\"question\": \"Is CBDistillery's Full Spectrum CBD Oil safe to use?\", \"answer\": \"Yes, CBDistillery's\\nFull Spectrum CBD Oil is safe to use. However, it is important to consult with\\na healthcare provider before taking any CBD product, especially if you are\\npregnant, nursing, or taking any medications.\"}, {\"question\": \"Are there any side effects of using CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"No, there are no known side effects of using CBDistillery's Full Spectrum\\nCBD Oil. However, it is important to consult with a healthcare provider before\\ntaking any CBD product, especially if you are pregnant, nursing, or taking any\\nmedications.\"}, {\"question\": \"How long does it take for CBDistillery's Full Spectrum CBD Oil to take\\neffect?\", \"answer\": \"The effects of CBDistillery's Full Spectrum CBD Oil may vary from\\nperson to person. It is recommended to start with a low dose and increase\\ngradually until you find the right amount for you.\"}, {\"question\": \"Is CBDistillery's Full Spectrum CBD Oil lab-tested?\", \"answer\": \"Yes, CBDistillery's\\nFull Spectrum CBD Oil is lab-tested to ensure the highest quality and purity.\\nThe lab results are available on the CBDistillery website.\"}, {\"question\": \"Does CBDistillery's Full Spectrum CBD Oil contain THC?\", \"answer\": \"No,\\nCBDistillery's Full Spectrum CBD Oil contains less than 0.3% THC, which is the\\nlegal limit. It is non-psychoactive and will not cause a \\\"high\\\" feeling.\"}, {\"question\": \"What are the benefits of using CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"CBDistillery's Full Spectrum CBD Oil offers a variety of benefits. It is a\\nnatural, organic, and non-psychoactive way to address a variety of conditions,\\nsuch as anxiety, stress, pain, and sleep-related issues. It can also help\\nimprove overall health and well-being.\"}]"
 
 # Benefits
 
@@ -51,7 +51,7 @@
 
 # Brands
 
-None
+CBDistillery
 
 # Tags
 

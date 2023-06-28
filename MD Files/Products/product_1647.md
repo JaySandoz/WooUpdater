@@ -43,7 +43,7 @@ A: No, cbdMD's Broad Spectrum CBD Oil is THC-free.</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"What is cbdMD's Broad Spectrum CBD Oil?\", \"answer\": \"cbdMD's Broad Spectrum CBD Oil is a high-quality, premium CBD oil that is\\ndesigned to provide full-body support and relaxation. It is made with natural,\\nnon-GMO ingredients and is THC-free, vegan, and gluten-free.\"}, {\"question\": \"What are the benefits of cbdMD's Broad Spectrum CBD Oil?\", \"answer\": \"cbdMD's Broad Spectrum CBD Oil is formulated to provide anti-inflammatory,\\ncalming, and stress relief benefits, as well as sleep-aid and pain relief.\"}, {\"question\": \"Is cbdMD's Broad Spectrum CBD Oil safe to use?\", \"answer\": \"cbdMD's Broad Spectrum CBD Oil is safe for use. It is important to consult\\nyour healthcare provider before taking any CBD product.\"}, {\"question\": \"What is the recommended dosage for cbdMD's Broad Spectrum CBD Oil?\", \"answer\": \"It is recommended to start with a low dosage and gradually increase the\\ndosage until you find the dosage that works best for you.\"}, {\"question\": \"Is cbdMD's Broad Spectrum CBD Oil third-party tested?\", \"answer\": \"Yes, cbdMD's Broad Spectrum CBD Oil is third-party tested for quality\\nassurance and is certified by the U.S. Hemp Authority.\"}, {\"question\": \"What is the entourage effect?\", \"answer\": \"The entourage effect is a synergistic effect that occurs when a variety of\\ncannabinoids, including CBD, CBG, and CBN, are combined. This effect amplifies\\nthe benefits of CBD.\"}, {\"question\": \"Does cbdMD's Broad Spectrum CBD Oil contain THC?\", \"answer\": \"No, cbdMD's Broad Spectrum CBD Oil is THC-free.\"}]"
 
 # Benefits
 
@@ -55,7 +55,7 @@ A: No, cbdMD's Broad Spectrum CBD Oil is THC-free.</p>
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

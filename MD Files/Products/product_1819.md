@@ -67,7 +67,7 @@ CBD vs. THC: What’s the Difference?<br />
 
 
 # FAQ
-[]
+"[{\"question\": \"What is the Be Gone CBD Clearskin serum?\", \"answer\": \"The Be Gone CBD Clearskin serum is a plant-based, vegan-friendly facial\\nmoisturizer formulated with organic ingredients and full spectrum hemp extract\\nto provide powerful anti-inflammatory and acne-fighting benefits.\"}, {\"question\": \"What is in the Be Gone CBD Clearskin serum?\", \"answer\": \"The Be Gone CBD Clearskin serum contains organic ingredients such as aloe\\nvera, lavender, and chamomile, as well as 500mg of full spectrum hemp extract\\nwith CBD, CBG, and CBN.\"}, {\"question\": \"How do I use the Be Gone CBD Clearskin serum?\", \"answer\": \"For best results, apply the Be Gone CBD Clearskin serum twice daily. First,\\ncleanse your face with a gentle cleanser. Next, apply a thin layer of the\\nserum to your face and neck. Allow it to absorb for a few minutes before\\napplying any other skincare products.\"}, {\"question\": \"Is the Be Gone CBD Clearskin serum safe?\", \"answer\": \"Yes, the Be Gone CBD Clearskin serum is safe for use on the face. It is\\nvegan-friendly, cruelty-free, and non-toxic. However, it is important to test\\na small patch of skin before use. If any irritation occurs, discontinue use\\nimmediately.\"}, {\"question\": \"Are there any side effects associated with the Be Gone CBD Clearskin serum?\", \"answer\": \"There are no known side effects associated with the Be Gone CBD Clearskin\\nserum. However, it is important to test a small patch of skin before use. If\\nany irritation occurs, discontinue use immediately.\"}, {\"question\": \"Is the Be Gone CBD Clearskin serum third-party tested?\", \"answer\": \"Yes, all of cbdMD's products are third-party tested by an ISO\\n17025-certified lab to ensure safety and potency. Our lab results are\\navailable for review  \\n[  \\nhere  \\n](https://www.cbdmd.com/lab-results)  \\n.\"}]"
 
 # Benefits
 
@@ -79,7 +79,7 @@ CBD vs. THC: What’s the Difference?<br />
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

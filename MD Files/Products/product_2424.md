@@ -39,7 +39,7 @@
 
 
 # FAQ
-[]
+"[]"
 
 # Benefits
 

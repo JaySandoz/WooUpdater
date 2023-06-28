@@ -42,7 +42,7 @@ Yes, Foria's Intimacy Awaken Arousal Oil with CBD is vegan and cruelty-free. It 
 
 
 # FAQ
-[]
+"[]"
 
 # Benefits
 
@@ -54,7 +54,7 @@ Yes, Foria's Intimacy Awaken Arousal Oil with CBD is vegan and cruelty-free. It 
 
 # Brands
 
-None
+Foria
 
 # Tags
 

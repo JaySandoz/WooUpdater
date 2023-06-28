@@ -64,7 +64,7 @@ The Benefits of Delta 9 THC and CBD<br />
 
 
 # FAQ
-[]
+"[{\"question\": \"How much Delta 9 THC is in each cookie?\", \"answer\": \"Each cookie contains 10mg of Delta 9 THC.\"}, {\"question\": \"How much CBD is in each cookie?\", \"answer\": \"Each cookie contains 5mg of CBD.\"}, {\"question\": \"What are the ingredients in Tre House's D9 + CBD Cookies?\", \"answer\": \"Tre House's D9 + CBD Cookies are made with butter, sugar, flour, cocoa, and\\nDelta 9 THC.\"}, {\"question\": \"How long do the effects of Tre House's D9 + CBD Cookies last?\", \"answer\": \"The effects of Tre House's D9 + CBD Cookies typically last between two and\\nfour hours.\"}, {\"question\": \"Are Tre House's D9 + CBD Cookies safe to consume?\", \"answer\": \"Yes, Tre House's D9 + CBD Cookies are safe to consume when used as\\ndirected. However, it is important to start with a low dosage and increase\\ngradually.\"}, {\"question\": \"How should I store Tre House's D9 + CBD Cookies?\", \"answer\": \"Tre House's D9 + CBD Cookies should be stored in an airtight container in a\\ncool, dry place.\"}, {\"question\": \"Are Tre House's D9 + CBD Cookies lab tested?\", \"answer\": \"Yes, Tre House's D9 + CBD Cookies are tested for potency and purity by\\nthird-party labs. The lab results are available on Tre House's website.\"}]"
 
 # Benefits
 

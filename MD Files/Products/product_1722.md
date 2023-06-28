@@ -54,7 +54,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is cbdMD's CBD Drink Mix?\", \"answer\": \"cbdMD's CBD Drink Mix is a plant-based\\ndrink mix made with broad-spectrum hemp extract, terpenes, and natural\\nflavorings. It is designed to provide a delicious and effective way to get\\nyour daily dose of CBD.\\n\\nHow much CBD is in each serving of cbdMD's CBD Drink Mix?\"}, {\"question\": \"Each serving of\\ncbdMD's CBD Drink Mix contains 25mg of CBD.\\n\\nIs cbdMD's CBD Drink Mix safe?\", \"answer\": \"Yes, cbdMD's CBD Drink Mix is made with\\nonly the highest-quality ingredients and is third-party tested for quality and\\nsafety. As with any supplement, customers should consult with their doctor\\nbefore use, especially if they are pregnant, nursing, or taking any\\nmedications.\\n\\nWhat are the benefits of cbdMD's CBD Drink Mix?\"}, {\"question\": \"cbdMD's CBD Drink Mix is\\npacked with anti-inflammatory and antioxidant properties, helping to reduce\\ninflammation and improve overall health. It can also help to reduce anxiety,\\nimprove your mood, relieve pain, and promote restful sleep.\\n\\nHow do I use cbdMD's CBD Drink Mix?\", \"answer\": \"Simply mix one scoop of the drink mix\\nwith 8-12 ounces of water or your favorite beverage. Stir until the mix is\\ncompletely dissolved and enjoy! You can also add the drink mix to your\\nfavorite smoothie or yogurt for an extra boost of CBD.\\n\\nIs cbdMD's CBD Drink Mix gluten-free?\"}, {\"question\": \"Yes, cbdMD's CBD Drink Mix is\\ngluten-free.\\n\\nDoes cbdMD's CBD Drink Mix contain THC?\", \"answer\": \"No, cbdMD's CBD Drink Mix is THC-\\nfree.\\n\\nWhere can I find the lab results for cbdMD's CBD Drink Mix?\"}]"
 
 # Benefits
 
@@ -66,7 +66,7 @@
 
 # Brands
 
-None
+cbdMD
 
 # Tags
 

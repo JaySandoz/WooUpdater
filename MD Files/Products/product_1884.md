@@ -62,7 +62,7 @@ How to Use THC Safely and Responsibly<br />
 
 
 # FAQ
-[]
+"[]"
 
 # Benefits
 

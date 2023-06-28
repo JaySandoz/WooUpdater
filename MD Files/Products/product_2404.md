@@ -34,7 +34,7 @@ A: Each vape pen contains 2 grams of highly potent Delta 8</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a cannabinoid derived from hemp. It provides a unique,\\neuphoric buzz that is different from Delta 9 THC.\"}, {\"question\": \"What are the effects of Delta 8 THC?\", \"answer\": \"Delta 8 THC is known for promoting relaxation, mood elevation, a body buzz,\\na head buzz, and a mildly trippy experience.\"}, {\"question\": \"Is Delta 8 THC legal?\", \"answer\": \"Yes, Delta 8 THC is legal in all 50 states.\"}, {\"question\": \"How much Delta 8 THC is in the product?\", \"answer\": \"Each vape pen contains 2 grams of highly potent Delta 8\"}]"
 
 # Benefits
 

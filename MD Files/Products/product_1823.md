@@ -83,7 +83,7 @@ We have gathered a variety of articles, blog posts, and videos that provide help
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

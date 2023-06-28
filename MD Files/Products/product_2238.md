@@ -37,7 +37,7 @@
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

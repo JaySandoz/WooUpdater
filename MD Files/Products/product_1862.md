@@ -41,7 +41,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a cannabinoid that is similar to\\nDelta 9 THC, but is less psychoactive and has a milder effect.\"}, {\"question\": \"What is the difference between Delta 8 THC and Delta 9 THC?\", \"answer\": \"Delta 8\\nTHC is less psychoactive and has a milder effect than Delta 9 THC.\"}, {\"question\": \"Is Delta 8 THC legal?\", \"answer\": \"Delta 8 THC is legal in most states, but it is\\nimportant to check your local laws before purchasing.\"}, {\"question\": \"How do I use the Delta 8 THC Cartridge?\", \"answer\": \"Just attach the cartridge to\\na compatible device and you're ready to go.\"}, {\"question\": \"How long does the Delta 8 THC Cartridge last?\", \"answer\": \"Depending on usage,\\nour Delta 8 THC Cartridge can last up to two weeks.\"}, {\"question\": \"Is the Delta 8 THC Cartridge safe to use?\", \"answer\": \"Our Delta 8 THC Cartridge\\nis made with natural, organic ingredients and is lab-tested for purity and\\npotency. As with any product, please use caution and follow the instructions\\nfor use carefully.\"}, {\"question\": \"Where can I find the lab results for the Delta 8 THC Cartridge?\", \"answer\": \"Our\\nlab results and certifications are available for your review on our website.\"}]"
 
 # Benefits
 

@@ -39,7 +39,7 @@ A: Yes, Tre House's Rainbow Sherbet Disposable THC vape is intended for adult us
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Tre House's Rainbow Sherbet Disposable THC vape?\", \"answer\": \"Tre House's Rainbow Sherbet Disposable THC vape is a disposable THC vape\\ncontaining a blend of Delta 8, Delta 9, and Delta 10 THC for a balanced and\\nenjoyable high.\"}, {\"question\": \"How much THC is in each cartridge?\", \"answer\": \"Each cartridge contains 500mg of THC, with a total of 20 servings per\\ncartridge.\"}, {\"question\": \"How do I use Tre House's Rainbow Sherbet Disposable THC vape?\", \"answer\": \"Simply remove the cap and inhale from the mouthpiece. The pre-filled\\ncartridge is designed to be used until it is empty. Once the cartridge is\\nempty, simply dispose of it and replace with a new one.\"}, {\"question\": \"Is Tre House's Rainbow Sherbet Disposable THC vape lab tested?\", \"answer\": \"Yes, all of our products are third-party lab tested and certified for\\nsafety and purity.\"}, {\"question\": \"What is the flavor of Tre House's Rainbow Sherbet Disposable THC vape?\", \"answer\": \"The flavor is sweet and creamy, with a hint of fruitiness that will\\ntantalize your taste buds.\"}, {\"question\": \"Is Tre House's Rainbow Sherbet Disposable THC vape intended for adult use\\nonly?\", \"answer\": \"Yes, Tre House's Rainbow Sherbet Disposable THC vape is intended for adult\\nuse only. Please use responsibly and in accordance with local laws and\\nregulations.\"}]"
 
 # Benefits
 

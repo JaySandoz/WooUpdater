@@ -135,7 +135,7 @@ No, cbdMD Botanicals Perfect Polish Facial Exfoliant is free of synthetic fragra
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

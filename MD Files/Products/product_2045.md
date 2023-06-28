@@ -33,7 +33,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How many chews should I give my dog each day?\", \"answer\": \"The number of chews\\nyour dog should have each day depends on their weight and the specific\\nconcentration of the chews. The product suggests use twice daily or as needed.\"}, {\"question\": \"Can I give these chews to my cat?\", \"answer\": \"These chews are specifically\\ndesigned for dogs. For cats, it would be better to look for a product\\nspecifically formulated for felines.\"}, {\"question\": \"Will the chews make my dog high?\", \"answer\": \"No, the Pet CBD Oil Hard Chews for\\nDogs are tested to be THC-free, meaning they won't have psychoactive effects.\"}, {\"question\": \"Are there any side effects to these chews?\", \"answer\": \"As with any supplement,\\nit's always best to consult with your veterinarian before adding CBD chews to\\nyour pet's routine. While CBD is generally well tolerated, some pets may\\nexperience mild side effects such as drowsiness or changes in appetite.\"}, {\"question\": \"My dog has dietary restrictions. Are these chews safe for him?\", \"answer\": \"The\\nchews are made from wholesome, clean ingredients with no additives. However,\\nif your dog has specific dietary needs or allergies, you should consult with\\nyour veterinarian before introducing a new treat into their diet.\"}]"
 
 # Benefits
 

@@ -11,7 +11,7 @@
 
 
 # FAQ
-[]
+""
 
 # Benefits
 
@@ -23,7 +23,7 @@
 
 # Brands
 
-None
+CBDFx
 
 # Tags
 

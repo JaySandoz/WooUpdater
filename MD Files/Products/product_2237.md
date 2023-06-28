@@ -114,7 +114,7 @@ Redwood Reserves-Menthol Crush Pack contains a variety of beneficial cannabinoid
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

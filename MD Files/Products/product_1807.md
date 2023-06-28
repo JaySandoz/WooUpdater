@@ -83,7 +83,7 @@ A: Yes, this face mask helps to nourish and rejuvenate your skin while providing
 
 
 # FAQ
-[]
+""
 
 # Benefits
 

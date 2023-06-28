@@ -46,7 +46,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil is a high-quality CBD oil that is made\\nwith organic ingredients and hemp extract to provide full body support. It\\nhelps to reduce stress, anxiety, and inflammation, while providing relief from\\npain and promoting relaxation.\"}, {\"question\": \"What ingredients are in CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil is made with a unique blend of\\ncannabinoids, terpenes, and other natural ingredients. It contains a broad\\nspectrum of cannabinoids, including CBD, CBG, CBN, and CBC, as well as a\\nvariety of terpenes for maximum effectiveness.\"}, {\"question\": \"How do I use CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil can be taken orally or added to food and\\nbeverages. For best results, take 1-2 droppers of oil under your tongue and\\nhold it there for 30-60 seconds before swallowing. This method allows the oil\\nto be absorbed directly into your bloodstream for maximum effectiveness.\"}, {\"question\": \"Is CBDistillery's Broad Spectrum Oil safe?\", \"answer\": \"Yes, CBDistillery's Broad Spectrum Oil is made with high-quality, organic\\ningredients and hemp extract. It is non-GMO, gluten-free, and third-party\\ncertified to guarantee its quality and safety. As with any supplement, it is\\nimportant to consult with your healthcare provider before taking any CBD\\nproduct.\"}, {\"question\": \"What are the benefits of taking CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil is a powerful and effective oil that\\nprovides a full body support. It helps to reduce stress, anxiety, and\\ninflammation, while providing relief from pain and promoting relaxation. It\\ncan also help to improve your overall wellbeing and vitality, giving you the\\nboost you need to live your best life.\"}, {\"question\": \"Is there a satisfaction guarantee?\", \"answer\": \"Yes, CBDistillery stands behind the quality of its products with a 100%\\nsatisfaction guarantee.\"}]"
 
 # Benefits
 
@@ -58,7 +58,7 @@
 
 # Brands
 
-None
+CBDistillery
 
 # Tags
 

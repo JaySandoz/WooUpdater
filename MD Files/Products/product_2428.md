@@ -38,7 +38,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"How much CBN, THC, and CBD is in each gummy?\", \"answer\": \"Each gummy contains 5mg of\\nCBN, 3mg of THC, and 20mg of CBD, providing a potent blend to help you relax\\nand achieve deep sleep.\"}, {\"question\": \"How should I use these gummies?\", \"answer\": \"We recommend taking one gummy 30 minutes\\nbefore bedtime. This allows the cannabinoids enough time to be absorbed and\\nstart working.\"}, {\"question\": \"Are these gummies vegan and gluten-free?\", \"answer\": \"Yes, our gummies are vegan and\\ngluten-free. We use natural ingredients to ensure our gummies can be enjoyed\\nby everyone.\"}, {\"question\": \"Can I use these gummies if I'm pregnant or breastfeeding?\", \"answer\": \"As a\\nprecaution, we advise against the use of our gummies if you're pregnant or\\nbreastfeeding. If you have any medical conditions or are currently taking\\nmedication, please consult with your healthcare provider before using our\\nproduct.\\n\\nTestimonials\\n\\n  1. \\\"I've struggled with insomnia for years, and these gummies have been a game-changer. I fall asleep quickly and stay asleep throughout the night.\\\" - Jane D.\\n  2. \\\"I was skeptical at first, but these gummies really work. I've been getting the best sleep of my life since I started using them.\\\" - Mike T.\\n  3. \\\"I love that these gummies are vegan and gluten-free. They're easy to take, and I wake up feeling refreshed and ready for the day.\\\" - Lisa S.\\n  4. \\\"These gummies are fantastic. I've recommended them to all my friends who have trouble sleeping.\\\" - Robert G.\\n  5. \\\"I've been using these gummies for a month now, and I'm impressed. I've noticed a significant improvement in my sleep quality.\\\" - Sarah M.\"}]"
 
 # Benefits
 

@@ -39,7 +39,7 @@
 
 
 # FAQ
-[]
+"[{\"question\": \"What is CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC Flower 3.5G is a\\nhigh-quality hemp flower grown in the USA. It contains Cannabidiol (CBD)\\nflower sprayed with Hexahydrocannabinol (HHC) isolate.\"}, {\"question\": \"What are the effects of CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC\\nFlower 3.5G provides a calming effect, a full-body buzz, and a very light head\\nchange.\"}, {\"question\": \"Is CBD Living's HHC Flower 3.5G federally legal?\", \"answer\": \"Yes, CBD Living's HHC\\nFlower 3.5G is federally legal and compliant with the 2018 Farm Bill as it\\ncontains less than 0.3% Delta9 THC.\"}, {\"question\": \"Is CBD Living's HHC Flower 3.5G lab-tested?\", \"answer\": \"Yes, CBD Living's HHC Flower\\n3.5G is lab-tested for purity and potency.\"}, {\"question\": \"How do I use CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC Flower 3.5G\\ncan be smoked using a bong, pipe, joint, or blunt, according to your\\npreference.\"}, {\"question\": \"Who should not use CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC Flower\\n3.5G is not recommended for use by minors, or pregnant or breastfeeding women.\\nIt is also psychoactive and could cause you to fail a drug test.\"}]"
 
 # Benefits
 
@@ -51,7 +51,7 @@
 
 # Brands
 
-None
+Delta8 Living
 
 # Tags
 

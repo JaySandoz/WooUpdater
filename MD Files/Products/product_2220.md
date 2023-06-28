@@ -66,7 +66,7 @@ the label and follow the recommended dosage.</p>
 
 
 # FAQ
-[]
+"[{\"question\": \"What is Delta 8?\", \"answer\": \"Delta 8 is a powerful cannabinoid that can help reduce stress and anxiety,\\nimprove mood, and provide a calming effect. It is derived from hemp and is\\nfederally legal.\"}, {\"question\": \"How much Delta 8 is in each cookie?\", \"answer\": \"Each cookie contains 50mg of Delta 8.\"}, {\"question\": \"Are the cookies vegan?\", \"answer\": \"Yes, the cookies are vegan and made with all-natural ingredients.\"}, {\"question\": \"Are the cookies safe to use?\", \"answer\": \"Yes, the cookies are tested in a third-party lab to ensure quality and\\nsafety. However, as with any product, it is important to read  \\nthe label and follow the recommended dosage.\"}, {\"question\": \"What flavors are available?\", \"answer\": \"The cookies come in a variety of flavors, including chocolate chip, oatmeal\\nraisin, and peanut butter.\"}, {\"question\": \"How do I use the cookies?\", \"answer\": \"Simply take one cookie and enjoy the delicious flavor and the calming\\neffects of Delta 8.\"}, {\"question\": \"Where can I find the lab results?\", \"answer\": \"The lab results are available on the product page, providing customers with\\npeace of mind that they are getting a high-quality product.\"}]"
 
 # Benefits
 
@@ -78,7 +78,7 @@ the label and follow the recommended dosage.</p>
 
 # Brands
 
-None
+D8-Hi
 
 # Tags
 
