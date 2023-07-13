@@ -1,7 +1,5 @@
-# Product-ID: 1809
-
-# Description
-
+# Product ID: 1809
+## Description
 <h1>
  cbdMD Botanicals - Daily Moisturizer<br />
 </h1>
@@ -91,33 +89,20 @@ A: Yes, this moisturizer contains natural ingredients like organic hemp, jojoba 
   CBD vs. THC: What’s the Difference?<br />
  </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to glow with cbdMD Botanicals Daily Moisturizer! Infused with CBD and other natural ingredients, this moisturizer will leave your skin feeling hydrated and refreshed all day long. Say goodbye to dry skin and hello to a radiant complexion. Try it now and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Broad Spectrum
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

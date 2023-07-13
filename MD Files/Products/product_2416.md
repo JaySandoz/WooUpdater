@@ -1,7 +1,5 @@
-# Product-ID: 2416
-
-# Description
-
+# Product ID: 2416
+## Description
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
 <h1>Galaxy Treats Delta 9 THC Gummies</h1>
@@ -27,32 +25,19 @@
 </div>
 </div>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Galaxy Treats
-
-# Tags
-
+## Brand Name
+[{'id': 897, 'name': 'Galaxy Treats', 'slug': 'galaxy-treats'}]
+## Tags
 Delta 9 THC, gummies, Moon Babies
-
-# Categories
-
+## Categories
 THC Gummies
+## Lab Results
 
-# Lab Results

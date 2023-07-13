@@ -1,7 +1,5 @@
-# Product-ID: 1769
-
-# Description
-
+# Product ID: 1769
+## Description
 <h1>CBDfx - Muscle &amp; Joint Heating Cream</h1>
 <p>CBDfx's Muscle &amp; Joint Heating Cream is the perfect solution for those looking for fast-acting relief from muscle and joint pain. This unique blend of natural ingredients and essential oils, combined with the power of CBD, provides a soothing and relaxing experience. Its unique heating effect penetrates deep into the skin, delivering fast and effective relief from inflammation and soreness.</p>
 <h2>Description</h2>
@@ -37,33 +35,20 @@
 <p>Q: How long does it take for the Muscle &amp; Joint Heating Cream to work?</p>
 <p>A: The cream provides fast relief from muscle and joint pain. Most users experience relief within minutes.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for relief from sore muscles and joints? CBDfx&#8217;s Muscle &amp; Joint Heating Cream is the answer! Infused with CBD and natural ingredients, this cream provides fast-acting relief. Try it today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How much CBD is in the Muscle & Joint Heating Cream?\", \"answer\": \"Each application contains 5mg of CBD.\"}, {\"question\": \"How often should I use the Muscle & Joint Heating Cream?\", \"answer\": \"For best results, use the cream 2-3 times daily.\"}, {\"question\": \"Is the Muscle & Joint Heating Cream safe to use?\", \"answer\": \"Yes, the cream is safe to use topically. However, as with any product, it\\nis important to read the ingredients list before use and to check with a\\ndoctor if you have any concerns.\"}, {\"question\": \"Does the Muscle & Joint Heating Cream contain any artificial ingredients?\", \"answer\": \"No, the cream is 100% organic and free of any artificial colors or\\nfragrances.\"}, {\"question\": \"Is the Muscle & Joint Heating Cream third-party lab tested?\", \"answer\": \"Yes, all of CBDfx's products are third-party lab tested to ensure they are\\nfree from any contaminants.\"}, {\"question\": \"How long does it take for the Muscle & Joint Heating Cream to work?\", \"answer\": \"The cream provides fast relief from muscle and joint pain. Most users\\nexperience relief within minutes.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDFx
-
-# Tags
-
+## Brand Name
+[{'id': 1109, 'name': 'CBDFx', 'slug': 'cbdfx'}]
+## Tags
 Broad Spectrum, Caffeine, Camphor, CBD, CBD Extract, CBG, Contaminant-Free, easy application, Essential Oils, Eucalyptus, Eucalyptus Oil, fast relief, Fast-Acting, Heating Cream, inflammation relief, Joint Pain, Lab Tested, lavender, Menthol, Muscle and Joint Pain Relief, Muscle Pain, Natural Ingredients, No Artificial Colors or Fragrances, non-toxic, organic, Post-Workout Recovery, Potent CBG, Relaxing, Soothing, Soreness Relief, Tea Tree Oil, Topical Cream, Vanillin, White Willow Bark
-
-# Categories
-
+## Categories
 CBD Topicals
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 1767
-
-# Description
-
+# Product ID: 1767
+## Description
 <h1>CBDistillery - Relax CBD Gummies</h1>
 <p>Are you looking for a natural way to relax and reduce stress? CBDistillery has the perfect solution for you - Relax CBD Gummies! These delicious, chewy gummies are made with organic, non-GMO, hemp-derived CBD and are THC-free. With a broad spectrum of cannabinoids, these gummies are sure to help you find your chill.</p>
 <h2>Description</h2>
@@ -39,33 +37,20 @@ A: Yes, all of CBDistillery's products are third-party tested for potency and pu
 Q: What are the benefits of Relax CBD Gummies?<br />
 A: Relax CBD Gummies can help reduce stress and anxiety, while also promoting a sense of calm and relaxation.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Unwind and de-stress with CBDistillery&#8217;s Relax CBD Gummies! Made with premium CBD and natural flavors, these gummies are perfect for a chill night in. Try them now and feel the difference.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How many Relax CBD Gummies should I take?\", \"answer\": \"We recommend taking one Relax CBD Gummy per day or as needed.\"}, {\"question\": \"Are Relax CBD Gummies vegan?\", \"answer\": \"Yes, Relax CBD Gummies are vegan and free from any animal products.\"}, {\"question\": \"Are Relax CBD Gummies organic?\", \"answer\": \"Yes, Relax CBD Gummies are made with organic, non-GMO hemp-derived CBD.\"}, {\"question\": \"Are Relax CBD Gummies THC-free?\", \"answer\": \"Yes, Relax CBD Gummies are THC-free.\"}, {\"question\": \"Are Relax CBD Gummies third-party tested?\", \"answer\": \"Yes, all of CBDistillery's products are third-party tested for potency and\\npurity.\"}, {\"question\": \"What are the benefits of Relax CBD Gummies?\", \"answer\": \"Relax CBD Gummies can help reduce stress and anxiety, while also promoting\\na sense of calm and relaxation.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDistillery
-
-# Tags
-
+## Brand Name
+[{'id': 1258, 'name': 'CBDistillery', 'slug': 'cbdistillery'}]
+## Tags
 Additional Cannabinoids, anxiety relief, Broad Spectrum, calm, CBC, CBD, CBD For Stress, CBD gummies, CBG, CBN, Convenient Size, Customer Testimonials, Endocannabinoid System., entourage effect., Hemp derived CBD, Muscle Relaxation, Natural Flavors, No Artificial Ingredients, non-GMO, organic, potency, Purity, Quality Assurance, relaxation, Restful Sleep, stress relief, THC-free., Travel-Friendly, Tropical Fruit Flavor, vegan
-
-# Categories
-
+## Categories
 CBD Gummies
+## Lab Results
 
-# Lab Results

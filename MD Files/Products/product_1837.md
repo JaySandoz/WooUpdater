@@ -1,7 +1,5 @@
-# Product-ID: 1837
-
-# Description
-
+# Product ID: 1837
+## Description
 <h1>TRĒ House - Strawberry Burst HHC Gummies</h1>
 <h2>Description</h2>
 <p>Are you looking for an all-natural, plant-based way to reduce stress and anxiety, while also improving your sleep? Look no further than TRĒ House’s Strawberry Burst HHC Gummies! Our delicious gummies are made with premium, organic ingredients, and are THC-free, non-GMO, and vegan. Our gummies provide a powerful blend of CBD, hemp, and other natural ingredients that are sure to help you relax and improve your overall wellness.</p>
@@ -27,33 +25,20 @@
 <p>Q: Are TRĒ House’s Strawberry Burst HHC Gummies vegan? A: Yes, our gummies are vegan.</p>
 <p>Q: Are TRĒ House’s Strawberry Burst HHC Gummies organic? A: Yes, our gummies are made with premium, organic ingredients.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Indulge in the sweet and tangy taste of TRĒ House&#8217;s Strawberry Burst HHC Gummies! Infused with high-quality HHC, these gummies offer a unique and potent experience. Try them out today and elevate your CBD game!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies?\", \"answer\": \"TR\\u0112 House\\u2019s\\nStrawberry Burst HHC Gummies are all-natural, plant-based gummies that are\\ndesigned to reduce stress and anxiety, while also improving your sleep. Our\\ngummies are made with premium, organic ingredients, and are THC-free, non-GMO,\\nand vegan.\"}, {\"question\": \"How many gummies should I take?\", \"answer\": \"We recommend taking one gummy per day,\\nor as directed by your healthcare provider.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies safe?\", \"answer\": \"Yes, our gummies are\\nmade with premium, organic ingredients, and are THC-free, non-GMO, and vegan.\\nAs with any dietary supplement, please consult your healthcare provider before\\ntaking our gummies.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies third-party tested?\", \"answer\": \"Yes,\\nour gummies are third-party tested to ensure they meet the highest standards\\nof quality and safety. You can check out our lab results [here](Link to Lab\\nResults).\"}, {\"question\": \"What are the benefits of taking TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies?\", \"answer\": \"Our gummies are designed to help reduce stress and anxiety, while also\\nimproving your sleep. Our gummies also provide mood-enhancing benefits,\\nhelping you relax and improve your overall wellness.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies vegan?\", \"answer\": \"Yes, our gummies are\\nvegan.\"}, {\"question\": \"Are TR\\u0112 House\\u2019s Strawberry Burst HHC Gummies organic?\", \"answer\": \"Yes, our gummies\\nare made with premium, organic ingredients.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 anxiety relief, CBD, Customer Testimonials, Hemp, HHC, Lab Tested, Natural Flavors, non-GMO, organic ingredients, Sleep Improvement, Strawberry Burst HHC Gummies, stress relief, THC-free., TRĒ House, vegan
-
-# Categories
-
+## Categories
 THC Gummies
+## Lab Results
 
-# Lab Results

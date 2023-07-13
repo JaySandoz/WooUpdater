@@ -1,7 +1,5 @@
-# Product-ID: 2234
-
-# Description
-
+# Product ID: 2234
+## Description
 <h1>
  Redwood Reserves-Loosie-Menthol<br />
 </h1>
@@ -74,33 +72,20 @@ A: Yes, Redwood Reserves-Loosie-Menthol is rigorously tested and certified for q
 <p>
  CBD and THC are two of the most popular cannabinoids found in hemp and cannabis. CBD has many potential benefits, such as easing anxiety, pain relief, and improving overall well-being. THC, on the other hand, is known for its psychoactive effects. For more information, check out this article: [INSERT LINK]. For a comprehensive overview of CBD and THC, watch this video: [INSERT LINK].</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a refreshing and relaxing smoke? Try Redwood Reserves&#8217; Loosie Menthol! Made with high-quality CBD and THC, this product is perfect for those who want to unwind and de-stress. Don&#8217;t miss out on this amazing product &#8211; order now and experience the benefits for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 CBD Flowers
+## Lab Results
 
-# Lab Results

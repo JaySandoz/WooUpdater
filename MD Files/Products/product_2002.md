@@ -1,7 +1,5 @@
-# Product-ID: 2002
-
-# Description
-
+# Product ID: 2002
+## Description
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
 <h1>Paw CBD - Premium Canine CBD Oil</h1>
@@ -27,33 +25,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Give your furry friend the gift of relaxation with Paw CBD&#8217;s Canine CBD Oil. Made with high-quality CBD and natural ingredients, this oil can help ease anxiety and promote overall wellness in your pup. Try it today and see the difference in your dog&#8217;s mood and behavior.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"Is Paw CBD's Canine CBD Oil safe for my pet?\", \"answer\": \"Absolutely, our Canine CBD\\nOil is non-psychoactive and rigorously tested for safety and quality.\"}, {\"question\": \"What is the suggested serving size for Paw CBD's Canine CBD Oil?\", \"answer\": \"We\\nrecommend a half dropper per day, adjusted according to your pet's weight.\"}, {\"question\": \"Is Paw CBD's Canine CBD Oil organic?\", \"answer\": \"Yes, our Canine CBD Oil is\\ncertified organic and free of synthetic or artificial ingredients.\"}, {\"question\": \"Does Paw CBD's Canine CBD Oil contain THC?\", \"answer\": \"No, our Canine CBD Oil is\\nTHC-free, ensuring it's non-psychoactive.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 975, 'name': 'PawCBD', 'slug': 'pawcbd'}]
+## Tags
 Anxiety Relief for Dogs, Canine Health, CBD for dogs, Full Spectrum CBD, Joint Health for Dogs, Natural Pet Products, Non-Psychoactive Pet Products, Organic Pet Products, Paw CBD, Pet CBD, Pet Wellness, Premium Canine CBD Oil
-
-# Categories
-
+## Categories
 CBD For Pets
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 2045
-
-# Description
-
+# Product ID: 2045
+## Description
 <h1>Paw CBD - Hard Chews</h1>
 <p>Paw CBD's Hard Chews for dogs are a top-tier selection for pet parents seeking to enrich their canine companion's wellness routine. These chews are crafted with a Superior Broad Spectrum hemp extract, encompassing the beneficial compounds of CBD, CBG, and CBN. This blend can potentially aid in managing signs of daily stress, maintaining a sense of calm, and supporting physical comfort. Dogs will jump for joy at the sight of Paw CBD's Hard Chews. Each chew packs a punch of hemp extract, showcasing the beneficial components of Superior Broad Spectrum CBD that may assist in alleviating discomfort, mitigating anxiety, and promoting overall well-being. These chews are made with clean, wholesome ingredients, ensuring a safe and effective way to support your pet's health. Their portability is a bonus, perfect for trips to the dog park or long walks. Paw CBD's Hard Chews come in two dog-approved flavors: Baked Cheese and Peanut Butter.</p>
 <h2>Ingredients</h2>
@@ -26,33 +24,20 @@
 <p><strong>Q: My dog has dietary restrictions. Are these chews safe for him?</strong> A: The chews are made from wholesome, clean ingredients with no additives. However, if your dog has specific dietary needs or allergies, you should consult with your veterinarian before introducing a new treat into their diet.</p>
 <p>&nbsp;</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a tasty way to get your daily dose of CBD or THC? Look no further than Paw CBD&#8217;s Hard Chews! These delicious treats are perfect for on-the-go relief and relaxation. Try them today and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How many chews should I give my dog each day?\", \"answer\": \"The number of chews\\nyour dog should have each day depends on their weight and the specific\\nconcentration of the chews. The product suggests use twice daily or as needed.\"}, {\"question\": \"Can I give these chews to my cat?\", \"answer\": \"These chews are specifically\\ndesigned for dogs. For cats, it would be better to look for a product\\nspecifically formulated for felines.\"}, {\"question\": \"Will the chews make my dog high?\", \"answer\": \"No, the Pet CBD Oil Hard Chews for\\nDogs are tested to be THC-free, meaning they won't have psychoactive effects.\"}, {\"question\": \"Are there any side effects to these chews?\", \"answer\": \"As with any supplement,\\nit's always best to consult with your veterinarian before adding CBD chews to\\nyour pet's routine. While CBD is generally well tolerated, some pets may\\nexperience mild side effects such as drowsiness or changes in appetite.\"}, {\"question\": \"My dog has dietary restrictions. Are these chews safe for him?\", \"answer\": \"The\\nchews are made from wholesome, clean ingredients with no additives. However,\\nif your dog has specific dietary needs or allergies, you should consult with\\nyour veterinarian before introducing a new treat into their diet.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 975, 'name': 'PawCBD', 'slug': 'pawcbd'}]
+## Tags
 CBD Products, ChatGPT Pet Health, Dog Anxiety Relief, Dog Mobility Support, Dog Stress Management, dog treats, Natural Ingredients, Pain Relief for Dogs, Pet CBD, pet supplements, Pet Wellness, THC-Free Products
-
-# Categories
-
+## Categories
 CBD For Pets
+## Lab Results
 
-# Lab Results

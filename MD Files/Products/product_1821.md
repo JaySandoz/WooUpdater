@@ -1,7 +1,5 @@
-# Product-ID: 1821
-
-# Description
-
+# Product ID: 1821
+## Description
 <h1>
  cbdMD Botanicals - Clearskin Moisturizer<br />
 </h1>
@@ -118,33 +116,20 @@ cbdMD's Clearskin Moisturizer is formulated with hemp extract, organic botanical
  </li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to glow with cbdMD Botanicals Clearskin Moisturizer! Infused with CBD and other natural ingredients, this moisturizer will leave your skin feeling hydrated and refreshed. Say goodbye to dry, dull skin and hello to a radiant complexion. Try it now and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Broad Spectrum
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

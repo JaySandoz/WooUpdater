@@ -1,7 +1,5 @@
-# Product-ID: 2032
-
-# Description
-
+# Product ID: 2032
+## Description
 <h1>Paw CBD - Canine Calming Chews</h1>
 <p>Paw CBD's Canine Calming Chews serve as a perfect companion for your furry friend's relaxation. These veterinarian-approved chews, infused with organic, non-psychoactive hemp extract, are tailored to alleviate your dog's stress and anxiety. Each chew is packed with natural ingredients like chamomile, passion flower, ginger root, and tryptophan, together with CBD, CBG, and CBN from hemp extract. Coupled with an irresistible turkey flavor, these chews are set to become your dog's favorite treat!</p>
 <h2>Product Details</h2>
@@ -39,33 +37,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a natural way to calm your furry friend? Try Paw CBD&#8217;s Canine Calming Chews! Made with premium CBD and tasty ingredients, these chews are perfect for anxious pups. Order now and give your dog the relaxation they deserve.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What are the active ingredients in Paw CBD's Canine Calming Chews?\", \"answer\": \"Paw CBD's Canine Calming Chews contain a blend of calming and soothing\\ningredients including chamomile, passion flower, ginger root, and the\\nessential amino acid L-tryptophan. It also incorporates Superior Broad\\nSpectrum hemp extracts including Cannabidiol (CBD), Cannabigerol (CBG),\\nCannabinol (CBN), which are naturally occurring phytocannabinoids. These chews\\nalso feature a mouth-watering turkey flavor.\"}, {\"question\": \"What benefits can I expect from these chews?\", \"answer\": \"These chews are designed to help maintain a sense of calm, manage signs of\\ndaily stress, and support physical comfort in your dog. The combination of CBD\\nand L-tryptophan helps to regulate various bodily processes, contributing to\\nyour pet's overall peace and wellness.\"}, {\"question\": \"How often should I give my dog these chews?\", \"answer\": \"The recommended starting amount is one chew per day, and it is advisable to\\nstick with this for 30 days while observing your pet's behavior. If you do not\\nnotice any difference after 30 days, you can slowly increase your pet's daily\\namount of CBD.\"}, {\"question\": \"Are these chews safe for all dogs?\", \"answer\": \"Yes, these chews are soft and easy on canine teeth, making them suitable\\nfor dogs of all sizes and ages. However, as with any supplement, it is always\\nbest to consult with your veterinarian before giving your pet any new product.\"}, {\"question\": \"How should I store these chews?\", \"answer\": \"To maintain their freshness, store these chews in a cool, dry place, away\\nfrom direct light.\"}, {\"question\": \"Are these chews THC-free?\", \"answer\": \"Yes, Paw CBD's Canine Calming Chews are made with hemp extract that has\\nbeen processed to remove as much THC as possible. They are certified THC-free.\"}, {\"question\": \"Can these chews be given with other CBD products?\", \"answer\": \"Yes, these chews can be combined with other CBD pet products like CBD oil,\\nmaking it possible to build a comprehensive CBD routine that suits your pet's\\nneeds.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 975, 'name': 'PawCBD', 'slug': 'pawcbd'}]
+## Tags
 calming dog treats, Canine Calming Chews, CBD for pets, Dog Anxiety Relief, hemp extract for dogs, natural dog treats, organic dog chews., Paw CBD, Pet CBD, Pet Wellness, stress relief for dogs
-
-# Categories
-
+## Categories
 CBD For Pets
+## Lab Results
 
-# Lab Results

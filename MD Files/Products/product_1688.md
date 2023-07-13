@@ -1,7 +1,5 @@
-# Product-ID: 1688
-
-# Description
-
+# Product ID: 1688
+## Description
 <h1>cbdMD - Delta 9 THC Gummies</h1>
 <h2>Description</h2>
 <p>Experience the ultimate feeling of calm and balance with cbdMD's high potency full spectrum Delta 9 THC Gummies. These delicious treats are carefully crafted to provide you with a superior CBD experience. Unlock the power of a full plant profile as the Delta 9 THC, alongside other cannabinoids and terpenes found in hemp, work synergistically to deliver a more effective and well-balanced result.</p>
@@ -22,33 +20,20 @@
 <p><strong>Q: Are cbdMD's Delta 9 THC Gummies legal?</strong> A: Our Delta 9 THC Gummies are farm bill compliant and legal in most states, adhering to the maximum allowable Delta 9 THC concentration of 0.3% by weight.</p>
 <p><strong>Q: How many gummies should I take per serving?</strong> A: We recommend starting with one gummy per serving and adjusting as needed based on your personal preferences and desired effects. Remember to start low and gradually increase your dosage.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a tasty way to enjoy the benefits of Delta 9 THC? Try cbdMD&#8217;s Delta 9 THC Gummies! Made with high-quality ingredients, these gummies are perfect for anyone looking to relax and unwind. Don&#8217;t miss out on this delicious and effective product &#8211; order now!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"Are cbdMD's Delta 9 THC Gummies legal?\", \"answer\": \"Our Delta 9 THC Gummies are\\nfarm bill compliant and legal in most states, adhering to the maximum\\nallowable Delta 9 THC concentration of 0.3% by weight.\"}, {\"question\": \"How many gummies should I take per serving?\", \"answer\": \"We recommend starting\\nwith one gummy per serving and adjusting as needed based on your personal\\npreferences and desired effects. Remember to start low and gradually increase\\nyour dosage.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 10 mg, adult use, Balance, Blue Razz flavor, calm, cannabinoids, caution, CBD, certifications, Cherry flavor, Delta 9 THC, Dosage, drowsiness, educational resources, FAQ, Farm Bill Compliant, Full Spectrum, gluten-free, gummies, hemp-derived, high potency, intoxicating effect, Lab Tested, legal, Natural Ingredients, plant profile, Quality Assurance, relaxation, responsible use, safety, self-care., stress relief, suggested use, terpenes, testimonials, THC, therapeutic, vegan, wellness
-
-# Categories
-
+## Categories
 THC Gummies
+## Lab Results
 
-# Lab Results

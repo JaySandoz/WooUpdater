@@ -1,7 +1,5 @@
-# Product-ID: 1693
-
-# Description
-
+# Product ID: 1693
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -34,33 +32,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Get a good night&#8217;s sleep with cbdMD&#8217;s PM Softgel Capsules! Packed with CBD and melatonin, these capsules will help you relax and wake up feeling refreshed. Try them out today and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the recommended dosage for cbdMD's PM Softgel Capsules?\", \"answer\": \"We\\nrecommend taking one capsule per day, about an hour before bedtime for maximum\\neffectiveness. It is important to start with a lower dosage and increase\\ngradually as needed.\"}, {\"question\": \"Are cbdMD's PM Softgel Capsules safe to use?\", \"answer\": \"Yes, our capsules are\\nthird-party tested to ensure that they are free of any contaminants and are\\nsafe to use. However, we recommend consulting with your physician before\\nstarting any new dietary supplement.\"}, {\"question\": \"Are cbdMD's PM Softgel Capsules vegan and gluten-free?\", \"answer\": \"Our capsules\\nare gluten-free and non-GMO, but they contain gelatin derived from animal\\norigins and are therefore not vegan.\"}, {\"question\": \"What are the benefits of taking cbdMD's PM Softgel Capsules?\", \"answer\": \"Our\\ncapsules are designed to help you relax and secure restful sleep. They are\\ncrafted with natural ingredients and are devoid of artificial additives or\\npreservatives. Each capsule is third-party tested to assure they are free from\\ncontaminants and safe for use.\"}, {\"question\": \"What type of hemp extract is used in cbdMD's PM Softgel Capsules?\", \"answer\": \"Our capsules are formulated with superior broad-spectrum hemp extract,\\nensuring the maximum concentration of cannabinoids, terpenes, and other\\nbeneficial compounds.\"}, {\"question\": \"Are cbdMD's PM Softgel Capsules third-party tested?\", \"answer\": \"Yes, our\\ncapsules are third-party tested to ensure that they are free of any\\ncontaminants and are safe to use.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 anxiety relief, benefits, cannabinoids, cbdMD, Customer Testimonials, Dosage, FAQ, gluten-free, Melatonin, Natural Ingredients, non-GMO, PM Softgel Capsules, Safety Information, Sleep-Aid, SoftGel, terpenes, third-party tested., vegan
-
-# Categories
-
+## Categories
 CBD Capsules
+## Lab Results
 
-# Lab Results

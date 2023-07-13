@@ -1,7 +1,5 @@
-# Product-ID: 1444
-
-# Description
-
+# Product ID: 1444
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -47,33 +45,20 @@ If you are currently taking any medications, we recommend consulting with your h
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a convenient way to get your daily dose of CBD? Try cbdMD&#8217;s Full Spectrum Softgels! Packed with all the benefits of CBD and THC, these softgels are easy to swallow and perfect for on-the-go. Don&#8217;t miss out on the natural relief you deserve &#8211; order now!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How many softgels are in a bottle?\", \"answer\": \"Each bottle contains 30 softgels, providing a one-month supply.\\n\\nWhat is the CBD dosage in each softgel?\"}, {\"question\": \"Each softgel contains a potent dosage of 50mg, 100mg, or 200mg of full\\nspectrum CBD.\\n\\nAre the softgels suitable for vegans?\", \"answer\": \"Yes, the softgels are vegan-friendly, crafted without any animal-derived\\ningredients.\\n\\nAre the softgels gluten-free?\"}, {\"question\": \"Absolutely! The softgels are gluten-free, making them suitable for individuals\\nwith gluten sensitivities or dietary restrictions.\\n\\nIs the CBD in the softgels derived from organic hemp?\", \"answer\": \"Indeed, the CBD in our softgels is extracted from organically grown hemp,\\nensuring a high-quality and natural product.\\n\\nAre the softgels tested by third-party labs?\"}, {\"question\": \"Yes, our softgels undergo thorough testing by independent third-party labs to\\nensure their quality, potency, and purity. You can find detailed lab results\\non our website.\\n\\nDo the softgels contain artificial flavors, sweeteners, or preservatives?\", \"answer\": \"No, we are proud to offer softgels that are free from artificial flavors,\\nsweeteners, and preservatives. They are made with natural ingredients for a\\nclean and enjoyable experience.\\n\\nHow frequently should I take the softgels?\"}, {\"question\": \"For optimal results, we recommend taking one softgel per day with a glass of\\nwater. Consistency is key in experiencing the full benefits of CBD.\\n\\nCan I take the softgels if I'm pregnant or nursing?\", \"answer\": \"If you are pregnant or nursing, we advise consulting with your healthcare\\nprofessional before incorporating CBD products, including our softgels, into\\nyour routine.\\n\\nCan I take the softgels if I'm already taking medications?\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 alternative medicine., Balance, Cannabidiol, cannabinoids, CBD, CBD Capsules, convenience, daily dose, Dietary Supplements, Efficiency, Full Spectrum, Full Spectrum Softgels, gluten-free, Gluten-Free Products, Health Supplements, hemp extract, hemp-derived, Herbal Extracts, Herbal Remedies, Holistic Health, Lab results, MCT oil, Mind-Body Wellness, Natural Flavors, Natural Ingredients, non-GMO, Nutritional Supplements, organic, Potent CBD, Promote Wellness, Quality Assurance, relaxation, Sunflower Oil, THC, third-party tested., vegan, Vegan-friendly., wellness, Wellness Products
-
-# Categories
-
+## Categories
 CBD Capsules
+## Lab Results
 
-# Lab Results

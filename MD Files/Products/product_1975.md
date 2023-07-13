@@ -1,7 +1,5 @@
-# Product-ID: 1975
-
-# Description
-
+# Product ID: 1975
+## Description
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
 <h1>Paw CBD - Canine Soft Chews</h1>
@@ -28,33 +26,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Treat your furry friend to the best with Paw CBD Canine Soft Chews! Made with premium CBD and delicious flavors, these chews are perfect for any pup. Try them today and see the difference in your dog&#8217;s health and happiness.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the dosage of Paw CBD Canine Soft Chews?\", \"answer\": \"Begin with a single\\nchew each day, depending on your pet's weight, and adjust as needed.\"}, {\"question\": \"What are the benefits of Paw CBD Canine Soft Chews?\", \"answer\": \"Paw CBD Canine Soft\\nChews help manage daily stress, support physical comfort, and contribute to\\noverall wellness.\"}, {\"question\": \"Are Paw CBD Canine Soft Chews safe?\", \"answer\": \"Yes, Paw CBD Canine Soft Chews are\\nmade with natural ingredients and are THC-free*, making them safe for your\\npet.\"}, {\"question\": \"How long does it take to see results?\", \"answer\": \"Results can vary, but it's\\nimportant to maintain a consistent schedule.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 975, 'name': 'PawCBD', 'slug': 'pawcbd'}]
+## Tags
 anxiety in dogs, cannabinoids, CBD, CBD dog chews, CBD for dogs, dogs, Paw CBD Canine Soft Chews, Pet CBD, pet CBD products, Pet Health, Pet Products, Pet Treats, Pet Wellness, Soft Chews, stress in dogs
-
-# Categories
-
+## Categories
 CBD For Pets
+## Lab Results
 
-# Lab Results

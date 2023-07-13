@@ -1,7 +1,5 @@
-# Product-ID: 2424
-
-# Description
-
+# Product ID: 2424
+## Description
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
 <h1>Tre House - Super Lemon Haze Delta 8 Live Resin Disposable Vape Pen</h1>
@@ -33,32 +31,19 @@
 </div>
 </div>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Delta 8 THC, Disposable, Disposable THC Pen, THC-P
-
-# Categories
-
+## Categories
 Disposables, THC Disposables
+## Lab Results
 
-# Lab Results

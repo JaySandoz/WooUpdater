@@ -1,7 +1,5 @@
-# Product-ID: 1817
-
-# Description
-
+# Product ID: 1817
+## Description
 <h1>
  cbdMD Botanicals - Facial Serum<br />
 </h1>
@@ -75,33 +73,20 @@ A: You can view the lab results here: [link to lab results]
  CBD has been studied for its potential benefits and is known to have anti-inflammatory and antioxidant properties. To learn more about the potential benefits of CBD, check out this article from Healthline: [link to article].<br />
 For more information about the uses and benefits of CBD, take a look at this video from the National Institute of Health: [link to video].</p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to glow with cbdMD Botanicals Facial Serum! Packed with CBD and other natural ingredients, this serum will leave your skin feeling refreshed and rejuvenated. Say goodbye to dull skin and hello to a radiant complexion. Try it now and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Facial Serum
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

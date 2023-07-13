@@ -1,7 +1,5 @@
-# Product-ID: 1448
-
-# Description
-
+# Product ID: 1448
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -40,33 +38,20 @@ cbdMD's CBD Oil Softgel Capsules are safe to use. However, it is not recommended
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for an easy way to get your daily dose of CBD? Try cbdMD&#8217;s CBD Oil Softgel Capsules! Made with premium hemp extract, these capsules are perfect for on-the-go relief. Order now and experience the benefits of CBD for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the dosage of cbdMD's CBD Oil Softgel Capsules?\", \"answer\": \"The recommended dosage is one capsule per day.\\n\\nAre cbdMD's CBD Oil Softgel Capsules vegan-friendly?\"}, {\"question\": \"Yes, cbdMD's CBD Oil Softgel Capsules are vegan-friendly.\\n\\nAre cbdMD's CBD Oil Softgel Capsules gluten-free?\", \"answer\": \"Yes, cbdMD's CBD Oil Softgel Capsules are gluten-free.\\n\\nAre cbdMD's CBD Oil Softgel Capsules tested for purity and potency?\"}, {\"question\": \"Yes, all of cbdMD's products are tested by an independent, third-party lab for\\npurity and potency.\\n\\nHow long do cbdMD's CBD Oil Softgel Capsules take to work?\", \"answer\": \"cbdMD's CBD Oil Softgel Capsules are designed to provide fast-acting relief.\\n\\nAre cbdMD's CBD Oil Softgel Capsules safe to use?\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 Absorption, anxiety, anxiety relief, Breastfeeding, Broad Spectrum, cannabinoids, CBD, CBD Oil, convenience, Customer Testimonials, Dietary Restrictions, Dosage, Essential Oils, Fast-Acting, Full-Spectrum Hemp Extract, gluten-free, health, inflammation, inflammation relief, Lab Tested, medications, Natural Ingredients, non-GMO, Omega-3, Omega-6, organic, Pain, pain relief, Portability, potency, Pregnancy, Purity, Quality Assurance, relaxation, Relief, safety, softgel capsules, Supplements, terpenes, vegan, Vegan-friendly., wellness
-
-# Categories
-
+## Categories
 CBD Capsules
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 1855
-
-# Description
-
+# Product ID: 1855
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -31,33 +29,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Introducing Hi On Nature&#8217;s Space Rings &#8211; the perfect way to elevate your CBD experience! These delicious gummies are infused with THC and CBD, providing a balanced and relaxing high. Try them out today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How much THC is in each Space Ring?\", \"answer\": \"Each Space Ring contains a highly\\npotent dose of 250MG Delta 8 THC.\"}, {\"question\": \"Are Hi On Nature Space Rings vegan?\", \"answer\": \"Yes, Hi On Nature Space Rings are\\nboth vegan and gluten-free.\"}, {\"question\": \"Do Hi On Nature Space Rings have strong psychoactive effects?\", \"answer\": \"Yes, Hi On\\nNature's Highly Psychoactive Delta 8 THC Space Rings deliver a potent\\npsychoactive experience. Approach them with caution and respect their potency.\"}, {\"question\": \"How should I adjust my dosage for these highly psychoactive gummies?\", \"answer\": \"It\\nis recommended to start with a low dosage and assess your tolerance before\\nincreasing. Effects can vary from person to person.\"}, {\"question\": \"Where can I find the lab results?\", \"answer\": \"The lab results for Hi On Nature Space\\nRings can be found on the Hi On Nature website.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Hi On Nature
-
-# Tags
-
+## Brand Name
+[{'id': 1162, 'name': 'Hi On Nature', 'slug': 'hi-on-nature'}]
+## Tags
 2500mg, 250MG per Ring, anxiety relief, Delta 8 THC, Full Spectrum, Lab Tested, natural, organic, pain relief, Premium ingredients, relaxation, Space Rings, terpenes
-
-# Categories
-
+## Categories
 THC Gummies
+## Lab Results
 
-# Lab Results

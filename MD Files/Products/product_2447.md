@@ -1,7 +1,5 @@
-# Product-ID: 2447
-
-# Description
-
+# Product ID: 2447
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -40,32 +38,19 @@ A: To use Tre House's Green Crack Live Resin Cartridge, simply attach the cartri
 Q: Is Tre House's Green Crack Live Resin Cartridge organic?<br />
 A: Yes, Tre House's Green Crack Live Resin Cartridge is certified organic, ensuring that it is free of pesticides, herbicides, and other contaminants.</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Tre House's Green Crack Live Resin Cartridge?\", \"answer\": \"Tre House's Green Crack Live Resin Cartridge is a high-end Delta 8 THC\\nproduct that delivers a powerful, yet smooth experience.\"}, {\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a type of cannabinoid found in hemp that is similar to Delta\\n9 THC, but with less intense effects.\"}, {\"question\": \"How much Delta 8 THC is in Tre House's Green Crack Live Resin Cartridge?\", \"answer\": \"Each cartridge contains 1000mg of Delta 8 THC.\"}, {\"question\": \"Is Tre House's Green Crack Live Resin Cartridge safe?\", \"answer\": \"Yes, Tre House's Green Crack Live Resin Cartridge is third-party tested for\\nquality and potency, and certified organic.\"}, {\"question\": \"Who should use Tre House's Green Crack Live Resin Cartridge?\", \"answer\": \"Tre House's Green Crack Live Resin Cartridge is intended for experienced\\ncannabis users. It is not recommended for first-time users.\"}, {\"question\": \"How do I use Tre House's Green Crack Live Resin Cartridge?\", \"answer\": \"To use Tre House's Green Crack Live Resin Cartridge, simply attach the\\ncartridge to a 510-threaded battery and inhale. Start with a few short puffs\\nand wait a few minutes to gauge the effects.\"}, {\"question\": \"Is Tre House's Green Crack Live Resin Cartridge organic?\", \"answer\": \"Yes, Tre House's Green Crack Live Resin Cartridge is certified organic,\\nensuring that it is free of pesticides, herbicides, and other contaminants.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Cartridge, Delta 8 THC, Delta 9 THC
-
-# Categories
-
+## Categories
 THC Cartridges
+## Lab Results
 
-# Lab Results

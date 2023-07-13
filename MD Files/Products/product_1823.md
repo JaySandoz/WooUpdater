@@ -1,7 +1,5 @@
-# Product-ID: 1823
-
-# Description
-
+# Product ID: 1823
+## Description
 <h1>
  cbdMD Botanicals - Luv Me Tender<br />
 </h1>
@@ -76,33 +74,20 @@ A: Yes, the Luv Me Tender product meets all industry regulations and is certifie
  At cbdMD Botanicals, we believe in educating our customers about the benefits of CBD and THC. We provide informative resources about CBD and THC, their uses, and how they can improve your well-being.<br />
 We have gathered a variety of articles, blog posts, and videos that provide helpful information about CBD and THC and their benefits. Visit our website to learn more about the many benefits of CBD and THC and how they can help you live a healthier, more balanced life.</p>
 
-
-# Short Description
-
+## Short Description
 <p>cbdMD Botanicals&#8217; Luv Me Tender is the perfect way to unwind after a long day. With a blend of CBD and THC, this product will help you relax and feel at ease. Try it out today and experience the benefits for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Broad Spectrum
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

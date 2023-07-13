@@ -1,7 +1,5 @@
-# Product-ID: 1876
-
-# Description
-
+# Product ID: 1876
+## Description
 <h1>Foria - Intimacy Awaken Arousal Oil with CBD</h1>
 <p>Get ready to experience the ultimate in intimate moments with Foria's Intimacy Awaken Arousal Oil with CBD. This natural and organic oil is designed to increase sensitivity, relaxation, and pleasure, while providing a gentle, yet powerful, aphrodisiac experience. This unique blend of natural ingredients combines the power of CBD with a variety of herbs and botanicals to provide a deeply sensual and intimate experience.</p>
 <p>Foria's Intimacy Awaken Arousal Oil with CBD is a unique blend of natural and organic ingredients that are carefully combined to provide an intimate experience like no other. This oil is designed to awaken the senses and increase sensitivity, relaxation, and pleasure. It features a blend of natural aphrodisiacs, such as damiana, ashwagandha, and ylang ylang, along with organic coconut oil and hemp-derived CBD. This powerful combination of ingredients is designed to increase sensitivity and relaxation while providing a gentle, yet powerful, aphrodisiac experience.<br />
@@ -35,33 +33,20 @@ Yes, Foria's Intimacy Awaken Arousal Oil with CBD is safe to use. However, pleas
 Yes, Foria's Intimacy Awaken Arousal Oil with CBD is vegan and cruelty-free. It is also free of any artificial fragrances.</li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>Looking to spice things up in the bedroom? Foria&#8217;s Intimacy Awaken Arousal Oil with CBD is the perfect addition to your routine. This all-natural oil enhances sensation and increases blood flow for a more intense experience. Try it out and awaken your senses tonight!</p>
 
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Foria
-
-# Tags
-
+## Brand Name
+[{'id': 1142, 'name': 'Foria', 'slug': 'foria'}]
+## Tags
 Aphrodisiac experience, Artificial fragrance-free, CBD-infused oil, cruelty-free, Foria, Hemp derived CBD, Intimacy Awaken Arousal Oil, Intimacy Products, Lubricant, Massage oil, Natural Ingredients, Organic coconut oil, Pleasure, relaxation, Sensitivity enhancement, vegan
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body, CBD Topicals
+## Lab Results
 
-# Lab Results

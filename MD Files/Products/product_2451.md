@@ -1,7 +1,5 @@
-# Product-ID: 2451
-
-# Description
-
+# Product ID: 2451
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -43,32 +41,19 @@ A: Each cartridge contains 500mg of Delta 8 THC distillate.</p>
 <h2>Educational Resources</h2>
 <p>CBD and THC are both cannabinoids found in the cannabis plant. While they have similar effects on the body, there are some key differences between the two. CBD is non-intoxicating and does not produce a “high”, while THC does produce a “high”. To learn more about the differences between CBD and THC, check out this article from Healthline: [INSERT LINK]. To learn more about the potential benefits of CBD and THC, check out this video from Leafly: [INSERT LINK].</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the Ice Cream Cake Cartridge?\", \"answer\": \"The Ice Cream Cake Cartridge is a Delta 8 THC cartridge that offers a\\nsmooth, flavorful experience. It is made with high-quality ingredients and\\ncontains a Delta 8 THC distillate that is derived from hemp.\"}, {\"question\": \"How do I use the Ice Cream Cake Cartridge?\", \"answer\": \"Using the Ice Cream Cake Cartridge is easy! Simply attach the cartridge to\\na 510 thread battery and enjoy. You can adjust the voltage of your battery to\\nget the perfect experience for you.\"}, {\"question\": \"What are the benefits of the Ice Cream Cake Cartridge?\", \"answer\": \"The Ice Cream Cake Cartridge offers a unique and enjoyable experience that\\nwill leave you feeling relaxed and refreshed. It also contains high-quality\\nDelta 8 THC distillate that is derived from hemp and is tested for purity and\\npotency.\"}, {\"question\": \"Is the Ice Cream Cake Cartridge safe to use?\", \"answer\": \"The Ice Cream Cake Cartridge is intended for adults 21 years of age or\\nolder. Please use caution when using and keep out of reach of children and\\npets. Do not drive or operate heavy machinery while using this product.\"}, {\"question\": \"Are there any customer testimonials for the Ice Cream Cake Cartridge?\", \"answer\": \"Yes, there are several customer testimonials for the Ice Cream Cake\\nCartridge. Customers have praised the smooth and flavorful experience and the\\neffects of the product.\"}, {\"question\": \"Is the Ice Cream Cake Cartridge lab tested?\", \"answer\": \"Yes, each batch of our Ice Cream Cake Cartridge is tested for purity and\\npotency by an independent, third-party lab. You can view the lab results here:\\n[INSERT LINK].\"}, {\"question\": \"What is the dosage of Delta 8 THC in the Ice Cream Cake Cartridge?\", \"answer\": \"Each cartridge contains 500mg of Delta 8 THC distillate.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Cartridge, Delta 8 THC, THC-P
-
-# Categories
-
+## Categories
 THC Cartridges
+## Lab Results
 
-# Lab Results

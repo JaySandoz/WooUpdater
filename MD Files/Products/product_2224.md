@@ -1,35 +1,20 @@
-# Product-ID: 2224
+# Product ID: 2224
+## Description
 
-# Description
-
-
-
-# Short Description
-
+## Short Description
 <p>ht now, the hottest trend in wellness is CBD and THC products. Our premium line of CBD and THC-infused products are perfect for anyone looking to relax, unwind, and feel their best. From gummies to tinctures, we&#8217;ve got you covered. Try our products today and experience the benefits for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

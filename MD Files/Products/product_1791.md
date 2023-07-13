@@ -1,7 +1,5 @@
-# Product-ID: 1791
-
-# Description
-
+# Product ID: 1791
+## Description
 <h1>cbdMD - Freeze Roll On</h1>
 <h2>Description</h2>
 <p>In search of a fast-acting topical solution for your discomfort? Consider cbdMD's Freeze Roll On. This potent CBD topical combines high-quality, natural ingredients to deliver quick relief for sore muscles and joints. It's designed for easy, clean application, making it the ideal choice for athletes or anyone seeking targeted pain relief.</p>
@@ -44,33 +42,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a quick and easy way to soothe sore muscles and joints? Try cbdMD&#8217;s Freeze Roll On! With a powerful blend of CBD and menthol, this roll-on provides fast-acting relief. Don&#8217;t let pain hold you back &#8211; give it a try today!</p>
 
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 1500mg CBD, 3000mg CBD, animal testing, Arthritis, Athletes, bottle longevity, CBD Topical, cbdMD, certifications, clean application, cooling effect, Cooling Sensation, cruelty-free, Customer Testimonials, easy application, eyes, face, four times daily, Freeze Roll On, joints, medications, Menthol, mouth, muscle strains, Natural Ingredients, nose, pain relief, potent formula, potential side effects, Quality Assurance, roll-on design, Roll-Ons, safety, sensitive areas, skin types, sore muscles, targeted relief, THC-free., third-party lab testing, treatments, usage instructions, Vegan-friendly.
-
-# Categories
-
+## Categories
 CBD Topicals
+## Lab Results
 
-# Lab Results

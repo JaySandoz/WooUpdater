@@ -1,7 +1,5 @@
-# Product-ID: 1677
-
-# Description
-
+# Product ID: 1677
+## Description
 <h1>CBDistillery - Full Spectrum CBD Oil</h1>
 <h2>Description</h2>
 <p>🎉 Ready to invite a new guest to your wellness party? Try CBDistillery's Full Spectrum CBD Oil, the life and soul of the cannabinoid fiesta! 🌿🌱 Crafted from organic hemp extract, this oil is a charismatic mix of cannabinoids and terpenes, but don't worry, it won't gatecrash your favorite smoothie with any unwanted flavors or smells. Like the perfect guest, it blends in effortlessly. 🍹😎</p>
@@ -32,33 +30,20 @@
 <p>Q: Does CBDistillery's Full Spectrum CBD Oil contain THC? A: No, CBDistillery's Full Spectrum CBD Oil contains less than 0.3% THC, which is the legal limit. It is non-psychoactive and will not cause a "high" feeling.</p>
 <p>Q: What are the benefits of using CBDistillery's Full Spectrum CBD Oil? A: CBDistillery's Full Spectrum CBD Oil offers a variety of benefits. It is a natural, organic, and non-psychoactive way to address a variety of conditions, such as anxiety, stress, pain, and sleep-related issues. It can also help improve overall health and well-being.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a natural way to relieve stress and anxiety? Try CBDistillery&#8217;s Full Spectrum CBD Oil! Made with high-quality hemp extract, this oil is perfect for anyone looking to improve their overall wellness. Plus, with no psychoactive effects, you can enjoy the benefits of CBD without the high. Order now and start feeling your best!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"CBDistillery's Full\\nSpectrum CBD Oil is a natural, organic, and non-psychoactive oil made from\\npure hemp extract that is rich in cannabinoids and terpenes. It is available\\nin four strengths: 500mg, 1000mg, 2500mg, and 5000mg.\"}, {\"question\": \"How do I use CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"Simply place the\\ndesired amount of oil under your tongue and hold it there for up to 90 seconds\\nbefore swallowing. This will ensure maximum absorption of the cannabinoids. It\\nis recommended to start with a low dose and increase gradually until you find\\nthe right amount for you.\"}, {\"question\": \"Is CBDistillery's Full Spectrum CBD Oil safe to use?\", \"answer\": \"Yes, CBDistillery's\\nFull Spectrum CBD Oil is safe to use. However, it is important to consult with\\na healthcare provider before taking any CBD product, especially if you are\\npregnant, nursing, or taking any medications.\"}, {\"question\": \"Are there any side effects of using CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"No, there are no known side effects of using CBDistillery's Full Spectrum\\nCBD Oil. However, it is important to consult with a healthcare provider before\\ntaking any CBD product, especially if you are pregnant, nursing, or taking any\\nmedications.\"}, {\"question\": \"How long does it take for CBDistillery's Full Spectrum CBD Oil to take\\neffect?\", \"answer\": \"The effects of CBDistillery's Full Spectrum CBD Oil may vary from\\nperson to person. It is recommended to start with a low dose and increase\\ngradually until you find the right amount for you.\"}, {\"question\": \"Is CBDistillery's Full Spectrum CBD Oil lab-tested?\", \"answer\": \"Yes, CBDistillery's\\nFull Spectrum CBD Oil is lab-tested to ensure the highest quality and purity.\\nThe lab results are available on the CBDistillery website.\"}, {\"question\": \"Does CBDistillery's Full Spectrum CBD Oil contain THC?\", \"answer\": \"No,\\nCBDistillery's Full Spectrum CBD Oil contains less than 0.3% THC, which is the\\nlegal limit. It is non-psychoactive and will not cause a \\\"high\\\" feeling.\"}, {\"question\": \"What are the benefits of using CBDistillery's Full Spectrum CBD Oil?\", \"answer\": \"CBDistillery's Full Spectrum CBD Oil offers a variety of benefits. It is a\\nnatural, organic, and non-psychoactive way to address a variety of conditions,\\nsuch as anxiety, stress, pain, and sleep-related issues. It can also help\\nimprove overall health and well-being.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDistillery
-
-# Tags
-
+## Brand Name
+[{'id': 1258, 'name': 'CBDistillery', 'slug': 'cbdistillery'}]
+## Tags
 1000mg, 2500mg, 5000mg, 500mg, anxiety relief, cannabinoids, CBD, CBD Oil, CBDistillery, Easy-to-Use., entourage effect., Full Spectrum, Full Spectrum CBD Oil, hemp extract, Holistic Health, Lab Tested, natural, Non-Intoxicating, non-psychoactive, organic, pain relief, Portable, Purity, Quality Assurance, Sleep Support, stress relief, Sublingual, terpenes, THC-free., therapeutic, USA-Made., wellness
-
-# Categories
-
+## Categories
 CBD Oil
+## Lab Results
 
-# Lab Results

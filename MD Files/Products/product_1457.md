@@ -1,7 +1,5 @@
-# Product-ID: 1457
-
-# Description
-
+# Product ID: 1457
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -33,33 +31,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a tasty way to enjoy the benefits of CBD? Try cbdMD&#8217;s Broad Spectrum Tropical Mix Gummies! With a delicious blend of flavors and all the goodness of broad spectrum CBD, these gummies are the perfect way to unwind and relax. Order now and experience the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the dosage of each gummy?\", \"answer\": \"Each gummy contains a precise amount of\\nCBD, enabling easy dosage customization.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies vegan-friendly?\"}, {\"question\": \"Yes, our\\ngummies are vegan-friendly.\\n\\nIs there any THC in cbdMD's Broad Spectrum Tropical Mix Gummies?\", \"answer\": \"No, our\\ngummies are THC-free.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies gluten-free?\"}, {\"question\": \"Yes, our\\ngummies are gluten-free.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies lab tested?\", \"answer\": \"Yes, our\\nproducts undergo lab testing to ensure quality and potency.\\n\\nAre cbdMD's Broad Spectrum Tropical Mix Gummies made in the USA?\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 Broad Spectrum, CBD, cbdMD, certifications, Convenient, Customizable dosage, Daily dosage, gluten-free, gummies, Lab results, Lab Tested, Made in USA, Natural Flavors, Portability, Quality Assurance, THC-free., Tropical Mix, US Hemp Authority, vegan, Vegan-friendly.
-
-# Categories
-
+## Categories
 CBD Gummies
+## Lab Results
 
-# Lab Results

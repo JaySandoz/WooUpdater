@@ -1,7 +1,5 @@
-# Product-ID: 1884
-
-# Description
-
+# Product ID: 1884
+## Description
 <h1>Honeyroot + The Hive Collection 2G Disposable THC Pen</h1>
 <p>Are you looking for a convenient and discreet way to enjoy the benefits of THC? Look no further than Honeyroot + The Hive Collection 2G Disposable THC Pen! This innovative device offers an alternative to traditional cannabis consumption methods and provides a safe and effective way to enjoy the therapeutic benefits of THC. With its unique strain-specific terpene profile, this pen offers a natural and holistic approach to cannabis consumption.</p>
 <h2>Description</h2>
@@ -55,33 +53,20 @@ The Potential Benefits of THC<br />
 How to Use THC Safely and Responsibly<br />
 </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Experience the sweetest high with Honeyroot&#8217;s The Hive Collection 2G Disposable THC Pen. Perfect for on-the-go, this sleek and discreet pen delivers a smooth and potent hit every time. Don&#8217;t miss out on this buzz-worthy product, try it now!</p>
 
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 1134, 'name': 'Honeyroot', 'slug': 'honeyroot'}]
+## Tags
 Alternative cannabinoids, anxiety relief, cannabis consumption, Convenient, Delta 10 THC, Delta 8 THC, Delta 9 THC, discreet consumption, Easy-to-Use., High-quality product, Lab Tested, mood enhancement., Natural Ingredients, organic, pain management, Sleep Quality, Stress Reduction, Terpene profile, THC Pen
-
-# Categories
-
+## Categories
 THC Disposables
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 1880
-
-# Description
-
+# Product ID: 1880
+## Description
 <h1>Foria - Intimacy Sex Oil With CBD</h1>
 <p>Foria's Intimacy Sex Oil is an organic and natural CBD-infused lubricant that helps enhance pleasure and relaxation for both partners. This unique product is made with a blend of natural and organic ingredients, including broad-spectrum CBD, and is designed to promote relaxation and arousal. Foria's Intimacy Sex Oil is a revolutionary product that helps empower couples and encourages self-care.</p>
 <h2>Description</h2>
@@ -36,33 +34,20 @@ A: Yes, all lab results are available on our website for customers to review.<br
 Q: Are there any customer testimonials for Foria's Intimacy Sex Oil?<br />
 A: Yes, customers have reported that Foria's Intimacy Sex Oil has helped them relax and enjoy intimate moments with their partners.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking to spice up your love life? Foria&#8217;s Intimacy Sex Oil with CBD is the perfect addition to your bedroom routine. This all-natural oil enhances sensation and pleasure, while also promoting relaxation and reducing discomfort. Try it out tonight and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Foria's Intimacy Sex Oil?\", \"answer\": \"Foria's Intimacy Sex Oil is a revolutionary product that helps unlock\\npleasure and relaxation for both partners. This unique product is made with a\\nblend of natural and organic ingredients, including broad-spectrum CBD, and is\\ndesigned to promote relaxation and arousal.\"}, {\"question\": \"How do I use Foria's Intimacy Sex Oil?\", \"answer\": \"Foria's Intimacy Sex Oil can be used as a lubricant or as a massage oil. To\\nuse as a lubricant, apply a few drops to the area of skin that needs\\nlubrication. To use as a massage oil, apply a few drops to the area that needs\\nto be massaged and massage the area in a circular motion.\"}, {\"question\": \"Is Foria's Intimacy Sex Oil safe for use on sensitive skin?\", \"answer\": \"Yes, Foria's Intimacy Sex Oil is free of harsh chemicals, parabens, and\\nartificial fragrances, making it safe for use on sensitive skin.\"}, {\"question\": \"Does Foria's Intimacy Sex Oil contain any allergens?\", \"answer\": \"No, Foria's Intimacy Sex Oil is vegan, cruelty-free, and gluten-free,\\nmaking it an ideal choice for those with allergies or sensitivities.\"}, {\"question\": \"How much CBD is in Foria's Intimacy Sex Oil?\", \"answer\": \"Foria's Intimacy Sex Oil is formulated with a precise dosage of CBD,\\nallowing for maximum absorption and effectiveness.\"}, {\"question\": \"Are there any lab results available for Foria's Intimacy Sex Oil?\", \"answer\": \"Yes, all lab results are available on our website for customers to review.\"}, {\"question\": \"Are there any customer testimonials for Foria's Intimacy Sex Oil?\", \"answer\": \"Yes, customers have reported that Foria's Intimacy Sex Oil has helped them\\nrelax and enjoy intimate moments with their partners.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Foria
-
-# Tags
-
+## Brand Name
+[{'id': 1142, 'name': 'Foria', 'slug': 'foria'}]
+## Tags
 Aphrodisiacs, Broad-spectrum CBD, CBD Infused, Clary sage, cruelty-free, Foria's Intimacy Sex Oil with CBD, gluten-free, Intimacy Products, Jasmine, Lab Tested, Massage oil, Natural Ingredients, Organic lubricant, Pleasure enhancement, relaxation, Safe for sensitive skin, vegan, Ylang-ylang
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body, CBD Topicals
+## Lab Results
 
-# Lab Results

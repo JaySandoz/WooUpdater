@@ -1,34 +1,19 @@
-# Product-ID: 2356
+# Product ID: 2356
+## Description
 
-# Description
+## Short Description
 
-
-
-# Short Description
-
-
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

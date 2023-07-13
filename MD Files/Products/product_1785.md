@@ -1,7 +1,5 @@
-# Product-ID: 1785
-
-# Description
-
+# Product ID: 1785
+## Description
 <div id="direction.tab" class="data item content" role="tabpanel" data-role="content" aria-labelledby="tab-label-direction.tab" aria-hidden="false">
 <div class="product attribute shortdescription">
 <div class="value">
@@ -33,33 +31,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a way to soothe sore muscles and joints? Look no further than cbdMD&#8217;s Recover Tub! Packed with high-quality CBD and other natural ingredients, this tub is the perfect way to unwind after a tough workout or long day. So why wait? Try it out today and start feeling better tomorrow!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 CBD For Pain and Inflammation
-
-# Categories
-
+## Categories
 CBD Topicals
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 1892
-
-# Description
-
+# Product ID: 1892
+## Description
 <p><strong>TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack</strong></p>
 <p>Are you seeking a potent and natural method to unwind and alleviate stress? TRĒ House's Live Resin Delta 8 Vape Pen - Green Crack might be just what you need. This superior vape pen is prepared with high-grade, organic ingredients, offering a smooth, tranquil experience. The unique combination of Delta 8 THC and the terpenes from the Green Crack strain creates a balance of relaxation and relief.</p>
 <p><strong>Description</strong></p>
@@ -26,33 +24,20 @@
 <li>Q: Are there lab results available for TRĒ House's Live Resin Delta 8 Vape Pen - Green Crack? A: Yes, all our products undergo lab-testing, and you can find the lab results on our website to ensure the highest standards of quality and safety.</li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>Experience the ultimate high with TRĒ House&#8217;s Live Resin Delta 8 Vape Pen in Green Crack flavor. Made with premium CBD and THC, this pen delivers a smooth and potent hit every time. Get yours now and elevate your vaping game!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"Is TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack made with organic ingredients?\", \"answer\": \"Yes, TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack is made with high-grade, organic ingredients to ensure a superior experience.\\n  *\"}, {\"question\": \"How do I use TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack?\", \"answer\": \"Using the vape pen is simple. Just remove the packaging, bring the pen to your lips, and draw in a breath to enjoy the smooth and tranquil experience.\\n  *\"}, {\"question\": \"Are there lab results available for TR\\u0112 House's Live Resin Delta 8 Vape Pen - Green Crack?\", \"answer\": \"Yes, all our products undergo lab-testing, and you can find the lab results on our website to ensure the highest standards of quality and safety.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Delta 8 THC, delta 8 vape pen, Green Crack strain, high-grade, Lab Tested, Live Resin, natural method, organic ingredients, relaxation, stress relief, Superior quality, tranquility., unwind
-
-# Categories
-
+## Categories
 THC Disposables
+## Lab Results
 
-# Lab Results

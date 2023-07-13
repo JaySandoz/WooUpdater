@@ -1,7 +1,5 @@
-# Product-ID: 2406
-
-# Description
-
+# Product ID: 2406
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -33,32 +31,19 @@
 </div>
 </div>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC Flower 3.5G is a\\nhigh-quality hemp flower grown in the USA. It contains Cannabidiol (CBD)\\nflower sprayed with Hexahydrocannabinol (HHC) isolate.\"}, {\"question\": \"What are the effects of CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC\\nFlower 3.5G provides a calming effect, a full-body buzz, and a very light head\\nchange.\"}, {\"question\": \"Is CBD Living's HHC Flower 3.5G federally legal?\", \"answer\": \"Yes, CBD Living's HHC\\nFlower 3.5G is federally legal and compliant with the 2018 Farm Bill as it\\ncontains less than 0.3% Delta9 THC.\"}, {\"question\": \"Is CBD Living's HHC Flower 3.5G lab-tested?\", \"answer\": \"Yes, CBD Living's HHC Flower\\n3.5G is lab-tested for purity and potency.\"}, {\"question\": \"How do I use CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC Flower 3.5G\\ncan be smoked using a bong, pipe, joint, or blunt, according to your\\npreference.\"}, {\"question\": \"Who should not use CBD Living's HHC Flower 3.5G?\", \"answer\": \"CBD Living's HHC Flower\\n3.5G is not recommended for use by minors, or pregnant or breastfeeding women.\\nIt is also psychoactive and could cause you to fail a drug test.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Delta8 Living
-
-# Tags
-
+## Brand Name
+[{'id': 906, 'name': 'Delta8 Living', 'slug': 'delta8-living'}]
+## Tags
 2018 Farm Bill, Calming Effect, Cannabidiol, CBD Flower, CBD Living, Customer Testimonials, Federally Legal, Full-body Buzz, Health and Wellness, Hemp Flower, Hemp Flower Strains, Hexahydrocannabinol, HHC Flower, HHC Isolate, Lab Tested, Light Head Change, Made in USA, Psychoactive, relaxation, Safety Information, Smoking Methods
-
-# Categories
-
+## Categories
 Flower, THC Flowers
+## Lab Results
 
-# Lab Results

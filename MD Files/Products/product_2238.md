@@ -1,7 +1,5 @@
-# Product-ID: 2238
-
-# Description
-
+# Product ID: 2238
+## Description
 <h1>Redwood Reserves Peppermint CBD Joint: Your Holistic Smoking Alternative</h1>
 <p>Experience the luxury of holistic relaxation with Redwood Reserves Peppermint CBD Joint. This premium offering combines full-spectrum hemp flower and organic peppermint, providing a soothing and enjoyable smoking alternative rich in cannabinoids and terpenes.</p>
 <h2>Product Overview</h2>
@@ -30,33 +28,20 @@
 <p>What are the benefits of the Redwood Reserves Peppermint CBD Joint?</p>
 <p>This product offers a natural alternative to smoking. It's packed with beneficial cannabinoids, terpenes, and organic peppermint for a soothing smoking experience. The full-spectrum hemp flower helps reduce inflammation and discomfort, while the peppermint adds a refreshing aroma and flavor.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a refreshing way to enjoy CBD? Try Redwood Reserves&#8217; Peppermint Hemp Joint! Made with high-quality hemp and infused with peppermint, this joint is perfect for a quick pick-me-up. Order now and experience the benefits of CBD in a delicious and convenient way!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 anti-inflammatory, cannabinoids, Full-Spectrum Hemp, Hemp Joint, Holistic Smoking Alternative, Lab Tested, Natural Relaxation, non-GMO, non-psychoactive, Organic Peppermint, Peppermint, Peppermint CBD Joint, Pesticide-Free, Pre-Rolled Joint, Redwood Reserves, Soothing Effects, Sustainable Sourcing, terpenes
-
-# Categories
-
+## Categories
 CBD Flowers, Flower
+## Lab Results
 
-# Lab Results

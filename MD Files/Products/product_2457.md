@@ -1,7 +1,5 @@
-# Product-ID: 2457
-
-# Description
-
+# Product ID: 2457
+## Description
 <h2>TRĒ House - Rainbow Runtz Delta 8 Prerolls (5 Pack)</h2>
 <p>Step into the world of relaxation and unique sensation with TRĒ House's Rainbow Runtz Delta 8 Prerolls. This 5-pack of prerolls contains premium-grade Delta 8-infused hemp flowers, providing a unique way to enjoy the benefits of Delta 8 THC. Crafted with the utmost quality, TRĒ House's Rainbow Runtz Prerolls are the ideal choice for those seeking an effortless, enjoyable, and effective method to experience Delta 8 THC.</p>
 <p>TRĒ House's Rainbow Runtz Prerolls are created with top-shelf Delta 8-infused hemp flowers. Each preroll contains 0.5g of potent Delta 8 flowers, delivering the right amount of cannabinoids for your enjoyment. For those seeking a convenient method to experience Delta 8 THC without the need for self-rolling, TRĒ House's Rainbow Runtz Prerolls offer a hassle-free solution. Made with top-tier ingredients, these prerolls are free from harmful additives or chemicals. Each batch undergoes rigorous testing to ensure potency and purity, providing you with a high-quality product every time.</p>
@@ -34,32 +32,19 @@ A: As with all CBD/THC products, please use responsibly and consult your doctor 
 <h2>Educational Resources</h2>
 <p>Tre House's Rainbow Runtz Prerolls are the perfect choice for those looking for a luxurious and convenient way to get their daily dose of cannabinoids. Learn more about the benefits of CBD/THC and how it can improve your well-being with these informative resources:</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is in Tre House's Rainbow Runtz Prerolls?\", \"answer\": \"Tre House's Rainbow Runtz Prerolls are made with premium-grade CBD/THC\\nflowers, giving you the perfect amount of cannabinoids to enjoy your desired\\neffects.\"}, {\"question\": \"How much CBD/THC is in each preroll?\", \"answer\": \"Each preroll contains 0.7g of premium-grade CBD/THC flowers, giving you the\\nperfect amount of cannabinoids to enjoy your desired effects.\"}, {\"question\": \"Are Tre House's Rainbow Runtz Prerolls tested for potency and purity?\", \"answer\": \"Yes, Tre House's Rainbow Runtz Prerolls are tested for potency and purity,\\nensuring that you get the highest-quality product every time.\"}, {\"question\": \"Are Tre House's Rainbow Runtz Prerolls free from any additives or\\nchemicals?\", \"answer\": \"Yes, Tre House's Rainbow Runtz Prerolls are free from any additives or\\nchemicals, ensuring that you get the highest-quality product every time.\"}, {\"question\": \"How do I use Tre House's Rainbow Runtz Prerolls?\", \"answer\": \"Tre House's Rainbow Runtz Prerolls are easy to use and can be enjoyed\\nanytime, anywhere. Simply light the preroll and inhale to experience the full\\neffects of the CBD/THC.\"}, {\"question\": \"Is it safe to use Tre House's Rainbow Runtz Prerolls?\", \"answer\": \"As with all CBD/THC products, please use responsibly and consult your\\ndoctor before use. Do not drive or operate heavy machinery while using Tre\\nHouse's Rainbow Runtz Prerolls.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Cannabinoid experience, CBD/THC consumption, CBD/THC flowers, Convenient method, Delta 8 THC, Easy-to-Use., Flower, Hassle-free solution, Health and Wellness, High-quality product, Inhalation method, Lab Tested, Luxurious experience, Potency and purity, Pre-rolled joints, Pre-Rolls, Premium-grade, Premium-grade hemp, Preroll Pack, Rainbow Runtz Delta 8 Prerolls, relaxation, Self-rolling alternative, THC/CBD benefits, THC/CBD blend, Third-party lab tested, Top-shelf ingredients, Unique effects, User-friendly
-
-# Categories
-
+## Categories
 Flower, THC Flowers
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 1811
-
-# Description
-
+# Product ID: 1811
+## Description
 <h1>cbdMD Botanicals - The Everyday Oil</h1>
 <p>Get ready to experience the power of nature with cbdMD Botanicals - The Everyday Oil! This revolutionary product is crafted with the highest quality, full-spectrum hemp extract, carefully blended with organic botanicals and natural ingredients to provide a unique and effective way to manage your everyday wellness.<br />
 This natural oil offers relief from inflammation, anxiety, and pain, as well as providing relaxation and sleep-aid benefits. With its non-GMO, gluten-free, vegan, and USA-made formula, cbdMD Botanicals - The Everyday Oil is the perfect choice for those looking for a natural, safe, and effective way to improve their overall health and wellbeing.</p>
@@ -39,33 +37,20 @@ Yes, cbdMD Botanicals - The Everyday Oil is vegan.</li>
 cbdMD Botanicals - The Everyday Oil is made in the USA.</li>
 </ol>
 
-
-# Short Description
-
+## Short Description
 <p>Introducing cbdMD Botanicals Everyday Oil &#8211; the perfect addition to your daily routine! Packed with CBD and THC, this oil is designed to help you feel your best. Try it today and experience the benefits for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 Broad Spectrum, Face Oil
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

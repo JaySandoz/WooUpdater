@@ -1,7 +1,5 @@
-# Product-ID: 1936
-
-# Description
-
+# Product ID: 1936
+## Description
 <h1>CBDLiving - Nano CBD infused Water</h1>
 <p>Refresh your body and mind with CBDLiving's Nano CBD infused Water. This all-natural, organic wellness drink is packed with nano-sized CBD molecules to provide fast-acting, long-lasting relief from inflammation, anxiety, and stress. With a light and refreshing taste, CBDLiving's Nano CBD infused Water is the perfect way to stay hydrated and support your overall health and wellbeing.</p>
 <h2>Description</h2>
@@ -44,33 +42,20 @@ view the lab results<br />
 <p>Q: What is the shelf life of CBDLiving's Nano CBD infused Water?</p>
 <p>A: CBDLiving's Nano CBD infused Water has a shelf life of one year.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Quench your thirst and soothe your mind with CBDLiving&#8217;s Nano CBD infused water. Our advanced technology ensures maximum absorption for ultimate relaxation. Try it now and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is CBDLiving's Nano CBD infused Water?\", \"answer\": \"CBDLiving's Nano CBD infused Water is a revolutionary wellness beverage\\nthat provides fast-acting relief from inflammation, anxiety, and stress. It is\\nmade with all-natural, organic ingredients, including nano-sized CBD\\nmolecules, purified water, and natural flavors.\"}, {\"question\": \"Is CBDLiving's Nano CBD infused Water safe?\", \"answer\": \"Yes, CBDLiving's Nano CBD infused Water is a safe and natural product that\\nis non-psychoactive and THC-free. It is made with all-natural, organic\\ningredients and is rigorously tested to ensure safety and purity. However, it\\nis important to consult with your doctor before using any new product,\\nespecially if you are pregnant, nursing, or taking any medications.\"}, {\"question\": \"What are the benefits of CBDLiving's Nano CBD infused Water?\", \"answer\": \"CBDLiving's Nano CBD infused Water provides fast-acting, long-lasting\\nrelief from inflammation, anxiety, and stress. It is also vegan, gluten-free,\\nand non-GMO, making it the perfect choice for anyone looking to support their\\noverall health and wellbeing.\"}, {\"question\": \"How does CBDLiving's Nano CBD infused Water work?\", \"answer\": \"CBDLiving's Nano CBD infused Water is packed with nano-sized CBD molecules\\nthat are quickly and easily absorbed into your body for maximum efficacy. The\\nnano-sized particles quickly and easily penetrate the body's cells, providing\\nfast-acting relief from inflammation, anxiety, and stress.\"}, {\"question\": \"How much CBD is in CBDLiving's Nano CBD infused Water?\", \"answer\": \"Each bottle of CBDLiving's Nano CBD infused Water contains 25mg of THC-\\nfree, nano-sized CBD molecules.\"}, {\"question\": \"Is CBDLiving's Nano CBD infused Water vegan?\", \"answer\": \"Yes, CBDLiving's Nano CBD infused Water is vegan, gluten-free, and non-GMO.\"}, {\"question\": \"What is the shelf life of CBDLiving's Nano CBD infused Water?\", \"answer\": \"CBDLiving's Nano CBD infused Water has a shelf life of one year.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDLiving
-
-# Tags
-
+## Brand Name
+[{'id': 1105, 'name': 'CBDLiving', 'slug': 'cbdliving'}]
+## Tags
 alternative medicine., anti-inflammatory, anxiety, Beverage, Cannabidiol, CBD, CBDLiving, health, Hemp, holistic, hydration, Nano CBD, natural, pain management, relaxation, stress relief, Water, wellness, Wellness Drink
-
-# Categories
-
+## Categories
 CBD Drinks
+## Lab Results
 
-# Lab Results

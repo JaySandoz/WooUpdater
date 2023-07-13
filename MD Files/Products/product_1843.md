@@ -1,7 +1,5 @@
-# Product-ID: 1843
-
-# Description
-
+# Product ID: 1843
+## Description
 <h1>CBDLiving - Sparkling Water</h1>
 <p>CBDLiving's Sparkling Water is the perfect way to stay hydrated and get your daily dose of CBD. Enjoy a refreshing and flavorful beverage that's packed with natural ingredients and zero calories. Infused with the highest quality hemp extract, CBDLiving's Sparkling Water provides stress relief, relaxation, and mood enhancement in a single sip.</p>
 <h2>Description</h2>
@@ -38,33 +36,20 @@
 <p>Q: Is CBDLiving's Sparkling Water safe for children?</p>
 <p>A: No, CBDLiving's Sparkling Water is not recommended for children under the age of 18.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Quench your thirst and relax with CBDLiving&#8217;s Sparkling Water! Infused with high-quality CBD, this refreshing drink is perfect for any occasion. Try it now and experience the benefits of CBD for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How much CBD is in each can of CBDLiving's Sparkling Water?\", \"answer\": \"Each can contains 25mg of CBD.\"}, {\"question\": \"Is CBDLiving's Sparkling Water gluten-free?\", \"answer\": \"Yes, CBDLiving's Sparkling Water is gluten-free.\"}, {\"question\": \"Does CBDLiving's Sparkling Water contain any sugar?\", \"answer\": \"No, CBDLiving's Sparkling Water is sugar-free.\"}, {\"question\": \"Is CBDLiving's Sparkling Water vegan-friendly?\", \"answer\": \"Yes, CBDLiving's Sparkling Water is vegan-friendly.\"}, {\"question\": \"Does CBDLiving's Sparkling Water contain THC?\", \"answer\": \"No, CBDLiving's Sparkling Water is THC-free.\"}, {\"question\": \"Is CBDLiving's Sparkling Water safe for pregnant or breastfeeding women?\", \"answer\": \"No, CBDLiving's Sparkling Water is not recommended for pregnant or\\nbreastfeeding women.\"}, {\"question\": \"Is CBDLiving's Sparkling Water safe for children?\", \"answer\": \"No, CBDLiving's Sparkling Water is not recommended for children under the\\nage of 18.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDLiving
-
-# Tags
-
+## Brand Name
+[{'id': 1105, 'name': 'CBDLiving', 'slug': 'cbdliving'}]
+## Tags
 25mg CBD per Can, B12, B5, B6, Black Cherry, Calcium Chloride, Calcium d-Pantothenate, Carbonated Water, CBD Infused, CBD Water, CBDLiving, Citric Acid, Cyanocobalamin, Erythritol, Flavorful, Fruit and Vegetable Juice, gluten-free, hydration, Malic Acid, Mango Guava, mood enhancement., Nano Hemp Extract, Natural Flavor, Natural Ingredients, Non-Alcoholic, Orange Grapefruit, Peach Honey, Potassium Sorbate, Pyridoxine Hydrochloride, relaxation, Retinyl Palmitate, Sodium Benzoate, Sodium Citrate, Sparkling Water, Stevia, Strawberry Lavender, stress relief, THC-free., Trimagnesium Citrate, vegan, Vitamin-Boosted, Vitamins A, Zero Calories, Zinc Aspartate
-
-# Categories
-
+## Categories
 CBD Drinks
+## Lab Results
 
-# Lab Results

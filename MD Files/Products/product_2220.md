@@ -1,7 +1,5 @@
-# Product-ID: 2220
-
-# Description
-
+# Product ID: 2220
+## Description
 <h1>D8-Hi - Delta 8 Cookies</h1>
 <p>Introducing D8-Hi - Delta 8 Cookies, the perfect way to get your daily dose of CBD. These delicious and nutritious cookies are full of natural ingredients and infused with Delta 8, a powerful cannabinoid that can help reduce stress and anxiety. Whether you're looking for a tasty snack or a natural way to relax, D8-Hi - Delta 8 Cookies are the perfect choice.</p>
 <h2>Description</h2>
@@ -59,33 +57,20 @@ the label and follow the recommended dosage.</p>
 <h2>Educational Resources</h2>
 <p>At D8-Hi, we believe it is important to educate customers about CBD and its benefits. We have compiled a list of informative resources about CBD, including articles, blog posts, and videos. We also have resources about Delta 8 and how it can improve your well-being. Check out our website for more information.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to experience a new level of relaxation with D8-Hi Delta 8 Cookies! Infused with high-quality CBD and THC, these cookies are perfect for anyone looking to unwind and destress. Try them out today and see for yourself why they&#8217;re the talk of the town!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Delta 8?\", \"answer\": \"Delta 8 is a powerful cannabinoid that can help reduce stress and anxiety,\\nimprove mood, and provide a calming effect. It is derived from hemp and is\\nfederally legal.\"}, {\"question\": \"How much Delta 8 is in each cookie?\", \"answer\": \"Each cookie contains 50mg of Delta 8.\"}, {\"question\": \"Are the cookies vegan?\", \"answer\": \"Yes, the cookies are vegan and made with all-natural ingredients.\"}, {\"question\": \"Are the cookies safe to use?\", \"answer\": \"Yes, the cookies are tested in a third-party lab to ensure quality and\\nsafety. However, as with any product, it is important to read  \\nthe label and follow the recommended dosage.\"}, {\"question\": \"What flavors are available?\", \"answer\": \"The cookies come in a variety of flavors, including chocolate chip, oatmeal\\nraisin, and peanut butter.\"}, {\"question\": \"How do I use the cookies?\", \"answer\": \"Simply take one cookie and enjoy the delicious flavor and the calming\\neffects of Delta 8.\"}, {\"question\": \"Where can I find the lab results?\", \"answer\": \"The lab results are available on the product page, providing customers with\\npeace of mind that they are getting a high-quality product.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-D8-Hi
-
-# Tags
-
+## Brand Name
+[{'id': 950, 'name': 'D8-Hi', 'slug': 'd8-hi'}]
+## Tags
 Cannabis Products, CBD Products, D8-HI, Delta 8 Chocolate Cookies, Delta 8 Cinnamon Cookies, Delta 8 Cookies, Delta 8 Peanut Butter Cookies, Delta 8 THC, Edibles, THC Edibles
-
-# Categories
-
+## Categories
 Edibles, THC, THC Edibles, THC Products
+## Lab Results
 
-# Lab Results

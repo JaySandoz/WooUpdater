@@ -1,7 +1,5 @@
-# Product-ID: 1917
-
-# Description
-
+# Product ID: 1917
+## Description
 <h1>Slumber - Super-Potent CBN Gummies</h1>
 <p>In search of a natural solution to your sleep woes? Your search ends with Slumber's Super-Potent CBN Gummies! Crafted with wholesome ingredients and boosted with CBN, a cannabinoid celebrated for its sleep-enhancing properties, these delectable gummies are your passport to the tranquil sleep you've been yearning for.</p>
 <h2>Product Overview</h2>
@@ -27,33 +25,20 @@ A: We advise consuming one gummy 30 minutes before bed. Do not exceed the recomm
 Q: Are Slumber's Super-Potent CBN Gummies vegan and gluten-free?<br />
 A: Absolutely, our gummies are vegan-friendly and gluten-free, ideal for individuals with dietary restrictions.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready for the best sleep of your life with Slumber Extra Strength CBN Gummies! Packed with the power of CBN, these gummies will help you relax and drift off into a peaceful slumber. Say goodbye to restless nights and hello to sweet dreams. Try them now!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is CBN?\", \"answer\": \"CBN, or Cannabinol, is a cannabinoid present in hemp and cannabis plants.\\nIt's renowned for its sleep-enhancing benefits and is often used as a natural\\nsleep aid.\"}, {\"question\": \"How many gummies should I consume?\", \"answer\": \"We advise consuming one gummy 30 minutes before bed. Do not exceed the\\nrecommended dosage.\"}, {\"question\": \"Are Slumber's Super-Potent CBN Gummies vegan and gluten-free?\", \"answer\": \"Absolutely, our gummies are vegan-friendly and gluten-free, ideal for\\nindividuals with dietary restrictions.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 904, 'name': 'Slumber CBN', 'slug': 'slumber-cbn'}]
+## Tags
 30-Day Guarantee, CBN, CBN Extract, CBN for Sleep, CBN Gummies, Colorado-Made, Extra Strength, Fast-Acting, gluten-free, Lab Tested, Natural Sleep Aid, No Melatonin, non-GMO, Non-Intoxicating, Quality Assurance, Sleep-Aid, vegan
-
-# Categories
-
+## Categories
 CBD Gummies
+## Lab Results
 
-# Lab Results

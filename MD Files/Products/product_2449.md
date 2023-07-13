@@ -1,7 +1,5 @@
-# Product-ID: 2449
-
-# Description
-
+# Product ID: 2449
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -43,32 +41,19 @@ A: Yes, it is important to use Delta 8 THC products responsibly. This product is
 Q: What are the benefits of using the Tre House GS Cookies Cartridge?<br />
 A: The Tre House GS Cookies Cartridge provides a convenient way to enjoy the benefits of Delta 8 THC. This product is perfect for those looking for a strong and enjoyable experience without the hassle of rolling a joint or packing a bowl. This product is also great for those who don't want to worry about the strong smell associated with smoking cannabis.</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"Is the Tre House GS Cookies Cartridge a Delta 8 THC product?\", \"answer\": \"Yes, the Tre House GS Cookies Cartridge is a Delta 8 THC product.\"}, {\"question\": \"How much THC is in the Tre House GS Cookies Cartridge?\", \"answer\": \"The Tre House GS Cookies Cartridge contains 1000mg of THC per cartridge.\"}, {\"question\": \"How should I use the Tre House GS Cookies Cartridge?\", \"answer\": \"To use the Tre House GS Cookies Cartridge, simply attach the cartridge to a\\ncompatible battery and inhale to enjoy the smooth and flavorful experience.\"}, {\"question\": \"Is the Tre House GS Cookies Cartridge tested for potency and purity?\", \"answer\": \"Yes, the Tre House GS Cookies Cartridge is tested for potency and purity.\\nAll of our products are third-party tested to ensure they meet the highest\\nquality standards.\"}, {\"question\": \"Are there any safety precautions I should take when using this product?\", \"answer\": \"Yes, it is important to use Delta 8 THC products responsibly. This product\\nis intended for adults 21 years of age or older. Please consult with your\\nhealthcare provider before using this product.\"}, {\"question\": \"What are the benefits of using the Tre House GS Cookies Cartridge?\", \"answer\": \"The Tre House GS Cookies Cartridge provides a convenient way to enjoy the\\nbenefits of Delta 8 THC. This product is perfect for those looking for a\\nstrong and enjoyable experience without the hassle of rolling a joint or\\npacking a bowl. This product is also great for those who don't want to worry\\nabout the strong smell associated with smoking cannabis.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Cartridge, Delta 8 THC, Delta 9 THC, THC
-
-# Categories
-
+## Categories
 Cartridges, THC Cartridges
+## Lab Results
 
-# Lab Results

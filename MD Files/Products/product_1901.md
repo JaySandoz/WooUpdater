@@ -1,7 +1,5 @@
-# Product-ID: 1901
-
-# Description
-
+# Product ID: 1901
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
 <div class="markdown prose w-full break-words dark:prose-invert light">
@@ -38,33 +36,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to experience the ultimate high with Honeyroot&#8217;s Delta 8 1G Disposable THC Pen! This sleek and easy-to-use pen is perfect for on-the-go use and delivers a smooth and potent hit every time. Don&#8217;t miss out on this game-changing product &#8211; try it now and elevate your cannabis experience!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the HoneyRoot Wellness Delta 8 Disposable Vape Pen?\", \"answer\": \"The\\nHoneyRoot Wellness Delta 8 Disposable Vape Pen is an easy-to-use vape pen that\\nallows users to experience the benefits of Delta-8 THC in a convenient and\\nenjoyable manner. It's made with top-tier ingredients and houses a\\nmeticulously formulated mix of hemp extract and terpenes that offer a seamless\\nand enjoyable vaping experience.\"}, {\"question\": \"What ingredients are in the HoneyRoot Wellness Delta 8 Disposable Vape\\nPen?\", \"answer\": \"The HoneyRoot Wellness Delta 8 Disposable Vape Pen contains a\\nprecise blend of hemp extract and terpenes that make for a smooth and\\nenjoyable vaping experience. The pen contains Delta-8 THC, and a proprietary\\nblend of terpenes, all of which are lab-tested to ensure quality and\\nconsistency.\"}, {\"question\": \"Is the HoneyRoot Wellness Delta 8 Disposable Vape Pen safe to use?\", \"answer\": \"Yes, the HoneyRoot Wellness Delta 8 Disposable Vape Pen is a safe product when\\nused responsibly. However, it's important to note that it may cause\\npsychotropic effects and is not intended for use by individuals under the age\\nof 21.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 1134, 'name': 'Honeyroot', 'slug': 'honeyroot'}]
+## Tags
 cannabinoid content, convenience, Delta 8, Delta 8 THC, Disposable Vape Pen, Easy-to-Use., hemp extract, high-quality ingredients, HoneyRoot Wellness, Lab Tested, pre-charged, premium vaping, safety, smooth vaping experience, terpenes, testimonials, unique flavors, user-friendly design
-
-# Categories
-
+## Categories
 THC Disposables
+## Lab Results
 
-# Lab Results

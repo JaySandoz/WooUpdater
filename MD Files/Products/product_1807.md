@@ -1,7 +1,5 @@
-# Product-ID: 1807
-
-# Description
-
+# Product ID: 1807
+## Description
 <h1>
  cbdMD Botanicals - Exfoliating Face Mask<br />
 </h1>
@@ -76,33 +74,20 @@ A: Yes, this face mask helps to nourish and rejuvenate your skin while providing
 <p>
  CBD is a natural compound found in the hemp plant that has been found to have many positive benefits for the skin. It has anti-inflammatory and antioxidant properties that can help reduce the appearance of wrinkles, restore your skin's natural glow, and leave your skin feeling soft and smooth. To learn more about the benefits of CBD for your skin, check out cbdMD's blog post, "The Benefits of CBD for Skin Care." Additionally, watch cbdMD's video, "The Benefits of CBD for Skin Care," to learn more about the potential benefits of CBD for your skin.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to glow with cbdMD Botanicals Exfoliating Face Mask! Packed with CBD and natural botanicals, this mask gently removes dead skin cells and leaves your face feeling refreshed and rejuvenated. Try it out today and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Face Mask
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

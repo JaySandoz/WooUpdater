@@ -1,7 +1,5 @@
-# Product-ID: 1915
-
-# Description
-
+# Product ID: 1915
+## Description
 <h1>Delta8 Living - Delta 8 Lemonade 100MG</h1>
 <p>Get ready to experience the perfect balance of sweet and tart with Delta 8 Living's Delta 8 Lemonade 100MG! This delicious THC drink is a refreshing way to enjoy the natural benefits of Delta 8 THC. With a smooth, citrusy flavor, Delta 8 Lemonade is the perfect way to relax and unwind.</p>
 <h2>Description</h2>
@@ -32,33 +30,20 @@ A: Each bottle of Delta 8 Lemonade contains 100MG of Delta 8 THC. It is best to 
 Q: Is Delta 8 Lemonade safe to use?<br />
 A: Delta 8 Lemonade is safe to use and should not cause any adverse side effects. However, it is important to note that Delta 8 THC can interact with certain medications and may cause drowsiness. If you are taking any medications, please consult your doctor before using.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a refreshing way to enjoy Delta 8? Try Delta8 Living&#8217;s Lemonade! With 100MG of Delta 8, this drink is perfect for a chill day. Order now and experience the benefits of Delta 8 for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Delta 8 Lemonade?\", \"answer\": \"Delta 8 Lemonade is a THC beverage made with 100MG of Delta 8 THC per\\nbottle. It is a refreshing and enjoyable way to experience the natural\\nbenefits of Delta 8 THC without any of the psychoactive effects.\"}, {\"question\": \"What are the benefits of Delta 8 Lemonade?\", \"answer\": \"Delta 8 Lemonade can be used to reduce anxiety, improve mood, and increase\\nappetite. It is also a great way to relax and unwind after a long day.\"}, {\"question\": \"How do I use Delta 8 Lemonade?\", \"answer\": \"Delta 8 Lemonade is easy to use and can be enjoyed in a variety of ways.\\nFor best results, shake the bottle before drinking. You can also add it to\\nyour favorite smoothie or cocktail for a refreshing twist.\"}, {\"question\": \"What is the dosage of Delta 8 Lemonade?\", \"answer\": \"Each bottle of Delta 8 Lemonade contains 100MG of Delta 8 THC. It is best\\nto start with a small dose and increase as needed.\"}, {\"question\": \"Is Delta 8 Lemonade safe to use?\", \"answer\": \"Delta 8 Lemonade is safe to use and should not cause any adverse side\\neffects. However, it is important to note that Delta 8 THC can interact with\\ncertain medications and may cause drowsiness. If you are taking any\\nmedications, please consult your doctor before using.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Delta8 Living
-
-# Tags
-
+## Brand Name
+[{'id': 906, 'name': 'Delta8 Living', 'slug': 'delta8-living'}]
+## Tags
 alternative medicine., anxiety, Beverage, Cannabidiol, CBD, Delta 8, Delta 8 THC, Delta8Living, Edibles, health, Hemp, hemp extract, holistic, Lemonade, natural, pain management, relaxation, stress relief, THC-infused, wellness
-
-# Categories
-
+## Categories
 THC Drinks
+## Lab Results
 
-# Lab Results

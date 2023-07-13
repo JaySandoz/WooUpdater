@@ -1,7 +1,5 @@
-# Product-ID: 1827
-
-# Description
-
+# Product ID: 1827
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -28,33 +26,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Indulge in a luxurious bath experience with CBDfx Bath Bomb! Infused with premium CBD and essential oils, it soothes your body and mind. Try it now and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDFx
-
-# Tags
-
+## Brand Name
+[{'id': 1109, 'name': 'CBDFx', 'slug': 'cbdfx'}]
+## Tags
 Aromatherapy, Bath Bombs, CBD, Eucalyptus, holistic wellness, lavender, Lemongrass, Mango, Natural Ingredients, rejuvenation, relaxation, self-care., Shea Butter, Skincare, stress relief
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

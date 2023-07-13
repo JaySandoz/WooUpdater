@@ -1,7 +1,5 @@
-# Product-ID: 1699
-
-# Description
-
+# Product ID: 1699
+## Description
 <h1>CBDistillery - Broad Spectrum Oil</h1>
 <p>Are you looking for a powerful and effective CBD oil to help you maintain your overall wellbeing and vitality? CBDistillery's Broad Spectrum Oil is the perfect choice! This superior quality oil is made with only the highest quality, organic ingredients and hemp extract to provide you with a full body support. It's non-GMO, organic, and has a natural flavor that is sure to please.</p>
 <h2>Description</h2>
@@ -39,33 +37,20 @@
 <p>Q: Is there a satisfaction guarantee?</p>
 <p>A: Yes, CBDistillery stands behind the quality of its products with a 100% satisfaction guarantee.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a high-quality CBD oil that&#8217;s THC-free? Look no further than CBDistillery&#8217;s Broad Spectrum Oil! With a range of strengths and flavors to choose from, this oil is perfect for anyone looking to experience the benefits of CBD without any psychoactive effects. Try it today and see for yourself why CBDistillery is one of the most trusted names in the industry!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil is a high-quality CBD oil that is made\\nwith organic ingredients and hemp extract to provide full body support. It\\nhelps to reduce stress, anxiety, and inflammation, while providing relief from\\npain and promoting relaxation.\"}, {\"question\": \"What ingredients are in CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil is made with a unique blend of\\ncannabinoids, terpenes, and other natural ingredients. It contains a broad\\nspectrum of cannabinoids, including CBD, CBG, CBN, and CBC, as well as a\\nvariety of terpenes for maximum effectiveness.\"}, {\"question\": \"How do I use CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil can be taken orally or added to food and\\nbeverages. For best results, take 1-2 droppers of oil under your tongue and\\nhold it there for 30-60 seconds before swallowing. This method allows the oil\\nto be absorbed directly into your bloodstream for maximum effectiveness.\"}, {\"question\": \"Is CBDistillery's Broad Spectrum Oil safe?\", \"answer\": \"Yes, CBDistillery's Broad Spectrum Oil is made with high-quality, organic\\ningredients and hemp extract. It is non-GMO, gluten-free, and third-party\\ncertified to guarantee its quality and safety. As with any supplement, it is\\nimportant to consult with your healthcare provider before taking any CBD\\nproduct.\"}, {\"question\": \"What are the benefits of taking CBDistillery's Broad Spectrum Oil?\", \"answer\": \"CBDistillery's Broad Spectrum Oil is a powerful and effective oil that\\nprovides a full body support. It helps to reduce stress, anxiety, and\\ninflammation, while providing relief from pain and promoting relaxation. It\\ncan also help to improve your overall wellbeing and vitality, giving you the\\nboost you need to live your best life.\"}, {\"question\": \"Is there a satisfaction guarantee?\", \"answer\": \"Yes, CBDistillery stands behind the quality of its products with a 100%\\nsatisfaction guarantee.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDistillery
-
-# Tags
-
+## Brand Name
+[{'id': 1258, 'name': 'CBDistillery', 'slug': 'cbdistillery'}]
+## Tags
 anxiety reduction, Broad Spectrum, Broad Spectrum Oil, cannabinoids, CBD Oil, CBDistillery, certifications, Full Body Support, hemp extract, inflammation reduction, Lab Tested, Natural Flavor, non-GMO, organic ingredients, pain relief, Quality Assurance, relaxation, stress relief, terpenes
-
-# Categories
-
+## Categories
 CBD Oil
+## Lab Results
 
-# Lab Results

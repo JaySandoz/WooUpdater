@@ -1,7 +1,5 @@
-# Product-ID: 2237
-
-# Description
-
+# Product ID: 2237
+## Description
 <h1>
  Redwood Reserves-Menthol Crush Pack<br />
 </h1>
@@ -107,33 +105,20 @@ Redwood Reserves-Menthol Crush Pack contains a variety of beneficial cannabinoid
   Video: What is CBD and What Are Its Benefits?<br />
  </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a refreshing and invigorating CBD experience? Look no further than Redwood Reserves Menthol Crush Pack! Our premium CBD flower is infused with cool menthol flavor for a smooth and satisfying smoke. Try it today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Crush, Menthol, Redwood
-
-# Categories
-
+## Categories
 CBD Flowers
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 1894
-
-# Description
-
+# Product ID: 1894
+## Description
 <h1>TRĒ House - Live Resin HHC Vape Pen</h1>
 <p>Immerse yourself in the exhilarating world of TRĒ House with their Live Resin HHC Vape Pen. This innovative vape pen provides the opportunity to indulge in the effects of THC, without the downsides of traditional smoking methods. With its high-quality ingredients, robust cannabinoid content, and precise dosage, this pen offers an experience you won't forget.</p>
 <h2>Description</h2>
@@ -22,33 +20,20 @@ A: The TRĒ House Live Resin HHC Vape Pen contains a precise blend of cannabinoi
 <p>Q: Is the TRĒ House Live Resin HHC Vape Pen safe to use?<br />
 A: Yes, the TRĒ House Live Resin HHC Vape Pen is a safe</p>
 
-
-# Short Description
-
+## Short Description
 <p>Experience the ultimate high with TRĒ House&#8217;s Live Resin HHC Vape Pen. Our premium quality CBD and THC blend will leave you feeling relaxed and rejuvenated. Try it now and elevate your senses!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the TR\\u0112 House Live Resin HHC Vape Pen?\", \"answer\": \"The TR\\u0112 House Live Resin HHC Vape Pen is an advanced vape pen that allows\\nusers to experience the benefits of THC without the harshness associated with\\nsmoking. It's made with top-tier ingredients and houses a meticulously\\nformulated mix of cannabinoids and terpenes that offer a seamless and\\nenjoyable vaping experience.\"}, {\"question\": \"What ingredients are in the TR\\u0112 House Live Resin HHC Vape Pen?\", \"answer\": \"The TR\\u0112 House Live Resin HHC Vape Pen contains a precise blend of\\ncannabinoids and terpenes that make for a smooth and enjoyable vaping\\nexperience. The pen contains Hexahydrocannabinol (HHC), a highly potent semi-\\nsynthetic form of THC, and a proprietary blend of terpenes, all of which are\\nlab-tested to ensure quality and consistency.\"}, {\"question\": \"Is the TR\\u0112 House Live Resin HHC Vape Pen safe to use?\", \"answer\": \"Yes, the TR\\u0112 House Live Resin HHC Vape Pen is a safe\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 cannabinoids, Cannabis, Disposable, Grape Ape Strain, Hexahydrocannabinol, HHC, high potency, Live Resin, Psychoactive, Rechargeable, terpenes, THC, TRĒ House, Vape Pen, Zero Additives
-
-# Categories
-
+## Categories
 THC Disposables
+## Lab Results
 
-# Lab Results

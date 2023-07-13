@@ -1,7 +1,5 @@
-# Product-ID: 1819
-
-# Description
-
+# Product ID: 1819
+## Description
 <h1>cbdMD Botanicals - Be Gone CBD Clearskin</h1>
 <p>Are you looking for a natural and effective way to keep your skin looking healthy and beautiful? Look no further than cbdMD Botanicals - Be Gone CBD Clearskin. This revolutionary skincare serum is formulated with the highest quality organic ingredients and hemp extract to provide powerful anti-inflammatory and acne-fighting benefits.</p>
 <h2>Description</h2>
@@ -60,33 +58,20 @@ CBD vs. THC: What’s the Difference?<br />
 </a></li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>Say goodbye to blemishes and hello to clear, glowing skin with cbdMD Botanicals&#8217; Be Gone CBD Clearskin. Our powerful formula is infused with CBD and other natural ingredients to help soothe and nourish your skin. Try it today and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the Be Gone CBD Clearskin serum?\", \"answer\": \"The Be Gone CBD Clearskin serum is a plant-based, vegan-friendly facial\\nmoisturizer formulated with organic ingredients and full spectrum hemp extract\\nto provide powerful anti-inflammatory and acne-fighting benefits.\"}, {\"question\": \"What is in the Be Gone CBD Clearskin serum?\", \"answer\": \"The Be Gone CBD Clearskin serum contains organic ingredients such as aloe\\nvera, lavender, and chamomile, as well as 500mg of full spectrum hemp extract\\nwith CBD, CBG, and CBN.\"}, {\"question\": \"How do I use the Be Gone CBD Clearskin serum?\", \"answer\": \"For best results, apply the Be Gone CBD Clearskin serum twice daily. First,\\ncleanse your face with a gentle cleanser. Next, apply a thin layer of the\\nserum to your face and neck. Allow it to absorb for a few minutes before\\napplying any other skincare products.\"}, {\"question\": \"Is the Be Gone CBD Clearskin serum safe?\", \"answer\": \"Yes, the Be Gone CBD Clearskin serum is safe for use on the face. It is\\nvegan-friendly, cruelty-free, and non-toxic. However, it is important to test\\na small patch of skin before use. If any irritation occurs, discontinue use\\nimmediately.\"}, {\"question\": \"Are there any side effects associated with the Be Gone CBD Clearskin serum?\", \"answer\": \"There are no known side effects associated with the Be Gone CBD Clearskin\\nserum. However, it is important to test a small patch of skin before use. If\\nany irritation occurs, discontinue use immediately.\"}, {\"question\": \"Is the Be Gone CBD Clearskin serum third-party tested?\", \"answer\": \"Yes, all of cbdMD's products are third-party tested by an ISO\\n17025-certified lab to ensure safety and potency. Our lab results are\\navailable for review  \\n[  \\nhere  \\n](https://www.cbdmd.com/lab-results)  \\n.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 Clearskin
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

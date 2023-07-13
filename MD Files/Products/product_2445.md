@@ -1,7 +1,5 @@
-# Product-ID: 2445
-
-# Description
-
+# Product ID: 2445
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -31,32 +29,19 @@
 </div>
 </div>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a variant of THC known for\\nits relaxing and enjoyable effects.\"}, {\"question\": \"How do I use the Gelato Cartridge?\", \"answer\": \"Our Gelato Cartridge is user-\\nfriendly. Simply attach the cartridge to any 510-threaded vaporizer device and\\ntake a puff. Start with a single small puff, assess the effects, and adjust\\nyour dosage accordingly.\"}, {\"question\": \"Is the Gelato Cartridge safe?\", \"answer\": \"Yes, our Gelato Cartridge is safe\\nto use. We ensure the highest quality ingredients and a solvent-free\\nextraction process to deliver a pure and potent product.\"}, {\"question\": \"What are the effects of the Gelato Cartridge?\", \"answer\": \"Our Gelato\\nCartridge offers a milder, more relaxing effect compared to other forms of\\nTHC. The delicious sweet and creamy flavor of Gelato is sure to delight,\\nproviding a uniquely enjoyable experience.\"}, {\"question\": \"Is the Gelato Cartridge legal?\", \"answer\": \"Please check your local laws and\\nregulations regarding the legality of Delta 8 THC products in your area.\"}, {\"question\": \"Is the Gelato Cartridge gluten-free?\", \"answer\": \"Yes, our Gelato Cartridge\\nis gluten-free. We ensure our products are safe and accessible to all.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Cartridge, Delta 8 THC
-
-# Categories
-
+## Categories
 Cartridges, THC Cartridges
+## Lab Results
 
-# Lab Results

@@ -1,7 +1,5 @@
-# Product-ID: 2229
-
-# Description
-
+# Product ID: 2229
+## Description
 <h1>Upland Hemp 5 Pack</h1>
 <p>Experience the highest quality hemp flower available with the Upland Hemp 5 Pack! This pack of premium hemp flower is carefully cultivated in the USA and is designed to provide you with the best hemp flower experience. This full spectrum hemp flower is rich in cannabinoids and terpenes, providing a wide range of therapeutic benefits. Each pack contains five 1-gram pre-rolls that are perfect for anyone looking for natural relief from pain, inflammation, anxiety, and stress.</p>
 <h2>Description</h2>
@@ -55,33 +53,20 @@ CBD vs. THC: What's the Difference?<br />
 Hemp: What You Need to Know<br />
 </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a natural way to relax and unwind? Try Upland Hemp&#8217;s 5 Pack! Our premium CBD and THC blend is perfect for those looking to destress and find their inner peace. Don&#8217;t wait, order now and experience the benefits of Upland Hemp for yourself!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the Upland Hemp 5 Pack?\", \"answer\": \"The Upland Hemp 5 Pack is a pack of premium hemp flower, carefully\\ncultivated in the USA and designed to provide the best hemp flower experience.\\nThis full spectrum hemp flower is rich in cannabinoids and terpenes, providing\\na wide range of therapeutic benefits.\"}, {\"question\": \"What are the benefits of the Upland Hemp 5 Pack?\", \"answer\": \"The Upland Hemp 5 Pack is perfect for anyone looking for natural relief\\nfrom pain, inflammation, anxiety, and stress. This full spectrum hemp flower\\nis rich in cannabinoids and terpenes, providing a wide range of therapeutic\\nbenefits.\"}, {\"question\": \"Is the Upland Hemp 5 Pack non-psychoactive?\", \"answer\": \"Yes, the Upland Hemp 5 Pack is non-psychoactive and THC-free.\"}, {\"question\": \"How much hemp flower is in each pre-roll?\", \"answer\": \"Each pre-roll contains 1 gram of hemp flower.\"}, {\"question\": \"Where is the hemp flower grown?\", \"answer\": \"The hemp flower is grown in the USA.\"}, {\"question\": \"Is the Upland Hemp 5 Pack lab tested?\", \"answer\": \"Yes, the Upland Hemp 5 Pack is lab tested for safety and consistency.\"}, {\"question\": \"What is the CBD concentration of the Upland Hemp 5 Pack?\", \"answer\": \"The CBD concentration of the Upland Hemp 5 Pack is 18-20%.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[{'id': 1453, 'name': 'Upland Hemp', 'slug': 'upland-hemp'}]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 CBD Flowers, Flower
+## Lab Results
 
-# Lab Results

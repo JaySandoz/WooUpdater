@@ -1,7 +1,5 @@
-# Product-ID: 1841
-
-# Description
-
+# Product ID: 1841
+## Description
 <h1>TRĒ House - Delta 9 Gummies with CBD 1:1</h1>
 <p>Are you looking for an easy, delicious way to get your daily dose of CBD? Look no further than TRĒ House - Delta 9 Gummies with CBD 1:1! These tasty gummies are formulated with a unique blend of full-spectrum CBD and THC, offering a balanced ratio of 1:1.</p>
 <h2>Description</h2>
@@ -36,33 +34,20 @@ A: Yes, TRĒ House - Delta 9 Gummies with CBD 1:1 are non-psychoactive.<br />
 Q: Are there any side effects associated with TRĒ House - Delta 9 Gummies with CBD 1:1?<br />
 A: As with any CBD or THC product, it is important to follow the recommended dosage and consult a medical professional before use.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to experience the ultimate relaxation with TRĒ House Delta 9 Gummies infused with CBD 1:1. Our delicious gummies are perfect for anyone looking to unwind and destress. Try them out today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the ratio of CBD to THC in TR\\u0112 House - Delta 9 Gummies with CBD\\n1:1?\", \"answer\": \"Each gummy contains 10mg of CBD and 10mg of THC for a balanced 1:1 ratio.\"}, {\"question\": \"Are TR\\u0112 House - Delta 9 Gummies with CBD 1:1 gluten-free?\", \"answer\": \"Yes, all TR\\u0112 House products are certified as gluten-free.\"}, {\"question\": \"Are TR\\u0112 House - Delta 9 Gummies with CBD 1:1 vegan-friendly?\", \"answer\": \"Yes, all TR\\u0112 House products are certified as vegan-friendly.\"}, {\"question\": \"Do TR\\u0112 House - Delta 9 Gummies with CBD 1:1 contain any allergens?\", \"answer\": \"No, TR\\u0112 House - Delta 9 Gummies with CBD 1:1 are free of gluten, soy,\\ndairy, and sugar.\"}, {\"question\": \"How many gummies should I take per day?\", \"answer\": \"It is recommended to take one gummy per serving, up to three times per day.\"}, {\"question\": \"Are TR\\u0112 House - Delta 9 Gummies with CBD 1:1 non-psychoactive?\", \"answer\": \"Yes, TR\\u0112 House - Delta 9 Gummies with CBD 1:1 are non-psychoactive.\"}, {\"question\": \"Are there any side effects associated with TR\\u0112 House - Delta 9 Gummies with\\nCBD 1:1?\", \"answer\": \"As with any CBD or THC product, it is important to follow the recommended\\ndosage and consult a medical professional before use.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 1:1 Ratio, Allergen-Free, anxiety relief, CBD, Delta 9 Gummies, Delta 9 THC, Dosage, gluten-free, Improved Sleep, Lab Tested, Natural Ingredients, non-psychoactive, pain management, safety, stress relief, THC, TRĒ House, Vegan-friendly.
-
-# Categories
-
+## Categories
 CBD Gummies, THC Gummies
+## Lab Results
 
-# Lab Results

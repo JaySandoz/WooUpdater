@@ -1,7 +1,5 @@
-# Product-ID: 1711
-
-# Description
-
+# Product ID: 1711
+## Description
 <h1>CBDfx - Turmeric &amp; Spirulina CBD Gummies</h1>
 <p>Are you looking for a natural way to support your overall wellness? CBDfx’s Turmeric &amp; Spirulina CBD Gummies are the perfect way to get your daily intake of CBD and essential vitamins and minerals in one delicious and convenient snack. Each gummy is packed with 25mg of broad-spectrum CBD, turmeric, and spirulina to provide you with a powerful combination of anti-inflammatory, immune-supporting, and antioxidant benefits.</p>
 <h2>Description</h2>
@@ -77,33 +75,20 @@ CBD vs. THC: What’s the Difference?<br />
 What Is the Endocannabinoid System?<br />
 </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a tasty way to get your daily dose of CBD? Try CBDfx&#8217;s Turmeric &amp; Spirulina CBD Gummies! Packed with antioxidants and anti-inflammatory properties, these gummies are perfect for anyone looking to improve their overall wellness. Plus, they taste great! Order now and start feeling your best.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How many Turmeric & Spirulina CBD Gummies should I take?\", \"answer\": \"We recommend taking one gummy per day, or as needed. Each gummy contains\\n25mg of broad-spectrum CBD, so you can adjust your dosage as needed.\"}, {\"question\": \"Are CBDfx's Turmeric & Spirulina CBD Gummies vegan?\", \"answer\": \"Yes, our gummies are vegan, non-GMO, and free of artificial sweeteners,\\ncolors, and flavors.\"}, {\"question\": \"Are CBDfx's Turmeric & Spirulina CBD Gummies safe to take?\", \"answer\": \"Yes, our gummies are safe to take as directed. As with any supplement, it\\nis recommended that you consult your healthcare provider before taking any new\\nproducts.\"}, {\"question\": \"Is there any THC in CBDfx's Turmeric & Spirulina CBD Gummies?\", \"answer\": \"No, our gummies are made with broad-spectrum CBD, which means that they are\\nfree from THC.\"}, {\"question\": \"Where can I find the lab results for CBDfx's Turmeric & Spirulina CBD\\nGummies?\", \"answer\": \"You can find the lab results for our Turmeric & Spirulina CBD Gummies here:\\n[insert link].\"}, {\"question\": \"Are CBDfx's Turmeric & Spirulina CBD Gummies certified by the US Hemp\\nAuthority?\", \"answer\": \"Yes, we are certified by the US Hemp Authority, meaning that our products\\nmeet the highest standards of quality and safety.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-CBDFx
-
-# Tags
-
+## Brand Name
+[{'id': 1109, 'name': 'CBDFx', 'slug': 'cbdfx'}]
+## Tags
 all-natural ingredients, amino acids, antioxidant power, Antioxidants, B-complex vitamins, Broad-spectrum CBD, CBD, curcumin, Endocannabinoid System., gluten-free, gummies, health benefits, homeostasis, Minerals., non-GMO, organic, Spirulina, THC-free., third-party laboratory tests, Turmeric, vegan, wellness boost
-
-# Categories
-
+## Categories
 CBD Gummies
+## Lab Results
 
-# Lab Results

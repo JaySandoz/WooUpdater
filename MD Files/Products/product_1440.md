@@ -1,7 +1,5 @@
-# Product-ID: 1440
-
-# Description
-
+# Product ID: 1440
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -38,33 +36,20 @@ The recommended dosage varies based on the strength of the gummy. It is advised 
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a tasty way to get your daily dose of CBD? Try cbdMD&#8217;s Full Spectrum CBD Gummies! Made with high-quality ingredients and packed with all the benefits of full spectrum CBD, these gummies are the perfect addition to your wellness routine. Plus, they&#8217;re easy to take on-the-go and taste delicious! Don&#8217;t wait, try them today and see the difference for yourself.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is the CBD concentration in cbdMD's Full Spectrum CBD Gummies?\", \"answer\": \"cbdMD's Full Spectrum CBD Gummies are available in three strengths: 50mg,\\n100mg, and 200mg of pure, premium-grade, THC-free CBD oil per gummy.\\n\\nAre cbdMD's Full Spectrum CBD Gummies vegan?\"}, {\"question\": \"Yes, cbdMD's Full Spectrum CBD Gummies are vegan and do not contain any animal\\nproducts.\\n\\nAre cbdMD's Full Spectrum CBD Gummies gluten-free?\", \"answer\": \"Absolutely! cbdMD's Full Spectrum CBD Gummies are gluten-free and do not\\ncontain any gluten-containing ingredients.\\n\\nAre cbdMD's Full Spectrum CBD Gummies tested by third-party labs?\"}, {\"question\": \"Yes, cbdMD's products, including Full Spectrum CBD Gummies, undergo extensive\\ntesting by third-party labs to ensure exceptional quality and safety.\\n\\nWhat is the recommended dosage for cbdMD's Full Spectrum CBD Gummies?\", \"answer\": \"The recommended dosage varies based on the strength of the gummy. It is\\nadvised to start with one gummy per day and adjust the dosage as needed under\\nthe guidance of your healthcare professional.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 alternative medicine., anxiety relief, Calming Treats, Cannabidiol, Cannabidiol Edibles, cannabinoids, CBD gummies, CBD Snacks, Daily Routine, Dietary Supplements, Full Spectrum, gluten-free, Gluten-Free Products, Gummy Bears, Health and Wellness Store., Health Supplements, Herbal Extracts, Holistic Health, Lab Tested, Mind-Body Wellness, Natural Flavors, Natural Ingredients, Nutritional Supplements, organic, organic hemp, potency, Premium-Grade CBD, Quality Assurance, relaxation, Sleep Improvement, Sleep-Aid, Stress Reduction, THC-free., third-party tested., Transparency, vegan, Vegan-friendly., wellness
-
-# Categories
-
+## Categories
 CBD Gummies
+## Lab Results
 
-# Lab Results

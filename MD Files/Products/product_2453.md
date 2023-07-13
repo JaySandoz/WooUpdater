@@ -1,7 +1,5 @@
-# Product-ID: 2453
-
-# Description
-
+# Product ID: 2453
+## Description
 <h1>Tre House - Lemon Jack</h1>
 <p>Experience the unparalleled blend of Delta 8, Delta 9, Delta 10, and THC-P with Tre House's superior Lemon Jack Disposable Vape Pen. Engineered to deliver a potent, yet enjoyable experience, this groundbreaking product is crafted with a commitment to quality and safety.</p>
 <h2 class="flex flex-grow flex-col gap-3">Product Overview</h2>
@@ -51,32 +49,19 @@ The Potential Benefits of CBD &amp; THC<br />
 The Science Behind CBD &amp; THC<br />
 </a></p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Tre House's Lemon Jack Disposable?\", \"answer\": \"Tre House's Lemon Jack Disposable is a high-end THC disposable that\\ncombines four powerful cannabinoids: Delta 8, Delta 9, Delta 10, and THC-P.\"}, {\"question\": \"How much Delta 8, Delta 9, Delta 10, and THC-P does the product contain?\", \"answer\": \"Each disposable contains 500mg of Delta 8, Delta 9, Delta 10, and THC-P.\"}, {\"question\": \"How do I use the product?\", \"answer\": \"Simply remove the cap from the disposable and inhale as needed. The\\ndisposable is designed to be used until all of the product has been consumed.\"}, {\"question\": \"Is the product tested for safety and quality?\", \"answer\": \"Yes, Tre House's Lemon Jack Disposable is certified by the National Hemp\\nAssociation and has been tested for potency, pesticides, heavy metals, and\\nother contaminants. A link to the lab results can be found here: [INSERT\\nLINK].\"}, {\"question\": \"Who should use this product?\", \"answer\": \"Tre House's Lemon Jack Disposable is intended for adults 21 and over.\\nPregnant or nursing women, people with a medical condition, or those taking\\nmedication should not use this product. Please consult your doctor before\\nusing this product.\"}, {\"question\": \"Are there any customer testimonials?\", \"answer\": \"Yes, there are several customer testimonials available on our website.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Delta 10 THC, Delta 8 THC, Delta 9 THC, THC-P
-
-# Categories
-
+## Categories
 THC Disposables
+## Lab Results
 
-# Lab Results

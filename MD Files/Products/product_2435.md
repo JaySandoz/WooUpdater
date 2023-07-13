@@ -1,7 +1,5 @@
-# Product-ID: 2435
-
-# Description
-
+# Product ID: 2435
+## Description
 <p><strong>Tre House's Acapulco Gold HHC Prerolls (5PK)</strong></p>
 <p>Experience the pinnacle of tranquility with Tre House's Acapulco Gold HHC Prerolls! This package contains 5 perfectly rolled prerolls, each infused with half a gram of our high-quality, lab-verified, HHC-infused hemp flower. The Acapulco Gold strain provides a classic, full-bodied taste reminiscent of the golden era of cannabis, offering a serene, soothing sensation perfect for unwinding after a demanding day.</p>
 <p>Acapulco Gold HHC Prerolls from Tre House are your perfect companion for natural, hemp-based relaxation. Each preroll is meticulously crafted with top-grade, lab-verified, and organic-certified hemp flower. Acapulco Gold, a unique hybrid strain, delivers a robust, full-bodied flavor with subtle citrus undertones. The calming, mellow effects make it an excellent choice for decompression after a stressful day.</p>
@@ -22,32 +20,19 @@
 <p><em><strong>What are Tre House's Acapulco Gold HHC Prerolls?</strong></em> Tre House's Acapulco Gold HHC Prerolls are prerolls infused with HHC and packed with half a gram of Acapulco Gold hemp flower, offering a robust, full-bodied flavor with citrus undertones.</p>
 <p><em><strong>What benefits do Tre House's Acapulco Gold HHC Prerolls offer?</strong></em> Tre House's Acapulco Gold HHC Prerolls provide a convenient, discreet</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 HHC Flower, PreRoll
-
-# Categories
-
+## Categories
 Flower
+## Lab Results
 
-# Lab Results

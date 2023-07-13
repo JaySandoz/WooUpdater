@@ -1,7 +1,5 @@
-# Product-ID: 1815
-
-# Description
-
+# Product ID: 1815
+## Description
 <h1>
  cbdMD Botanicals - Exfoliating Facial Cleanser<br />
 </h1>
@@ -88,33 +86,20 @@ A: Yes, this product is made with natural hemp extract, botanicals, and plant-ba
   The cbdMD Blog<br />
  </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to glow with cbdMD Botanicals Exfoliating Facial Cleanser! Infused with CBD and natural botanicals, this gentle yet effective cleanser removes dirt and impurities while leaving your skin feeling refreshed and rejuvenated. Say goodbye to dull skin and hello to a radiant complexion. Try it now and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Facial Cleanser
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

@@ -1,34 +1,19 @@
-# Product-ID: 2358
+# Product ID: 2358
+## Description
 
-# Description
+## Short Description
 
-
-
-# Short Description
-
-
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Cone, Fenix, Joint
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

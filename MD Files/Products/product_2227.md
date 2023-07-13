@@ -1,7 +1,5 @@
-# Product-ID: 2227
-
-# Description
-
+# Product ID: 2227
+## Description
 <h1>Redwood Reserves-Loosie</h1>
 <p>Introducing Redwood Reserves-Loosie, the perfect alternative to smoking cigarettes. This pre-roll is made from premium quality, organic hemp and is free of tobacco, making it a healthier and more natural way to enjoy cannabis. Redwood Reserves-Loosie offers a unique aroma and flavor, and is non-psychoactive, offering relief from anxiety and stress without the psychoactive effects.</p>
 <h2>Description</h2>
@@ -54,33 +52,20 @@ CBD: A Beginner's Guide<br />
 CBD 101: What is CBD and How Does it Work?<br />
 </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a smooth and flavorful CBD experience? Look no further than Redwood Reserves&#8217; Loosie! Made with high-quality hemp flower, this pre-roll is perfect for any occasion. Try it out today and see why so many people are raving about Redwood Reserves!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Redwood Reserves-Loosie?\", \"answer\": \"Redwood Reserves-Loosie is a pre-rolled joint made from premium quality,\\norganic hemp and is free of tobacco, making it a healthier and more natural\\nway to enjoy cannabis.\"}, {\"question\": \"Is Redwood Reserves-Loosie non-psychoactive?\", \"answer\": \"Yes, Redwood Reserves-Loosie is non-psychoactive, making it perfect for\\nthose looking for relief from anxiety and stress without the psychoactive\\neffects of THC.\"}, {\"question\": \"Is Redwood Reserves-Loosie lab tested?\", \"answer\": \"Yes, Redwood Reserves-Loosie is lab tested to ensure a consistent quality\\nand potency. Each batch of Redwood Reserves-Loosie is tested for cannabinoids,\\nterpenes, heavy metals, and other contaminants.\"}, {\"question\": \"How much hemp flower does Redwood Reserves-Loosie contain?\", \"answer\": \"Redwood Reserves-Loosie contains 0.6 grams of hemp flower.\"}, {\"question\": \"What are the benefits of Redwood Reserves-Loosie?\", \"answer\": \"Redwood Reserves-Loosie offers a unique aroma and flavor, and is non-\\npsychoactive, offering relief from anxiety and stress without the psychoactive\\neffects. This joint is free of tobacco, making it a healthier alternative to\\nsmoking cigarettes. It is also perfect for those looking to relax, unwind, and\\nexperience the natural wellness benefits of CBD.\"}, {\"question\": \"Is there a risk of drug interaction when using Redwood Reserves-Loosie?\", \"answer\": \"Although Redwood Reserves-Loosie is non-psychoactive, it is important to\\nnote that CBD may interact with certain medications, so it is recommended to\\nconsult with a healthcare professional before using this product.\"}, {\"question\": \"How should Redwood Reserves-Loosie be used?\", \"answer\": \"Redwood Reserves-Loosie is easy to use and requires no preparation. Simply\\nlight the end of the joint and inhale the smoke.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[{'id': 1427, 'name': 'Redwoods Reserve', 'slug': 'redwoods-reserve'}]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 CBD Flowers, Flower
+## Lab Results
 
-# Lab Results

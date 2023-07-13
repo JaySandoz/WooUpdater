@@ -1,7 +1,5 @@
-# Product-ID: 1825
-
-# Description
-
+# Product ID: 1825
+## Description
 <h1>
  cbdMD Botanicals - Perfect Polish Facial Exfoliant<br />
 </h1>
@@ -128,33 +126,20 @@ No, cbdMD Botanicals Perfect Polish Facial Exfoliant is free of synthetic fragra
  </li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>Get ready to glow with cbdMD Botanicals Perfect Polish Facial Exfoliant! Infused with CBD and natural botanicals, this gentle exfoliant will leave your skin feeling smooth and refreshed. Say goodbye to dull skin and hello to a radiant complexion. Try it now!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Broad Spectrum
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

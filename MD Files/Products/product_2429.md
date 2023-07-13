@@ -1,7 +1,5 @@
-# Product-ID: 2429
-
-# Description
-
+# Product ID: 2429
+## Description
 <h1>Smoking Dog - 100MG D9 THC Shot</h1>
 <p>Experience the pinnacle of hemp-derived delights with Smoking Dog's 100MG D9 THC Shot! Packed with a powerful dosage of 100MG of Delta 9 THC, this product is an excellent choice for those seeking a potent and flavorful THC experience. With its unique blend of ingredients and taste, Smoking Dog's 100MG D9 THC Shot is set to be a favorite among seasoned THC consumers and novices alike.</p>
 <h2>Description</h2>
@@ -32,32 +30,19 @@ Answer: Smoking Dog's 100MG D9 THC Shot offers numerous benefits, from its poten
 <p>What ingredients are in Smoking Dog's 100MG D9 THC Shot?<br />
 Answer: Smoking Dog's 100MG D9 THC Shot is crafted with high-quality ingredients, including Delta 9 THC derived from hemp.</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 901, 'name': 'Smoking Dog', 'slug': 'smoking-dog'}]
+## Tags
 THC Drink, THC Shot
-
-# Categories
-
+## Categories
 Edibles, THC, THC Drinks
+## Lab Results
 
-# Lab Results

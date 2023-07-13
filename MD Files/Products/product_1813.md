@@ -1,7 +1,5 @@
-# Product-ID: 1813
-
-# Description
-
+# Product ID: 1813
+## Description
 <h1>
  cbdMD Botanicals - Creamy Cleanser<br />
 </h1>
@@ -77,33 +75,20 @@ A: No, the cbdMD Botanicals - Creamy Cleanser is free of parabens, sulfates, and
 <p>
  At cbdMD, we believe in educating our customers about CBD and THC and their potential benefits. We have curated a collection of helpful resources to help you learn more about CBD and THC, including articles, blog posts, and videos. Visit our website to learn more.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a gentle yet effective cleanser that won&#8217;t strip your skin of its natural oils? Look no further than cbdMD Botanicals Creamy Cleanser! Infused with CBD and other natural ingredients, this cleanser will leave your skin feeling soft, smooth, and refreshed. Try it today and see the difference for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Facial Cleanser
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

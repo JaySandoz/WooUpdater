@@ -1,7 +1,5 @@
-# Product-ID: 1763
-
-# Description
-
+# Product ID: 1763
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -34,33 +32,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>Get the best sleep of your life with VitaDreamz Sleep EZ Pillows! Infused with CBD and THC, these pillows will help you relax and drift off into a peaceful slumber. Try them out today and wake up feeling refreshed and rejuvenated.</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How much CBD is in each chew?\", \"answer\": \"Each chew contains a 25 mgof CBD.\\n\\nIs the CBD in the chews non-psychoactive?\"}, {\"question\": \"Yes, the CBD in the chews is\\nnon-psychoactive and 100% THC-free.\\n\\nAre the chews safe to use?\", \"answer\": \"Yes, the chews are safe to use. However, it is\\nimportant to consult with your physician before using them.\\n\\nHow often should I consume the chews?\"}, {\"question\": \"You can consume the chews as often\\nas needed, but we recommend starting with the least amount.\\n\\nAre the chews suitable for all ages?\", \"answer\": \"The chews are suitable for adults\\nonly.\\n\\nHow long do the chews last?\"}, {\"question\": \"The chews are designed to last for up to 40\\nnights.\\n\\nAre the chews hypoallergenic?\", \"answer\": \"Yes, the chews are hypoallergenic.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 1294, 'name': 'VitaDreamz', 'slug': 'vitadreamz'}]
+## Tags
 5-HTP, anxiety, anxiety relief, CBD dosage, CBD-infused sleep aids, Chamomile Extract, chewable supplements, Customer Testimonials, Deep Sleep, FAQ, FDA standards, GABA, Hemp derived CBD, herbs, how to use, individual needs, induce relaxation, insomnia, Insomnia Relief, ISO-certified, L-Theanine, lab testing, Melatonin, microdose, Natural Ingredients, non-psychoactive, physician consultation, Premium ingredients, Prepare for the Best Sleep, Quality Assurance, relaxation, Safety Information, serene sleep, Sleep-Aid, stress, stress relief, suitable for adults, tension relief, THC-free., tranquil slumber, VitaDreamz SleepEZ Pillowz
-
-# Categories
-
+## Categories
 CBD Gummies
+## Lab Results
 
-# Lab Results

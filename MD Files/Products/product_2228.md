@@ -1,7 +1,5 @@
-# Product-ID: 2228
-
-# Description
-
+# Product ID: 2228
+## Description
 <h1>Paranoid x11 - THC Vape Pen with Alternative Isomers</h1>
 <p>Paranoid x11 takes THC vaping to a whole new level with its innovative design and alternative THC isomers. Experience the next generation of vaping with a 2.5-gram THC vape pen that offers a unique and potent experience. Get ready to elevate your vaping journey and immerse yourself in the world of alternative THC blends like THC-JD and THC-P.</p>
 <h2>Description</h2>
@@ -30,33 +28,20 @@
 <p>Q: Does Paranoid x11 have any psychoactive effects? A: Paranoid x11 contains THC and may have psychoactive effects. Use responsibly and in accordance with legal requirements.</p>
 <p>Q: Is Paranoid x11 suitable for beginners? A: Paranoid x11 is best enjoyed by those with experience in THC vaping. Start with small puffs and gradually adjust according to your tolerance and preference.</p>
 
-
-# Short Description
-
+## Short Description
 <p>Introducing Paranoid x11, the ultimate THC blend for a relaxed and anxiety-free experience. Say goodbye to stress and hello to a calm mind and body. Try it now and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"How long does a Paranoid x11 vape pen last?\", \"answer\": \"The duration of the vape pen\\ndepends on individual usage. The 2.5-gram capacity offers long-lasting\\nsessions.\"}, {\"question\": \"Are the alternative THC isomers in Paranoid x11 safe?\", \"answer\": \"Paranoid x11 is\\ncarefully crafted with quality ingredients. However, as with any THC product,\\nit is important to consume responsibly and in accordance with local laws and\\nregulations.\"}, {\"question\": \"Can I refill the Paranoid x11 vape pen?\", \"answer\": \"Paranoid x11 vape pens are\\ndesigned for one-time use only and cannot be refilled.\"}, {\"question\": \"Are lab results available for Paranoid x11?\", \"answer\": \"Yes, we prioritize\\ntransparency and provide lab results on our website to ensure the quality and\\nsafety of our products.\"}, {\"question\": \"Is Paranoid x11 available in different flavors?\", \"answer\": \"Paranoid x11 offers a\\nvariety of flavors based on the alternative THC isomers used. Each isomer\\nprovides a unique and delightful flavor experience.\"}, {\"question\": \"Can I travel with Paranoid x11?\", \"answer\": \"Travel regulations for THC products vary\\nby jurisdiction. Familiarize yourself with local laws and guidelines before\\ntraveling with Paranoid x11.\"}, {\"question\": \"Does Paranoid x11 have any psychoactive effects?\", \"answer\": \"Paranoid x11 contains\\nTHC and may have psychoactive effects. Use responsibly and in accordance with\\nlegal requirements.\"}, {\"question\": \"Is Paranoid x11 suitable for beginners?\", \"answer\": \"Paranoid x11 is best enjoyed by\\nthose with experience in THC vaping. Start with small puffs and gradually\\nadjust according to your tolerance and preference.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-Dozo
-
-# Tags
-
+## Brand Name
+[{'id': 1413, 'name': 'Dozo', 'slug': 'dozo'}]
+## Tags
 Alternative THC isomers, Cannabis, Discreet vaping, Elevation, Euphoria, Flavorful vapor, high-quality ingredients, Lab Tested, Legal regulations, Long-lasting sessions, Portable, Potent THC, Premium vaping experience, relaxation, Responsible usage, stress relief, THC enthusiasts, THC products, THC vape pen, Transparent lab results, unique flavors, Vaping
-
-# Categories
-
+## Categories
 Disposables, THC Disposables
+## Lab Results
 
-# Lab Results

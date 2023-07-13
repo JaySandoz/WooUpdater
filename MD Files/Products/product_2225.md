@@ -1,7 +1,5 @@
-# Product-ID: 2225
-
-# Description
-
+# Product ID: 2225
+## Description
 <h1>
  Secret Nature<br />
 </h1>
@@ -128,33 +126,20 @@ Full-spectrum CBD oil contains a broad range of beneficial compounds, including 
  </li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>&#8216;s premium CBD flower is the perfect way to unwind after a long day. Our hand-selected strains are organically grown and lab-tested for purity. Try it now and experience the natural benefits of CBD.</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

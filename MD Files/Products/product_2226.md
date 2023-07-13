@@ -1,7 +1,5 @@
-# Product-ID: 2226
-
-# Description
-
+# Product ID: 2226
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -48,33 +46,20 @@
 </div>
 </div>
 
-
-# Short Description
-
+## Short Description
 <p>a punch of natural flavor with our CBD and THC infused Redwood Reserves. Perfect for those looking for a relaxing and calming experience. Try it out today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What exactly is Redwood Reserves-Pack? _\", \"answer\": \"Redwood Reserves-Pack is a\\npremium, eco-friendly pack of CBD cigarettes._\"}, {\"question\": \"Is Redwood Reserves-Pack safe to use? _\", \"answer\": \"Yes, Redwood Reserves-Pack is\\na safe and effective way to reduce stress, anxiety, and pain. However, it's\\nimportant to use these CBD cigarettes in moderation._\"}, {\"question\": \"How much CBD and THC is in each CBD cigarette? _\", \"answer\": \"The exact amount of\\nCBD and THC in each cigarette can vary, but on average, each pre-roll contains\\napproximately 10mg of CBD and 0.3mg of THC._\"}, {\"question\": \"How is Redwood Reserves-Pack made? _\", \"answer\": \"Redwood Reserves-Pack is crafted\\nwith the highest quality organic, non-GMO hemp. Each pre-roll is filled with a\\ncarefully selected blend of cannabinoids for an optimal relaxation\\nexperience._\"}, {\"question\": \"Is Redwood Reserves-Pack lab-tested? _\", \"answer\": \"Yes, each CBD cigarette in the\\nRedwood Reserves-Pack undergoes testing for potency and purity by a third-\\nparty lab to ensure they meet the highest standards. Test results are\\navailable upon request._\"}, {\"question\": \"Is Redwood Reserves-Pack eco-friendly? _\", \"answer\": \"Yes, Redwood Reserves-Pack\\nis made with eco-friendly hemp flower, making it a sustainable alternative to\\ntraditional medicine._\"}, {\"question\": \"What are the benefits of using Redwood Reserves-Pack? _\", \"answer\": \"The Redwood\\nReserves-Pack offers a variety of benefits, including improved overall\\nwellness, a natural and sustainable alternative to traditional medicine, high-\\nquality organic ingredients, a carefully selected blend of cannabinoids, and\\nan optimal relaxation experience._\"}, {\"question\": \"Where is Redwood Reserves-Pack made? _\", \"answer\": \"Redwood Reserves-Pack is\\nproudly made in the USA._\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 1427, 'name': 'Redwoods Reserve', 'slug': 'redwoods-reserve'}]
+## Tags
 alternative medicine., anxiety, cannabinoids, CBD, eco-friendly, Hemp pre-rolls, High-Quality, Lab Tested, Natural alternative, non-GMO, organic hemp, Pack, pain relief, Redwood Reserves-Pack, Redwoods, relaxation, smoking alternative, stress relief, Sustainable, THC, wellness
-
-# Categories
-
+## Categories
 CBD Flowers, Flower
+## Lab Results
 
-# Lab Results

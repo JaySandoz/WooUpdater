@@ -1,7 +1,5 @@
-# Product-ID: 2404
-
-# Description
-
+# Product ID: 2404
+## Description
 <h1>TRĒ House - Premium Live Resin Delta 8 Vape Pen in Ice Cream Cake Flavor</h1>
 <p>Elevate your vaping experience with TRĒ House's Live Resin Delta 8 Vape Pen, captivatingly flavored as Ice Cream Cake. This exquisite vape pen is a fusion of high potency Delta 8 THC and the alluring flavor of the popular Ice Cream Cake cannabis strain, delivering a potent, delightful, and exhilarating experience. Handcrafted with top-tier ingredients, this high-potency vape pen caters to even the most sophisticated of vaping connoisseurs.</p>
 <p>TRĒ House's Live Resin Delta 8 Ice Cream Cake Vape Pen is a distinctive vaping delight, merging the exceptional flavor of Ice Cream Cake strain with potent Delta 8. With its rich, skunky taste and potent Delta 8 THC, this vape pen provides an unparalleled vaping experience that delights your senses while delivering a unique, euphoric buzz. With 2 grams of highly potent Delta 8 per vape pen, each puff ensures a robust and satisfying experience.</p>
@@ -28,32 +26,19 @@ A: Yes, Delta 8 THC is legal in all 50 states.<br />
 Q: How much Delta 8 THC is in the product?<br />
 A: Each vape pen contains 2 grams of highly potent Delta 8</p>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a cannabinoid derived from hemp. It provides a unique,\\neuphoric buzz that is different from Delta 9 THC.\"}, {\"question\": \"What are the effects of Delta 8 THC?\", \"answer\": \"Delta 8 THC is known for promoting relaxation, mood elevation, a body buzz,\\na head buzz, and a mildly trippy experience.\"}, {\"question\": \"Is Delta 8 THC legal?\", \"answer\": \"Yes, Delta 8 THC is legal in all 50 states.\"}, {\"question\": \"How much Delta 8 THC is in the product?\", \"answer\": \"Each vape pen contains 2 grams of highly potent Delta 8\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 Body Buzz, Cannabis Product, Delta 8, Delta 8 THC, Disposable Vape Pen, high potency, Ice Cream Cake Strain, Live Resin, Mildly Trippy, Mood Elevation, Rechargeable, relaxation, Terpene Blend, THC, TRĒ House, Vape Pen
-
-# Categories
-
+## Categories
 Disposables, THC Disposables
+## Lab Results
 
-# Lab Results

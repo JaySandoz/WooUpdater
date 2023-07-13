@@ -1,7 +1,5 @@
-# Product-ID: 1805
-
-# Description
-
+# Product ID: 1805
+## Description
 <h1>
  cbdMD Botanicals - moroccan Rose Moisture Mist<br />
 </h1>
@@ -92,33 +90,20 @@ To learn more about CBD and THC, their potential health benefits, and how they c
   CBD Oil: Uses, Health Benefits, and Risks<br />
  </a></p>
 
-
-# Short Description
-
+## Short Description
 <p>Looking for a refreshing way to hydrate your skin? Try cbdMD Botanicals Moroccan Rose Moisture Mist! Infused with CBD and natural ingredients, this mist will leave your skin feeling soft and rejuvenated. Order now and experience the benefits for yourself!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
+## Brand Name
+[]
+## Tags
 Facial Mist
-
-# Categories
-
+## Categories
 CBD Bath &amp; Body
+## Lab Results
 
-# Lab Results

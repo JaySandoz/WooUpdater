@@ -1,7 +1,5 @@
-# Product-ID: 2051
-
-# Description
-
+# Product ID: 2051
+## Description
 <h1>Paw CBD - Nose to Tose Balm</h1>
 <p>Are you looking for a natural way to help your furry friends? Paw CBD - Nose to Tose Balm is a unique CBD product specifically designed to keep your pet's skin healthy and moisturized. Our balm is made with organic ingredients and is infused with high-quality CBD to help soothe and heal your pet's skin.</p>
 <h2>Description</h2>
@@ -35,33 +33,20 @@ A: Yes, our balm is manufactured in an FDA-registered facility and is third-part
 Q: Where can I find the lab results for Paw CBD - Nose to Tose Balm?<br />
 A: Our lab results can be found here: [INSERT LINK TO LAB RESULTS].</p>
 
-
-# Short Description
-
+## Short Description
 <p>Keep your furry friend feeling their best with Paw CBD&#8217;s Nose to Tose Balm! Made with high-quality CBD and natural ingredients, this balm soothes and moisturizes dry noses and paws. Try it out today and give your pet the relief they deserve!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"Is Paw CBD - Nose to Tose Balm safe for pets?\", \"answer\": \"Yes, Paw CBD - Nose to Tose Balm is a safe and natural product that is\\nsuitable for all pets. However, it is important to consult with your\\nveterinarian before using any CBD product on your pet.\"}, {\"question\": \"How much balm should I use?\", \"answer\": \"We recommend using a small amount of balm and gently massaging it into the\\naffected area.\"}, {\"question\": \"How long does it take to see results?\", \"answer\": \"Our balm is fast-acting and absorbs quickly into the skin, providing your\\npet with immediate relief.\"}, {\"question\": \"Does Paw CBD - Nose to Tose Balm leave any residue on my pet's fur?\", \"answer\": \"No, our balm is non-greasy and won't leave any residue on your pet's fur.\"}, {\"question\": \"Is Paw CBD - Nose to Tose Balm third-party tested?\", \"answer\": \"Yes, our balm is manufactured in an FDA-registered facility and is third-\\nparty tested for quality and potency.\"}, {\"question\": \"Where can I find the lab results for Paw CBD - Nose to Tose Balm?\", \"answer\": \"Our lab results can be found here: [INSERT LINK TO LAB RESULTS].\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 975, 'name': 'PawCBD', 'slug': 'pawcbd'}]
+## Tags
 balm, dry paws, Essential Oils, holistic, inflammation, moisturizing, Natural Remedies, nose balm, organic, paw balm, paw care, PawCBD, pet care., Pet CBD, pet grooming, Pet Health, Pet Products, pet skincare, Pet Wellness, plant-based, sensitive paws, Soothing, therapeutic, Topical, wellness
-
-# Categories
-
+## Categories
 CBD For Pets
+## Lab Results
 
-# Lab Results

@@ -1,65 +1,27 @@
-# Product-ID: 2465
+# Product ID: 2465
+## Description
+<h1 style="text-align: center;">Ignite Your THC Adventure with Tre House Mango THC-P Gummies: Experience Tropical Bliss Today!</h1>
+<p>Immerse yourself in the ultimate THC indulgence with Tre House Mango THC-P Gummies. As an SEO marketing specialist, I am thrilled to introduce you to this extraordinary product that combines exceptional quality, delicious flavor, and the potent benefits of Delta 8 THC. Let's delve into the captivating world of our Mango THC-P Gummies and discover why they are a must-have for your THC journey.</p>
+<p>At Tre House, we believe in delivering products that embody excellence. Our Mango THC-P Gummies are meticulously crafted with the finest, all-natural ingredients, including organic mango puree, organic cane sugar, and natural flavoring. This thoughtful combination creates a tropical paradise in each bite, tantalizing your taste buds and transporting you to an oasis of flavor.</p>
+<p>Get ready to experience the power of cannabinoids with our Mango THC-P Gummies. Each gummy is infused with 20mg of Delta 8 THC, delivering a smooth and balanced high that induces a sense of relaxation and euphoria. But the goodness doesn't stop there. These gummies also feature HHC (Hexahydrocannabinol) and THC-P (Tetrahydrocannabiphorol), adding an extra layer of potency and benefits to enhance your THC journey.</p>
+<p>We understand the importance of catering to various dietary needs and preferences. That's why our Mango THC-P Gummies are vegan and gluten-free, ensuring they can be enjoyed by a wide range of individuals. We take pride in creating a product that is free from artificial flavors, colors, or preservatives. With every bite, you can savor the pure essence of our all-natural ingredients, without any unnecessary additives.</p>
+<p>Your safety and satisfaction are our top priorities. We subject all our products, including the Mango THC-P Gummies, to rigorous lab testing. These tests verify that our gummies contain no more than 0.3% Delta 9 THC, ensuring compliance with federal regulations. We value transparency and provide lab results on our website, allowing you to make informed choices and trust in the premium quality of our offerings.</p>
+<p>Tre House Mango THC-P Gummies offer a delectable and convenient way to elevate your THC experience. With their carefully infused 20mg of Delta 8 THC, these gummies provide a smooth and balanced high, leaving you feeling relaxed and euphoric. Whether you're seeking a moment of relaxation after a long day or a gentle boost to enhance your creative endeavors, these gummies deliver the desired effects in a delightful package.</p>
+<p>Don't miss out on the tropical delight that Tre House Mango THC-P Gummies have to offer. Indulge in the rich flavors, experience the potency of cannabinoids, and embark on a THC journey like no other. With our commitment to quality, flavor, and compliance, you can enjoy these gummies with confidence and peace of mind. Order your Tre House Mango THC-P Gummies today and savor the blissful experience that awaits you.</p>
 
-# Description
+## Short Description
 
-<h1>Tre House Mango THC-P Gummies</h1>
-<p>Welcome to Tre House, where quality meets flavor in our top-tier Delta 8 THC gummies. Our Mango THC-P Gummies are crafted with the finest ingredients, offering a potent fusion of Delta 8 THC, HHC, and THC-P. Each gummy is infused with 20mg of Delta 8 THC, delivering a smooth and balanced high, which induces a sense of relaxation and euphoria.</p>
-<p>Tre House Mango THC-P Gummies are a tantalizingly potent and tasty method of getting your daily dose of Delta 8 THC. Made with all-natural ingredients, including organic mango puree, organic cane sugar, and natural flavoring, our gummies offer a tropical escapade in each bite. With every gummy containing 20mg of Delta 8 THC, the result is a smooth and balanced high that leaves you feeling relaxed and euphoric. Our Mango THC-P Gummies are vegan, gluten-free, and free of artificial flavors, colors, or preservatives. We source our Delta 8 THC from the best suppliers in the industry and lab-test all our products independently to ensure premium quality and safety. Each gummy is ensured to contain no more than 0.3% Delta 9 THC, making them compliant with federal regulations.</p>
-<h2>Ingredients</h2>
-<p>Each Mango THC-P Gummy contains all-natural ingredients, including organic mango puree, organic cane sugar, and natural flavoring. Every gummy is packed with 20mg of Delta 8 THC, 10mg of HHC, 2mg of THC-P, and 3mg of full-spectrum CBD, offering a balanced high that promotes relaxation and euphoria.</p>
-<p>How to Use</p>
-<p>Tre House Mango THC-P Gummies offer a convenient method to get your daily dose of Delta 8 THC. We suggest starting with 1 gummy to evaluate your tolerance. For optimal results, take 1-2 gummies as needed, with a maximum limit of 10 gummies per day. As with all THC products, it is crucial to start with a low dose and gradually increase as needed.</p>
-<p>Lab Results, Certifications, and Quality Assurance</p>
-<p>At Tre House, we prioritize quality and safety. All our products are lab-tested to ensure they contain no more than 0.3% Delta 9 THC, making them compliant with federal regulations. We also provide lab results for all our products on our website for complete transparency.</p>
-<h2>Benefits</h2>
-<p>Tre House Mango THC-P Gummies offer a delicious and convenient way to get your daily dose of Delta 8 THC. Made with all-natural ingredients, our gummies induce a smooth and balanced high, leaving you feeling relaxed and euphoric. They are vegan, gluten-free, and free of artificial flavors, colors, or preservatives.</p>
-<p>Safety Information</p>
-<p>As with all THC products, it is important to start with a low dose and gradually increase as needed. Do not consume more than 10 gummies per day. Avoid use if pregnant or breastfeeding. Do not drive or operate heavy machinery after consumption.</p>
-<h2>Customer Testimonials</h2>
-<p>"I am absolutely in love with Tre House Mango THC-P Gummies! They taste fantastic and the effects are so smooth. I usually have one or two gummies when I need a little pick-me-up, and I always feel relaxed and euphoric afterward. Highly recommend!" -John S.<br />
-"I've been using Tre House Mango THC-P Gummies for a few weeks now and I'm genuinely impressed. They taste great and the effects are truly balanced. I take them at night to help me relax and get a good night's sleep. Highly recommend!" -Linda L.</p>
-<h2>Frequently Asked Questions</h2>
-<p>Q: What is Delta 8 THC?<br />
-A: Delta 8 THC is a cannabinoid found in hemp plants that is similar to Delta 9 THC, but with different effects. Delta 8 THC provides a smooth and balanced high that is less intense than Delta 9 THC.<br />
-Q: How much Delta 8 THC is in each gummy?<br />
-A: Each gummy contains 10mg of Delta 8 THC.<br />
-Q: Is this product compliant with federal regulations?<br />
-A: Yes, our products are lab-tested to ensure they contain no more than 0.3% Delta 9 THC, making them compliant with federal regulations.<br />
-Q: Is this product vegan?<br />
-A: Yes, our THC-P Gummies - Mango are vegan, gluten-free, and contain no artificial flavors, colors, or preservatives.<br />
-Q: How many gummies should I take?<br />
-A: We recommend starting with 1-2 gummies to assess your tolerance. For best results, take 1-2 gummies as needed, up to a maximum of 10 gummies per day.<br />
-Q: Are there any side effects?<br />
-A: As with all THC products, it is important to start with a low dose and increase gradually as needed. Do not take more than 10 gummies per day. Do not take if pregnant or breastfeeding. Do not drive or operate heavy machinery after taking this product.<br />
-Q: Where can I find lab results?<br />
-A: We provide lab results for all of our products on our website for complete transparency.</p>
+## FAQ
+"[\r\n  {\r\n    \"question\": \"What is the recommended dosage for Tre House Mango THC-P Gummies?\",\r\n    \"answer\": \"We recommend starting with 1 gummy to assess your tolerance. For optimal results, take 1-2 gummies as needed, with a maximum limit of 10 gummies per day.\"\r\n  },\r\n  {\r\n    \"question\": \"Are Tre House Mango THC-P Gummies suitable for vegans?\",\r\n    \"answer\": \"Yes, our gummies are vegan-friendly and made with all-natural ingredients.\"\r\n  },\r\n  {\r\n    \"question\": \"Do Tre House Mango THC-P Gummies contain gluten?\",\r\n    \"answer\": \"No, our gummies are gluten-free, catering to individuals with gluten sensitivities.\"\r\n  },\r\n  {\r\n    \"question\": \"Are there any artificial additives in Tre House Mango THC-P Gummies?\",\r\n    \"answer\": \"No, our gummies are free of artificial flavors, colors, or preservatives.\"\r\n  },\r\n  {\r\n    \"question\": \"Can I consume Tre House Mango THC-P Gummies if I'm pregnant or breastfeeding?\",\r\n    \"answer\": \"We recommend consulting with your healthcare provider before consuming any THC products if you are pregnant or breastfeeding.\"\r\n  },\r\n  {\r\n    \"question\": \"How long does it take for the effects of Tre House Mango THC-P Gummies to kick in?\",\r\n    \"answer\": \"The onset time may vary, but typically you can expect to start feeling the effects within 30 minutes to an hour after consumption.\"\r\n  },\r\n  {\r\n    \"question\": \"Are there any potential side effects of consuming Tre House Mango THC-P Gummies?\",\r\n    \"answer\": \"As with any THC product, potential side effects may include dry mouth, increased heart rate, drowsiness, or changes in mood. It's important to start with a low dosage and monitor your body's response.\"\r\n  },\r\n  {\r\n    \"question\": \"Are Tre House Mango THC-P Gummies legal?\",\r\n    \"answer\": \"Our gummies contain Delta 8 THC, which is legal at the federal level. However, THC laws may vary by state, so it's important to familiarize yourself with the regulations in your specific location.\"\r\n  },\r\n  {\r\n    \"question\": \"Do Tre House Mango THC-P Gummies undergo testing for quality and potency?\",\r\n    \"answer\": \"Yes, we conduct rigorous lab testing to ensure the quality, potency, and compliance of our products with federal regulations.\"\r\n  },\r\n  {\r\n    \"question\": \"Can I drive or operate machinery after consuming Tre House Mango THC-P Gummies?\",\r\n    \"answer\": \"No, it is advised not to drive or operate heavy machinery after consuming these gummies, as they can impair your coordination and reaction time.\"\r\n  }\r\n]\r\n"
+## Benefits
 
+## Ingredients
 
-# Short Description
-
-
-
-# FAQ
-"[{\"question\": \"What is Delta 8 THC?\", \"answer\": \"Delta 8 THC is a cannabinoid found in hemp plants that is similar to Delta\\n9 THC, but with different effects. Delta 8 THC provides a smooth and balanced\\nhigh that is less intense than Delta 9 THC.\"}, {\"question\": \"How much Delta 8 THC is in each gummy?\", \"answer\": \"Each gummy contains 10mg of Delta 8 THC.\"}, {\"question\": \"Is this product compliant with federal regulations?\", \"answer\": \"Yes, our products are lab-tested to ensure they contain no more than 0.3%\\nDelta 9 THC, making them compliant with federal regulations.\"}, {\"question\": \"Is this product vegan?\", \"answer\": \"Yes, our THC-P Gummies - Mango are vegan, gluten-free, and contain no\\nartificial flavors, colors, or preservatives.\"}, {\"question\": \"How many gummies should I take?\", \"answer\": \"We recommend starting with 1-2 gummies to assess your tolerance. For best\\nresults, take 1-2 gummies as needed, up to a maximum of 10 gummies per day.\"}, {\"question\": \"Are there any side effects?\", \"answer\": \"As with all THC products, it is important to start with a low dose and\\nincrease gradually as needed. Do not take more than 10 gummies per day. Do not\\ntake if pregnant or breastfeeding. Do not drive or operate heavy machinery\\nafter taking this product.\"}, {\"question\": \"Where can I find lab results?\", \"answer\": \"We provide lab results for all of our products on our website for complete\\ntransparency.\"}]"
-
-# Benefits
-
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 alternative to smoking, cannabinoid-infused gummies, cannabis edibles, cannabis gummies, cannabis indulgence, cannabis treats, cannabis wellness, Delta 8 gummies, Delta 8 THC, discreet consumption, edible cannabis products, euphoric effects, gluten-free gummies, hemp extracts, hemp products, hemp-derived gummies, HHC, lab-tested gummies, Mango THC-P Gummies, mango-flavored gummies, natural gummies, organic ingredients, premium gummies., recreational cannabis, relaxation aids, relaxation products, THC experience, THC-P, THC-P gummies, TRĒ House, vegan-friendly gummies
-
-# Categories
-
+## Categories
 THC Gummies
+## Lab Results
 
-# Lab Results

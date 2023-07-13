@@ -1,35 +1,20 @@
-# Product-ID: 2231
+# Product ID: 2231
+## Description
 
-# Description
-
-
-
-# Short Description
-
+## Short Description
 <p>Looking for a natural way to relieve stress and anxiety? Our CBD and THC tincture is the perfect solution! Made with high-quality ingredients, it&#8217;s easy to use and effective. Try it today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

@@ -1,35 +1,20 @@
-# Product-ID: 2230
+# Product ID: 2230
+## Description
 
-# Description
-
-
-
-# Short Description
-
+## Short Description
 <p>CBD oil is the perfect way to unwind after a long day. Our THC-free formula is made with all-natural ingredients and is perfect for anyone looking to relax and destress. Try it today and feel the difference!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

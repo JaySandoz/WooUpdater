@@ -1,35 +1,20 @@
-# Product-ID: 2236
+# Product ID: 2236
+## Description
 
-# Description
-
-
-
-# Short Description
-
+## Short Description
 <p>The Imini is the perfect pocket-sized vaporizer for on-the-go CBD and THC consumption. With its sleek design and easy-to-use interface, you can enjoy your favorite oils and concentrates anytime, anywhere. Don&#8217;t miss out on this must-have accessory for any cannabis enthusiast. Get your Imini today!</p>
 
-
-# FAQ
+## FAQ
 ""
+## Benefits
 
-# Benefits
+## Ingredients
 
+## Brand Name
+[]
+## Tags
 
-
-# Ingredients
-
-
-
-# Brands
-
-N/A
-
-# Tags
-
-
-
-# Categories
-
+## Categories
 Uncategorized
+## Lab Results
 
-# Lab Results

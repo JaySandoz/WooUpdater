@@ -1,7 +1,5 @@
-# Product-ID: 2455
-
-# Description
-
+# Product ID: 2455
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -30,32 +28,19 @@
 </div>
 </div>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is Tre House's Live Resin THC-P - White Widow disposable vape pen?\", \"answer\": \"Tre House's Live Resin THC-P - White Widow disposable vape pen is a\\ncutting-edge THC product that combines Delta 8 THC and THC-P to deliver an\\nunrivaled experience.\"}, {\"question\": \"What is the dosage of Delta 8 THC and THC-P in the product?\", \"answer\": \"Tre\\nHouse's Live Resin THC-P - White Widow disposable vape pen contains 2 grams of\\nDelta 8 THC and THC-P.\"}, {\"question\": \"Is this product easy to use?\", \"answer\": \"Yes, Tre House's Live Resin THC-P -\\nWhite Widow disposable vape pen is designed for convenience and ease of use.\\nSimply remove the cap and indulge in the extraordinary journey.\"}, {\"question\": \"Is this product safe to use?\", \"answer\": \"Yes, Tre House's Live Resin THC-P -\\nWhite Widow disposable vape pen is created with safety in mind. However, it\\nshould be used responsibly and in accordance with local laws and regulations.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-None
-
-# Tags
-
+## Brand Name
+[{'id': 895, 'name': 'TreHouse', 'slug': 'trehouse'}]
+## Tags
 2 grams of Delta 8 THC and THC-P, Cannabinoid blend, Consistent dosage, Customer Testimonials, Cutting-edge technology, Delta 8 THC, Disposable Vape Pen, Distinctive blend, Easy-to-Use., Intense effects, Lab results, Lab Tested, Live Resin THC-P, Potency and purity, Pre-charged and pre-loaded, Premium ingredients, Quality Assurance, Reliable dosage, Reliable experience, responsible use, Seamless vaping, smooth and satisfying, Superior quality, THC consumption, THC enthusiasts, THC-P, Ultimate THC experience, Unique benefits, Vaping convenience, Vaping session, White Widow
-
-# Categories
-
+## Categories
 Disposables, THC Disposables
+## Lab Results
 
-# Lab Results

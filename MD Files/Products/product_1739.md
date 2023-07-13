@@ -1,7 +1,5 @@
-# Product-ID: 1739
-
-# Description
-
+# Product ID: 1739
+## Description
 <h1>cbdMD - Sleep PM CBD Oil</h1>
 <p>Are you having trouble sleeping? Do you need a natural sleep aid that helps you relax and drift off into a peaceful slumber? cbdMD's Sleep PM CBD Oil is a premium, full-spectrum CBD oil with melatonin and lavender that helps you relax and get a restful night's sleep. This natural, non-psychoactive, gluten-free, and vegan-friendly sleep aid is third-party tested for quality and potency, so you can be sure you're getting the best product available.</p>
 <h2>Description</h2>
@@ -54,33 +52,20 @@ CBD and Sleep: What You Need to Know<br />
 </a></li>
 </ul>
 
-
-# Short Description
-
+## Short Description
 <p>Get the best sleep of your life with cbdMD&#8217;s Sleep PM CBD Oil! Our expertly crafted formula combines the power of CBD and melatonin to help you drift off into dreamland. Say goodbye to restless nights and hello to sweet dreams. Try it now!</p>
 
-
-# FAQ
+## FAQ
 "[{\"question\": \"What is cbdMD's Sleep PM CBD Oil?\", \"answer\": \"cbdMD's Sleep PM CBD Oil is a premium, full-spectrum CBD oil with melatonin\\nand lavender that helps you relax and get a restful night's sleep.\"}, {\"question\": \"Is cbdMD's Sleep PM CBD Oil non-psychoactive?\", \"answer\": \"Yes, cbdMD's Sleep PM CBD Oil is non-psychoactive.\"}, {\"question\": \"How much CBD is in cbdMD's Sleep PM CBD Oil?\", \"answer\": \"Each bottle of cbdMD's Sleep PM CBD Oil contains 500mg of CBD.\"}, {\"question\": \"Is cbdMD's Sleep PM CBD Oil vegan-friendly?\", \"answer\": \"Yes, cbdMD's Sleep PM CBD Oil is vegan-friendly.\"}, {\"question\": \"How do I use cbdMD's Sleep PM CBD Oil?\", \"answer\": \"Simply shake the bottle and take one full dropper (1ml) of oil, up to two\\ntimes daily. Place the oil under your tongue and hold for 30-60 seconds before\\nswallowing. For best results, use this oil before bed.\"}, {\"question\": \"Is cbdMD's Sleep PM CBD Oil third-party tested?\", \"answer\": \"Yes, cbdMD's Sleep PM CBD Oil is third-party tested for quality and\\npotency. The results are available on the cbdMD website.\"}, {\"question\": \"Is cbdMD's Sleep PM CBD Oil certified organic?\", \"answer\": \"Yes, cbdMD's Sleep PM CBD Oil is certified organic.\"}]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 CBD, cbdMD, hemp extract, Herbal Supplement, Insomnia Relief, Melatonin, natural, Nighttime Use, non-psychoactive, pain relief, relaxation, Sleep Support, Sleep-Aid, stress relief, wellness
-
-# Categories
-
+## Categories
 CBD Oil
+## Lab Results
 
-# Lab Results
