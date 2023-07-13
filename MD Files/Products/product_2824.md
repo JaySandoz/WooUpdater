@@ -1,7 +1,5 @@
-# Product-ID: 2824
-
-# Description
-
+# Product ID: 2824
+## Description
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex items-start overflow-x-auto whitespace-pre-wrap break-words flex-col gap-4">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -27,32 +25,19 @@
 </div>
 </div>
 
+## Short Description
 
-# Short Description
-
-
-
-# FAQ
+## FAQ
 "[\r\n{\r\n\"question\": \"Is cbdMD Max effective for long-term use?\",\r\n\"answer\": \"Yes, cbdMD Max Pain Relief Tablets are formulated specifically for long-term use. Taking one tablet a day can help maintain long-term wellness and pain relief without the inconsistent effects of short-term treatments.\"\r\n},\r\n{\r\n\"question\": \"Can I use cbdMD Max daily?\",\r\n\"answer\": \"Absolutely! We encourage daily use of cbdMD Max. Generally, it takes a few days of consistent use to begin experiencing the effects, and ongoing usage aids in maintaining its effectiveness.\"\r\n},\r\n{\r\n\"question\": \"Can I combine cbdMD Max with other CBD products?\",\r\n\"answer\": \"Yes, cbdMD Max can be used in conjunction with other CBD products. Each serving of cbdMD Max contains 200 mg of CBD, a suitable daily dose for most people. However, you can add other CBD products if you wish, such as topical CBD applications that target joint pain, and other CBD products for specific uses like calming and sleep.\"\r\n},\r\n{\r\n\"question\": \"Is full-spectrum CBD better for daily pain?\",\r\n\"answer\": \"Research is still ongoing concerning the benefits of CBD and other cannabinoids. However, many people find that the additional THC in full-spectrum products enhances their relief compared to CBD alone. Thanks to the 'Entourage Effect,' the effectiveness of CBD and THC can be boosted when combined. It\u2019s important to note that individual responses can vary, so we encourage you to try it and see how it works for you.\"\r\n},\r\n{\r\n\"question\": \"Are there any side effects or precautions?\",\r\n\"answer\": \"Our Max Pain Relief Tablets are generally well-tolerated and safe for use. However, they may cause drowsiness, and should not be combined with alcohol or medication. We recommend not driving or operating heavy machinery after consumption. As with any supplement, if you are pregnant, nursing, have a serious medical condition, or have a history of heart conditions, we suggest consulting with a physician before using. Always start with the suggested use on the package and adjust dosage as needed.\"\r\n},\r\n{\r\n\"question\": \"Where can I view the third-party lab results?\",\r\n\"answer\": \"You can access all our third-party lab results here. We believe in transparency and make sure all our products are tested for safety and quality.\"\r\n}\r\n]"
+## Benefits
 
-# Benefits
+## Ingredients
 
-
-
-# Ingredients
-
-
-
-# Brands
-
-cbdMD
-
-# Tags
-
+## Brand Name
+[{'id': 1207, 'name': 'cbdMD', 'slug': 'cbdmd'}]
+## Tags
 CBD, cbdMD, Full-Spectrum Hemp Extract, Joint Discomfort, Long-term Wellness, Max Pain Relief Tablets, muscle soreness, Natural Pain Management, pain relief, Univestin
-
-# Categories
-
+## Categories
 CBD Capsules
+## Lab Results
 
-# Lab Results
